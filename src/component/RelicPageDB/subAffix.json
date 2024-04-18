@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "name": "HP"
+    },
+    {
+        "id": "2",
+        "name": "Tấn Công"
+    },
+    {
+        "id": "3",
+        "name": "Phòng Ngự"
+    },
+    {
+        "id": "4",
+        "name": "HP %"
+    },
+    {
+        "id": "5",
+        "name": "Tấn Công %"
+    },
+    {
+        "id": "6",
+        "name": "Phòng Ngự %"
+    },
+    {
+        "id": "7",
+        "name": "Tốc Độ"
+    },
+    {
+        "id": "8",
+        "name": "Tỷ Lệ Bạo Kích"
+    },
+    {
+        "id": "9",
+        "name": "ST Bạo Kích"
+    },
+    {
+        "id": "10",
+        "name": "Chính Xác Hiệu Ứng"
+    },
+    {
+        "id": "11",
+        "name": "Kháng Hiệu Ứng"
+    },
+    {
+        "id": "12",
+        "name": "Tấn Công Kích Phá"
+    }
+]

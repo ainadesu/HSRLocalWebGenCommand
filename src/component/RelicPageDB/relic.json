@@ -1,0 +1,602 @@
+[
+        {
+            "value": "61011",
+            "type": "Nón",
+            "label": "Chiếc Trâm Của Lãng Khách",
+            "group": "Lãng Khách Âm Thầm"
+        },
+        {
+            "value": "61012",
+            "type": "Tay",
+            "label": "Giáp Tay Rồng Của Lãng Khách",
+            "group": "Lãng Khách Âm Thầm"
+        },
+        {
+            "value": "61013",
+            "type": "Áo",
+            "label": "Áo Khoác Rách Của Lãng Khách",
+            "group": "Lãng Khách Âm Thầm"
+        },
+        {
+            "value": "61014",
+            "type": "Giày",
+            "label": "Đôi Giày Ảm Đạm Của Lãng Khách",
+            "group": "Lãng Khách Âm Thầm"
+        },
+        {
+            "value": "61021",
+            "type": "Nón",
+            "label": "Mũ Bông Lúa Của Thiện Xạ",
+            "group": "Thiện Xạ Bông Lúa"
+        },
+        {
+            "value": "61022",
+            "type": "Tay",
+            "label": "Găng Tay Da Thô Của Thiện Xạ",
+            "group": "Thiện Xạ Bông Lúa"
+        },
+        {
+            "value": "61023",
+            "type": "Áo",
+            "label": "Áo Choàng Săn Gió Của Thiện Xạ",
+            "group": "Thiện Xạ Bông Lúa"
+        },
+        {
+            "value": "61024",
+            "type": "Giày",
+            "label": "Giày Bốt Đinh Tán Của Thiện Xạ",
+            "group": "Thiện Xạ Bông Lúa"
+        },
+        {
+            "value": "61031",
+            "type": "Nón",
+            "label": "Mũ Khoan Dung Thánh Kỵ Sĩ",
+            "group": "Thánh Kỵ Sĩ Giáo Hoàng Tịnh Đình"
+        },
+        {
+            "value": "61032",
+            "type": "Tay",
+            "label": "Nhẫn Thề Nguyền Thánh Kỵ Sĩ",
+            "group": "Thánh Kỵ Sĩ Giáo Hoàng Tịnh Đình"
+        },
+        {
+            "value": "61033",
+            "type": "Áo",
+            "label": "Giáp Trang Nghiêm Thánh Kỵ Sĩ",
+            "group": "Thánh Kỵ Sĩ Giáo Hoàng Tịnh Đình"
+        },
+        {
+            "value": "61034",
+            "type": "Giày",
+            "label": "Giày Sắt Thánh Kỵ Sĩ",
+            "group": "Thánh Kỵ Sĩ Giáo Hoàng Tịnh Đình"
+        },
+        {
+            "value": "61041",
+            "type": "Nón",
+            "label": "Mũ Artaius Thợ Săn",
+            "group": "Thợ Săn Tuyết Phủ"
+        },
+        {
+            "value": "61042",
+            "type": "Tay",
+            "label": "Găng Tay Thằn Lằn Của Thợ Săn",
+            "group": "Thợ Săn Tuyết Phủ"
+        },
+        {
+            "value": "61043",
+            "type": "Áo",
+            "label": "Áo Choàng Rồng Băng Của Thợ Săn",
+            "group": "Thợ Săn Tuyết Phủ"
+        },
+        {
+            "value": "61044",
+            "type": "Giày",
+            "label": "Ủng Phủ Da Nai Của Thợ Săn",
+            "group": "Thợ Săn Tuyết Phủ"
+        },
+        {
+            "value": "61051",
+            "type": "Nón",
+            "label": "Mũ Bảo Hộ Của Quyền Vương",
+            "group": "Quyền Vương Đường Phố"
+        },
+        {
+            "value": "61052",
+            "type": "Tay",
+            "label": "Găng Tay Pháo Của Quyền Vương",
+            "group": "Quyền Vương Đường Phố"
+        },
+        {
+            "value": "61053",
+            "type": "Áo",
+            "label": "Bảo Hộ Ngực Của Quyền Vương",
+            "group": "Quyền Vương Đường Phố"
+        },
+        {
+            "value": "61054",
+            "type": "Giày",
+            "label": "Giày Bước Nhảy Của Quyền Vương",
+            "group": "Quyền Vương Đường Phố"
+        },
+        {
+            "value": "61061",
+            "type": "Nón",
+            "label": "Mũ Giáp Gang Của Thiết Vệ",
+            "group": "Thiết Vệ Bão Tuyết"
+        },
+        {
+            "value": "61062",
+            "type": "Tay",
+            "label": "Giáp Tay Vảy Bạc Của Thiết Vệ",
+            "group": "Thiết Vệ Bão Tuyết"
+        },
+        {
+            "value": "61063",
+            "type": "Áo",
+            "label": "Quân Phục Cũ Của Thiết Vệ",
+            "group": "Thiết Vệ Bão Tuyết"
+        },
+        {
+            "value": "61064",
+            "type": "Giày",
+            "label": "Giáp Chân Bạc Của Thiết Vệ",
+            "group": "Thiết Vệ Bão Tuyết"
+        },
+        {
+            "value": "61071",
+            "type": "Nón",
+            "label": "Kính Đen Của Thợ Rèn Lửa",
+            "group": "Thợ Rèn Lửa Dung Nham"
+        },
+        {
+            "value": "61072",
+            "type": "Tay",
+            "label": "Nhẫn Bắt Lửa Của Thợ Rèn Lửa",
+            "group": "Thợ Rèn Lửa Dung Nham"
+        },
+        {
+            "value": "61073",
+            "type": "Áo",
+            "label": "Tạp Dề Chống Cháy Của Thợ Rèn Lửa",
+            "group": "Thợ Rèn Lửa Dung Nham"
+        },
+        {
+            "value": "61074",
+            "type": "Giày",
+            "label": "Chân Hợp Kim Của Thợ Rèn Lửa",
+            "group": "Thợ Rèn Lửa Dung Nham"
+        },
+        {
+            "value": "61081",
+            "type": "Nón",
+            "label": "Cảm Biến Từ Xa Của Thiên Tài",
+            "group": "Thiên Tài Xuất Chúng"
+        },
+        {
+            "value": "61082",
+            "type": "Tay",
+            "label": "Tay Bắt Biến Tần Của Thiên Tài",
+            "group": "Thiên Tài Xuất Chúng"
+        },
+        {
+            "value": "61083",
+            "type": "Áo",
+            "label": "Xâm Nhập Trường Siêu Dữ Liệu Thiên Tài",
+            "group": "Thiên Tài Xuất Chúng"
+        },
+        {
+            "value": "61084",
+            "type": "Giày",
+            "label": "Bước Đi Lực Hút Của Thiên Tài",
+            "group": "Thiên Tài Xuất Chúng"
+        },
+        {
+            "value": "61091",
+            "type": "Nón",
+            "label": "Kính Mát Phân Cực Của Ban Nhạc",
+            "group": "Ban Nhạc Sizzling Thunder"
+        },
+        {
+            "value": "61092",
+            "type": "Tay",
+            "label": "Vòng Tay Lưu Diễn Của Ban Nhạc",
+            "group": "Ban Nhạc Sizzling Thunder"
+        },
+        {
+            "value": "61093",
+            "type": "Áo",
+            "label": "Chiếc Áo Da Của Ban Nhạc",
+            "group": "Ban Nhạc Sizzling Thunder"
+        },
+        {
+            "value": "61094",
+            "type": "Giày",
+            "label": "Bốt Gắn Đinh Của Ban Nhạc",
+            "group": "Ban Nhạc Sizzling Thunder"
+        },
+        {
+            "value": "61101",
+            "type": "Nón",
+            "label": "Mũ Sắt Mỏ Ưng",
+            "group": "Chim Ưng Ranh Giới Ngày Đêm"
+        },
+        {
+            "value": "61102",
+            "type": "Tay",
+            "label": "Nhẫn Ưng Kích",
+            "group": "Chim Ưng Ranh Giới Ngày Đêm"
+        },
+        {
+            "value": "61103",
+            "type": "Áo",
+            "label": "Dây Cương Chim Ưng",
+            "group": "Chim Ưng Ranh Giới Ngày Đêm"
+        },
+        {
+            "value": "61104",
+            "type": "Giày",
+            "label": "Băng Nhung Chim Ưng",
+            "group": "Chim Ưng Ranh Giới Ngày Đêm"
+        },
+        {
+            "value": "61111",
+            "type": "Nón",
+            "label": "Mặt Nạ Ngàn Người Của Kẻ Trộm",
+            "group": "Kẻ Cướp Vệt Sao Băng"
+        },
+        {
+            "value": "61112",
+            "type": "Tay",
+            "label": "Găng Tay Hoa Văn Của Kẻ Trộm",
+            "group": "Kẻ Cướp Vệt Sao Băng"
+        },
+        {
+            "value": "61113",
+            "type": "Áo",
+            "label": "Móc Neo Sắt Của Kẻ Trộm",
+            "group": "Kẻ Cướp Vệt Sao Băng"
+        },
+        {
+            "value": "61114",
+            "type": "Giày",
+            "label": "Ủng Sao Băng Của Kẻ Trộm",
+            "group": "Kẻ Cướp Vệt Sao Băng"
+        },
+        {
+            "value": "61121",
+            "type": "Nón",
+            "label": "Mặt Nạ Thở Của Kẻ Hoang Dã",
+            "group": "Kẻ Hoang Dã Sa Mạc"
+        },
+        {
+            "value": "61122",
+            "type": "Tay",
+            "label": "Thiết Bị Hoang Mạc Của Kẻ Hoang Dã",
+            "group": "Kẻ Hoang Dã Sa Mạc"
+        },
+        {
+            "value": "61123",
+            "type": "Áo",
+            "label": "Áo Tu Sĩ Của Kẻ Hoang Dã",
+            "group": "Kẻ Hoang Dã Sa Mạc"
+        },
+        {
+            "value": "61124",
+            "type": "Giày",
+            "label": "Giáp Chân Động Lực Của Kẻ Hoang Dã",
+            "group": "Kẻ Hoang Dã Sa Mạc"
+        },
+        {
+            "value": "61131",
+            "type": "Nón",
+            "label": "Mắt Giả Phục Minh Của Môn Đồ",
+            "group": "Môn Đồ Trường Thọ"
+        },
+        {
+            "value": "61132",
+            "type": "Tay",
+            "label": "Tay Robot Của Môn Đồ",
+            "group": "Môn Đồ Trường Thọ"
+        },
+        {
+            "value": "61133",
+            "type": "Áo",
+            "label": "Áo Lông Vũ Thừa Lộ Của Môn Đồ",
+            "group": "Môn Đồ Trường Thọ"
+        },
+        {
+            "value": "61134",
+            "type": "Giày",
+            "label": "Giày Lụa Thiên Nhân Của Môn Đồ",
+            "group": "Môn Đồ Trường Thọ"
+        },
+        {
+            "value": "61141",
+            "type": "Nón",
+            "label": "Kính Thông Tin Của Tín Sứ",
+            "group": "Tín Sứ Du Ngoạn Không Gian Hacker"
+        },
+        {
+            "value": "61142",
+            "type": "Tay",
+            "label": "Cánh Tay Biến Hóa Của Tín Sứ",
+            "group": "Tín Sứ Du Ngoạn Không Gian Hacker"
+        },
+        {
+            "value": "61143",
+            "type": "Áo",
+            "label": "Túi Mật Thư Của Tín Sứ",
+            "group": "Tín Sứ Du Ngoạn Không Gian Hacker"
+        },
+        {
+            "value": "61144",
+            "type": "Giày",
+            "label": "Giày Thể Thao Cực Ngầu Của Tín Sứ",
+            "group": "Tín Sứ Du Ngoạn Không Gian Hacker"
+        },
+        {
+            "value": "61151",
+            "type": "Nón",
+            "label": "Vương Miện Địa Ngục Đại Công Tước",
+            "group": "Đại Công Tước Tro Tàn"
+        },
+        {
+            "value": "61152",
+            "type": "Tay",
+            "label": "Bao Tay Lửa Nhung Đại Công Tước",
+            "group": "Đại Công Tước Tro Tàn"
+        },
+        {
+            "value": "61153",
+            "type": "Áo",
+            "label": "Áo Choàng Ân Sủng Đại Công Tước",
+            "group": "Đại Công Tước Tro Tàn"
+        },
+        {
+            "value": "61154",
+            "type": "Giày",
+            "label": "Giày Bốt Thanh Lịch Đại Công Tước",
+            "group": "Đại Công Tước Tro Tàn"
+        },
+        {
+            "value": "61161",
+            "type": "Nón",
+            "label": "Lồng Chụp Miệng Tù Nhân",
+            "group": "Tù Nhân Ngục Tối"
+        },
+        {
+            "value": "61162",
+            "type": "Tay",
+            "label": "Cùm Đá Tù Nhân",
+            "group": "Tù Nhân Ngục Tối"
+        },
+        {
+            "value": "61163",
+            "type": "Áo",
+            "label": "Dây Trói Tù Nhân",
+            "group": "Tù Nhân Ngục Tối"
+        },
+        {
+            "value": "61164",
+            "type": "Giày",
+            "label": "Gông Cùm Tù Nhân",
+            "group": "Tù Nhân Ngục Tối"
+        },
+        {
+            "value": "61171",
+            "type": "Nón",
+            "label": "Vỏ Cách Nhiệt Tiên Phong",
+            "group": "Tiên Phong Trong Nước Chết"
+        },
+        {
+            "value": "61172",
+            "type": "Tay",
+            "label": "La Bàn Hư Không Tiên Phong",
+            "group": "Tiên Phong Trong Nước Chết"
+        },
+        {
+            "value": "61173",
+            "type": "Áo",
+            "label": "Áo Chì Bọc Kín Tiên Phong",
+            "group": "Tiên Phong Trong Nước Chết"
+        },
+        {
+            "value": "61174",
+            "type": "Giày",
+            "label": "Mỏ Neo Du Hành Tiên Phong",
+            "group": "Tiên Phong Trong Nước Chết"
+        },
+        {
+            "value": "61181",
+            "type": "Nón",
+            "label": "Thấu Kính Của Thợ Đồng Hồ",
+            "group": "Thợ Đồng Hồ, Bậc Thầy Máy Móc"
+        },
+        {
+            "value": "61182",
+            "type": "Tay",
+            "label": "Đồng Hồ May Mắn Thợ Đồng Hồ",
+            "group": "Thợ Đồng Hồ, Bậc Thầy Máy Móc"
+        },
+        {
+            "value": "61183",
+            "type": "Áo",
+            "label": "Lễ Phục Hư Ảo Thợ Đồng Hồ",
+            "group": "Thợ Đồng Hồ, Bậc Thầy Máy Móc"
+        },
+        {
+            "value": "61184",
+            "type": "Giày",
+            "label": "Giày Da Giấu Mộng Thợ Đồng Hồ",
+            "group": "Thợ Đồng Hồ, Bậc Thầy Máy Móc"
+        },
+        {
+            "value": "63015",
+            "type": "Cầu",
+            "label": "Điểm Trạm Không Gian Herta",
+            "group": "Trạm Phong Ấn Không Gian"
+        },
+        {
+            "value": "63016",
+            "type": "Dây",
+            "label": "Chuyến Đi Của Herta",
+            "group": "Trạm Phong Ấn Không Gian"
+        },
+        {
+            "value": "63025",
+            "type": "Cầu",
+            "label": "Tàu Vũ Trụ Xianzhou Luofu",
+            "group": "Xianzhou Không Có Tuổi"
+        },
+        {
+            "value": "63026",
+            "type": "Dây",
+            "label": "Nhánh Cây Kiến Tạo Của Xianzhou Luofu",
+            "group": "Xianzhou Không Có Tuổi"
+        },
+        {
+            "value": "63035",
+            "type": "Cầu",
+            "label": "Tổng Bộ Đầu Não Công Ty",
+            "group": "Công Ty Kinh Doanh Liên Ngân Hà"
+        },
+        {
+            "value": "63036",
+            "type": "Dây",
+            "label": "Tuyến Đường Thương Mại Của Công Ty",
+            "group": "Công Ty Kinh Doanh Liên Ngân Hà"
+        },
+        {
+            "value": "63045",
+            "type": "Cầu",
+            "label": "Pháo Đài Bảo Hộ Belobog",
+            "group": "Belobog Của Đấng Kiến Tạo"
+        },
+        {
+            "value": "63046",
+            "type": "Dây",
+            "label": "Phòng Tuyến Thiết Vệ Của Belobog",
+            "group": "Belobog Của Đấng Kiến Tạo"
+        },
+        {
+            "value": "63055",
+            "type": "Cầu",
+            "label": "Mặt Trời Cơ Giới Của Screwllum",
+            "group": "Máy Sai Lệch Hành Tinh"
+        },
+        {
+            "value": "63056",
+            "type": "Dây",
+            "label": "Vành Đai Của Hành Tinh Screwllum",
+            "group": "Máy Sai Lệch Hành Tinh"
+        },
+        {
+            "value": "63065",
+            "type": "Cầu",
+            "label": "Thành Phố Chuyển Động Salsotto",
+            "group": "Salsotto Dừng Xoay"
+        },
+        {
+            "value": "63066",
+            "type": "Dây",
+            "label": "Ranh Giới Ngày Đêm Salsotto",
+            "group": "Salsotto Dừng Xoay"
+        },
+        {
+            "value": "63075",
+            "type": "Cầu",
+            "label": "Trấn Vỏ Đinh Talia",
+            "group": "Talia – Vương Quốc Trộm Cướp"
+        },
+        {
+            "value": "63076",
+            "type": "Dây",
+            "label": "Dây Điện Trần Talia",
+            "group": "Talia – Vương Quốc Trộm Cướp"
+        },
+        {
+            "value": "63085",
+            "type": "Cầu",
+            "label": "Đảo Sinh Sôi Vonwacq",
+            "group": "Vonwacq Hoạt Bát"
+        },
+        {
+            "value": "63086",
+            "type": "Dây",
+            "label": "Bờ Biển Quanh Đảo Vonwacq",
+            "group": "Vonwacq Hoạt Bát"
+        },
+        {
+            "value": "63095",
+            "type": "Cầu",
+            "label": "Sân Vận Động Laser Taikiyan",
+            "group": "Đấu Trường Ngôi Sao"
+        },
+        {
+            "value": "63096",
+            "type": "Dây",
+            "label": "Đường Đua Hồ Quang Của Taikiyan",
+            "group": "Đấu Trường Ngôi Sao"
+        },
+        {
+            "value": "63105",
+            "type": "Cầu",
+            "label": "Tàu Cá Voi Insumousu",
+            "group": "Bộ Khung Bị Gãy"
+        },
+        {
+            "value": "63106",
+            "type": "Dây",
+            "label": "Dây Thừng Sờn Rách Insumousu",
+            "group": "Bộ Khung Bị Gãy"
+        },
+        {
+            "value": "63115",
+            "type": "Cầu",
+            "label": "Đội Kỵ Binh Sắt Của Glamoth",
+            "group": "Glamoth, Chiến Tuyến Không Trung"
+        },
+        {
+            "value": "63116",
+            "type": "Dây",
+            "label": "Bia Mộ Tĩnh Mịch Của Glamoth",
+            "group": "Glamoth, Chiến Tuyến Không Trung"
+        },
+        {
+            "value": "63125",
+            "type": "Cầu",
+            "label": "Khách Sạn Lớn Của Penacony",
+            "group": "Penacony, Vùng Đất Của Những Giấc Mơ"
+        },
+        {
+            "value": "63126",
+            "type": "Dây",
+            "label": "Cung Đường Mộng Mơ Penacony",
+            "group": "Penacony, Vùng Đất Của Những Giấc Mơ"
+        },
+        {
+            "value": "63135",
+            "type": "Cầu",
+            "label": "Giường Mẹ Gaiathra Sigonia",
+            "group": "Hành Tinh Vô Chủ Sigonia"
+        },
+        {
+            "value": "63136",
+            "type": "Dây",
+            "label": "Nút Thắt Luân Hồi Của Sigonia",
+            "group": "Hành Tinh Vô Chủ Sigonia"
+        },
+        {
+            "value": "63145",
+            "type": "Cầu",
+            "label": "Magatsu no Morokami Của Izumo",
+            "group": "Mây Hiển Thế Và Thần Quốc Cao Thiên"
+        },
+        {
+            "value": "63146",
+            "type": "Dây",
+            "label": "Izumo, Lưỡi Đao Chấm Dứt Và Khởi Đầu",
+            "group": "Mây Hiển Thế Và Thần Quốc Cao Thiên"
+        }
+    ]

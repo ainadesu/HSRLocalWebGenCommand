@@ -1,0 +1,402 @@
+[
+    {
+        "id": "20000",
+        "name": "Mũi Tên (3✩)"
+      },
+      {
+        "id": "20001",
+        "name": "Dồi Dào (3✩)"
+      },
+      {
+        "id": "20002",
+        "name": "Trời Sập (3✩)"
+      },
+      {
+        "id": "20003",
+        "name": "Hổ Phách (3✩)"
+      },
+      {
+        "id": "20004",
+        "name": "Tĩnh Mịch (3✩)"
+      },
+      {
+        "id": "20005",
+        "name": "Điệp Khúc (3✩)"
+      },
+      {
+        "id": "20006",
+        "name": "Kho Lưu Trữ (3✩)"
+      },
+      {
+        "id": "20007",
+        "name": "Tên Bắn (3✩)"
+      },
+      {
+        "id": "20008",
+        "name": "Trái Ngọt (3✩)"
+      },
+      {
+        "id": "20009",
+        "name": "Đổ Nát (3✩)"
+      },
+      {
+        "id": "20010",
+        "name": "Phòng Thủ (3✩)"
+      },
+      {
+        "id": "20011",
+        "name": "Xoáy Ốc (3✩)"
+      },
+      {
+        "id": "20012",
+        "name": "Luân Hồi (3✩)"
+      },
+      {
+        "id": "20013",
+        "name": "Chìa Khóa Linh Hồn (3✩)"
+      },
+      {
+        "id": "20014",
+        "name": "Đối Kháng (3✩)"
+      },
+      {
+        "id": "20015",
+        "name": "Sinh Sôi (3✩)"
+      },
+      {
+        "id": "20016",
+        "name": "Hủy Diệt Tất Cả (3✩)"
+      },
+      {
+        "id": "20017",
+        "name": "Mở Rộng (3✩)"
+      },
+      {
+        "id": "20018",
+        "name": "Bóng Ẩn (3✩)"
+      },
+      {
+        "id": "20019",
+        "name": "Hài Hòa (3✩)"
+      },
+      {
+        "id": "20020",
+        "name": "Thông Tuệ (3✩)"
+      },
+      {
+        "id": "21000",
+        "name": "Buổi Trò Chuyện Hậu Phẫu (4✩)"
+      },
+      {
+        "id": "21001",
+        "name": "Chúc Ngủ Ngon (4✩)"
+      },
+      {
+        "id": "21002",
+        "name": "Ngày Đầu Tiên (4✩)"
+      },
+      {
+        "id": "21003",
+        "name": "Sự Trầm Mặc Duy Nhất (4✩)"
+      },
+      {
+        "id": "21004",
+        "name": "Dáng Hình Trong Ký Ức (4✩)"
+      },
+      {
+        "id": "21005",
+        "name": "Băng Chuột Chũi Hoan Nghênh (4✩)"
+      },
+      {
+        "id": "21006",
+        "name": "Sự Ra Đời Của 'Tôi' (4✩)"
+      },
+      {
+        "id": "21007",
+        "name": "Cùng Một Tâm Trạng (4✩)"
+      },
+      {
+        "id": "21008",
+        "name": "Tầm Mắt Của Con Mồi (4✩)"
+      },
+      {
+        "id": "21009",
+        "name": "Sự Lựa Chọn Của Landau (4✩)"
+      },
+      {
+        "id": "21010",
+        "name": "Luận Kiếm (4✩)"
+      },
+      {
+        "id": "21011",
+        "name": "Điểm Hẹn Hành Tinh (4✩)"
+      },
+      {
+        "id": "21012",
+        "name": "Lời Thề Bí Mật (4✩)"
+      },
+      {
+        "id": "21013",
+        "name": "Đừng Để Thế Giới Lạnh Lẽo (4✩)"
+      },
+      {
+        "id": "21014",
+        "name": "Vừa Đúng Lúc (4✩)"
+      },
+      {
+        "id": "21015",
+        "name": "Sự Quyết Tâm Như Giọt Mồ Hôi Lấp Lánh (4✩)"
+      },
+      {
+        "id": "21016",
+        "name": "Xu Hướng Thị Trường Vũ Trụ (4✩)"
+      },
+      {
+        "id": "21017",
+        "name": "Hãy Theo Dõi Nào! (4✩)"
+      },
+      {
+        "id": "21018",
+        "name": "Múa! Múa! Múa! (4✩)"
+      },
+      {
+        "id": "21019",
+        "name": "Dưới Bầu Trời Xanh (4✩)"
+      },
+      {
+        "id": "21020",
+        "name": "Sự Nghỉ Ngơi Của Thiên Tài (4✩)"
+      },
+      {
+        "id": "21021",
+        "name": "Đổi Ngang Giá (4✩)"
+      },
+      {
+        "id": "21022",
+        "name": "Ký Hiệu Kéo Dài (4✩)"
+      },
+      {
+        "id": "21023",
+        "name": "Chúng Ta Là Lửa Ngầm (4✩)"
+      },
+      {
+        "id": "21024",
+        "name": "Làn Nước Xuân Xuất Hiện (4✩)"
+      },
+      {
+        "id": "21025",
+        "name": "Quá Khứ Tương Lai (4✩)"
+      },
+      {
+        "id": "21026",
+        "name": "Gâu! Thời Gian Tản Bộ (4✩)"
+      },
+      {
+        "id": "21027",
+        "name": "Bữa Sáng Đúng Điệu (4✩)"
+      },
+      {
+        "id": "21028",
+        "name": "Đêm Ấm Sẽ Chóng Qua (4✩)"
+      },
+      {
+        "id": "21029",
+        "name": "Hẹn Gặp Lại (4✩)"
+      },
+      {
+        "id": "21030",
+        "name": "Đó Chính Là Tôi! (4✩)"
+      },
+      {
+        "id": "21031",
+        "name": "U Tối Trở Lại (4✩)"
+      },
+      {
+        "id": "21032",
+        "name": "Khắc Lên Ánh Trăng (4✩)"
+      },
+      {
+        "id": "21033",
+        "name": "Không Nơi Ẩn Náu (4✩)"
+      },
+      {
+        "id": "21034",
+        "name": "Hôm Nay Là Ngày Yên Lành (4✩)"
+      },
+      {
+        "id": "21035",
+        "name": "Đâu Là Thật? (4✩)"
+      },
+      {
+        "id": "21036",
+        "name": "Chuyến Thám Hiểm Thị Trấn Mộng Đẹp (4✩)"
+      },
+      {
+        "id": "21037",
+        "name": "Người Chiến Thắng Cuối Cùng (4✩)"
+      },
+      {
+        "id": "21038",
+        "name": "Ở Nơi Xa Ngọn Lửa (4✩)"
+      },
+      {
+        "id": "21039",
+        "name": "Dây Thêu Dệt Vận Mệnh (4✩)"
+      },
+      {
+        "id": "21040",
+        "name": "Ngày Ngân Hà Sụp Đổ (4✩)"
+      },
+      {
+        "id": "21041",
+        "name": "Vai Diễn Bắt Đầu (4✩)"
+      },
+      {
+        "id": "21042",
+        "name": "Ước Hẹn Khắc Ghi (4✩)"
+      },
+      {
+        "id": "21043",
+        "name": "Buổi Hòa Nhạc Hai Người (4✩)"
+      },
+      {
+        "id": "21044",
+        "name": "[Tạm Dịch] Điệu Nhảy Vô Tận | Boundless Choreo (4✩)"
+      },
+      {
+        "id": "22000",
+        "name": "Trước Khi Bắt Đầu Nhiệm Vụ Tân Thủ (4✩)"
+      },
+      {
+        "id": "22001",
+        "name": "Hi, Tôi Ở Đây (4✩)"
+      },
+      {
+        "id": "22002",
+        "name": "[Tạm Dịch] Vì Hành Trình Ngày Mai | For Tomorrow’s Journey (4✩)"
+      },
+      {
+        "id": "23000",
+        "name": "Chuyến Tàu Đêm Trên Dải Ngân Hà (5✩) | Himeko"
+      },
+      {
+        "id": "23001",
+        "name": "Trong Đêm Tối (5✩) | Seele"
+      },
+      {
+        "id": "23002",
+        "name": "Vật Không Thể Thay Thế (5✩) | Clara"
+      },
+      {
+        "id": "23003",
+        "name": "Cuộc Chiến Chưa Nguôi (5✩) | Bronya"
+      },
+      {
+        "id": "23004",
+        "name": "Nhân Danh Thế Giới (5✩) | Welt"
+      },
+      {
+        "id": "23005",
+        "name": "Giây Phút Thắng Lợi (5✩) | Gepard"
+      },
+      {
+        "id": "23006",
+        "name": "Chỉ Cần Chờ Đợi (5✩) | Kafka"
+      },
+      {
+        "id": "23007",
+        "name": "Cơn Mưa Tầm Tã (5✩) | Sói Bạc"
+      },
+      {
+        "id": "23008",
+        "name": "Tiếng Vọng Của Quan Tài (5✩) | Luocha"
+      },
+      {
+        "id": "23009",
+        "name": "Bến Bờ Xa Diệu Vợi (5✩) | Blade"
+      },
+      {
+        "id": "23010",
+        "name": "Trước Buổi Bình Minh (5✩) | JingYuan"
+      },
+      {
+        "id": "23011",
+        "name": "Đôi Mắt Đã Nhắm Lại (5✩) | Fu Xuan"
+      },
+      {
+        "id": "23012",
+        "name": "Giấc Ngủ Say Mềm (5✩) | Yanqing"
+      },
+      {
+        "id": "23013",
+        "name": "Thời Gian Không Ngừng Lại (5✩) | Bailu"
+      },
+      {
+        "id": "23014",
+        "name": "Thân Này Là Kiếm (5✩) | Jingliu"
+      },
+      {
+        "id": "23015",
+        "name": "Rực Rỡ Hơn Mặt Trời (5✩) | Dan Heng - Ẩm Nguyệt"
+      },
+      {
+        "id": "23016",
+        "name": "Phiền Não, Hạnh Phúc (5✩) | Topaz & Numby"
+      },
+      {
+        "id": "23017",
+        "name": "Đêm Kinh Hoàng (5✩) | Huohuo"
+      },
+      {
+        "id": "23018",
+        "name": "Khoảnh Khắc Nơi Đáy Mắt (5✩) | Argenti"
+      },
+      {
+        "id": "23019",
+        "name": "Tôi Trong Gương Ngày Ấy (5✩) | Ruan Mei"
+      },
+      {
+        "id": "23020",
+        "name": "Lễ Rửa Tội Thuần Khiết (5✩) | Dr. Ratio"
+      },
+      {
+        "id": "23021",
+        "name": "Trò Đùa Trần Thế (5✩) | Sparkle"
+      },
+      {
+        "id": "23022",
+        "name": "Hun Đúc Ký Ức Thời Gian (5✩) | Black Swan"
+      },
+      {
+        "id": "23023",
+        "name": "Vận Mệnh Chưa Từng Công Bằng (5✩) | Aventurine"
+      },
+      {
+        "id": "23024",
+        "name": "Bước Theo Bến Bờ Thời Gian (5✩) | Acheron"
+      },
+      {
+        "id": "23026",
+        "name": "[Tạm Dịch] Đêm Ngập Tràn Ánh Sáng | Flowing Nightglow (5✩) | Robin"
+      },
+      {
+        "id": "23027",
+        "name": "[Tạm Dịch] Hướng Tới Cuộc Sống Thứ Hai | Sailing Towards A Second Life (5✩) | Boothill"
+      },
+      {
+        "id": "24000",
+        "name": "Sự Sụp Đổ Của Aeon (5✩)"
+      },
+      {
+        "id": "24001",
+        "name": "Du Hành Trên Biển Sao (5✩)"
+      },
+      {
+        "id": "24002",
+        "name": "Chất Liệu Ký Ức (5✩)"
+      },
+      {
+        "id": "24003",
+        "name": "Một Mình Chữa Trị (5✩)"
+      }
+]

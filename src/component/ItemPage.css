@@ -1,0 +1,44 @@
+/* CSS */
+.quantity-container {
+    display: flex;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .quantity-input {
+    flex-grow: 1;
+    display: flex;
+    align-items: center;
+    border: 1px solid #ced4da; /* Màu border tương tự như ô Select */
+    border-radius: 0.25rem;
+    overflow: hidden;
+  }
+  
+  .quantity-input input {
+    border: none;
+    outline: none;
+    font-size: 16px;
+    width: 40px;
+    text-align: center;
+  }
+  
+  .quantity-input button {
+    background-color: #fff;
+    color: #495057;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 18px;
+    width: 30px;
+    height: 30px;
+    border-radius: 0;
+  }
+  
+  .quantity-input button:hover {
+    background-color: #e9ecef;
+  }
+  
+  .quantity-input button:active {
+    background-color: #dee2e6;
+  }
+  

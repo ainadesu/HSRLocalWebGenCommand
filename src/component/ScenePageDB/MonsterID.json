@@ -1,0 +1,642 @@
+[
+    {
+        "id": "47",
+        "name": "Ảo Ảnh Lửa Thiêu"
+    },
+    {
+        "id": "48",
+        "name": "Lửa Vũ Trụ"
+    },
+    {
+        "id": "49",
+        "name": "Hiệu Úy Bờm Bạc (Bị Lỗi)"
+    },
+    {
+        "id": "50",
+        "name": "Hiệu Úy Bờm Bạc"
+    },
+    {
+        "id": "51",
+        "name": "Cận Vệ Bờm Bạc"
+    },
+    {
+        "id": "52",
+        "name": "Xạ Thủ Bờm Bạc"
+    },
+    {
+        "id": "54",
+        "name": "Gepard"
+    },
+    {
+        "id": "56",
+        "name": "Băng Vũ Trụ"
+    },
+    {
+        "id": "57",
+        "name": "Cỗ Máy Tự Động - Nhền Nhện"
+    },
+    {
+        "id": "58",
+        "name": "Cỗ Máy Tự Động - Sói Nanh Nhọn"
+    },
+    {
+        "id": "59",
+        "name": "Svarog"
+    },
+    {
+        "id": "60",
+        "name": "Cocolia"
+    },
+    {
+        "id": "66",
+        "name": "Cỗ Máy Tự Động - Chó Săn"
+    },
+    {
+        "id": "68",
+        "name": "Cỗ Máy Tự Động - Gấu Xám"
+    },
+    {
+        "id": "70",
+        "name": "Ảo Ảnh Everwinter"
+    },
+    {
+        "id": "72",
+        "name": "Tạo Vật Bừng Lửa"
+    },
+    {
+        "id": "73",
+        "name": "Tạo Vật Sương Giá"
+    },
+    {
+        "id": "76",
+        "name": "Kẻ Lang Thang Bốc Cháy"
+    },
+    {
+        "id": "77",
+        "name": "Kẻ Lang Thang"
+    },
+    {
+        "id": "78",
+        "name": "Cỗ Máy Tự Động - Bọ Cánh Cứng"
+    },
+    {
+        "id": "80",
+        "name": "Kẻ Lang Thang Lạnh Giá"
+    },
+    {
+        "id": "81",
+        "name": "Bronya"
+    },
+    {
+        "id": "117",
+        "name": "Hư Ảnh Kẻ Xâm Chiếm"
+    },
+    {
+        "id": "167",
+        "name": "Cỗ Máy Tự Động - Gấu Xám (Bị Lỗi)"
+    },
+    {
+        "id": "168",
+        "name": "Cỗ Máy Tự Động - Sói Nanh Nhọn (Bị Lỗi)"
+    },
+    {
+        "id": "169",
+        "name": "Kẻ Lang Thang Bốc Cháy (Bị Lỗi)"
+    },
+    {
+        "id": "170",
+        "name": "Kẻ Lang Thang Lạnh Giá (Bị Lỗi)"
+    },
+    {
+        "id": "171",
+        "name": "Băng Vũ Trụ (Bị Lỗi)"
+    },
+    {
+        "id": "172",
+        "name": "Lửa Vũ Trụ (Bị Lỗi)"
+    },
+    {
+        "id": "173",
+        "name": "Hư Ảnh Đấng Bảo Vệ (Bị Lỗi)"
+    },
+    {
+        "id": "174",
+        "name": "Hư Ảnh Kẻ Xâm Chiếm (Bị Lỗi)"
+    },
+    {
+        "id": "175",
+        "name": "Chiến Binh Hư Không - Kẻ Chà Đạp (Bị Lỗi)"
+    },
+    {
+        "id": "176",
+        "name": "Kẻ Mời Gió (Bị Lỗi)"
+    },
+    {
+        "id": "184",
+        "name": "Hư Ảnh Đấng Bảo Vệ"
+    },
+    {
+        "id": "186",
+        "name": "Chiến Binh Hư Không - Kẻ Chà Đạp"
+    },
+    {
+        "id": "187",
+        "name": "Kẻ Mời Gió"
+    },
+    {
+        "id": "1010",
+        "name": "Cánh Tay Robot Hỗ Trợ"
+    },
+    {
+        "id": "1013",
+        "name": "Mũi Băng"
+    },
+    {
+        "id": "1025",
+        "name": "Baryon"
+    },
+    {
+        "id": "1026",
+        "name": "Antibaryon"
+    },
+    {
+        "id": "1027",
+        "name": "Chiến Binh Hư Không - Kẻ Cướp Đoạt"
+    },
+    {
+        "id": "1028",
+        "name": "Chiến Binh Hư Không - Kẻ Bóp Méo"
+    },
+    {
+        "id": "1030",
+        "name": "Cocolia, Người Mẹ Hư Vô"
+    },
+    {
+        "id": "1031",
+        "name": "Giáo Hàn Đông Vô Tận"
+    },
+    {
+        "id": "1033",
+        "name": "Quái Thú Tận Thế"
+    },
+    {
+        "id": "1034",
+        "name": "Động Cơ Phản Vật Chất"
+    },
+    {
+        "id": "1035",
+        "name": "Tay Phải Tai Ương"
+    },
+    {
+        "id": "1036",
+        "name": "Tay Trái Bình Minh"
+    },
+    {
+        "id": "1037",
+        "name": "Chiến Binh Hư Không - Kẻ Loại Bỏ"
+    },
+    {
+        "id": "1038",
+        "name": "Kẻ Dệt Lá Số Ảo"
+    },
+    {
+        "id": "1039",
+        "name": "Pháo Thủ Bờm Bạc"
+    },
+    {
+        "id": "1041",
+        "name": "Heo Đất Không Gian"
+    },
+    {
+        "id": "1042",
+        "name": "Mặt Nạ Vô Tưởng"
+    },
+    {
+        "id": "1044",
+        "name": "Cocolia (Hoàn chỉnh)"
+    },
+    {
+        "id": "1045",
+        "name": "Svarog (Hoàn chỉnh)"
+    },
+    {
+        "id": "1047",
+        "name": "Tạo Vật Gió Tản"
+    },
+    {
+        "id": "1048",
+        "name": "Tạo Vật Sấm Rền"
+    },
+    {
+        "id": "1049",
+        "name": "\"Thợ Săn Stellaron\" Kafka"
+    },
+    {
+        "id": "1050",
+        "name": "Lính Gác Nhập Ma"
+    },
+    {
+        "id": "1051",
+        "name": "Lính Tuần Tra Vân Kỵ"
+    },
+    {
+        "id": "1052",
+        "name": "Nhà Luyện Hình \"Bí Truyền Dược Vương\""
+    },
+    {
+        "id": "1053",
+        "name": "Gác Cổng Kim Nhân"
+    },
+    {
+        "id": "1054",
+        "name": "Heo Đất Phối Hợp"
+    },
+    {
+        "id": "1055",
+        "name": "Heo Đất Hủy Diệt"
+    },
+    {
+        "id": "1056",
+        "name": "Heo Đất Bảo Hộ"
+    },
+    {
+        "id": "1057",
+        "name": "Heo Đất Trù Phú"
+    },
+    {
+        "id": "1058",
+        "name": "Gepard (Hoàn chỉnh)"
+    },
+    {
+        "id": "1059",
+        "name": "\"Thợ Săn Stellaron\" Kafka (Hoàn Chỉnh)"
+    },
+    {
+        "id": "1060",
+        "name": "Cơ Giáp Nhập Ma - Cá Rồng Đèn"
+    },
+    {
+        "id": "1061",
+        "name": "Cơ Giáp Nhập Ma - Nghê Tùy Tùng"
+    },
+    {
+        "id": "1062",
+        "name": "Cơ Giáp Nhập Ma - Cóc Vàng Phủ Mây"
+    },
+    {
+        "id": "1063",
+        "name": "Cỗ Máy Tự Động - Gấu Xám (Hoàn chỉnh)"
+    },
+    {
+        "id": "1079",
+        "name": "\"Bí Truyền Dược Vương\" Nội Đan Sĩ"
+    },
+    {
+        "id": "1080",
+        "name": "Huyền Lộc Trù Phú"
+    },
+    {
+        "id": "1081",
+        "name": "Ngọn Gió Cuốn"
+    },
+    {
+        "id": "1082",
+        "name": "Ngọn Lá Vàng"
+    },
+    {
+        "id": "1083",
+        "name": "Ngọn Trăm Hoa"
+    },
+    {
+        "id": "1084",
+        "name": "Nhánh Quả Mọng"
+    },
+    {
+        "id": "1085",
+        "name": "Huyền Lộc Trù Phú (Hoàn Chỉnh)"
+    },
+    {
+        "id": "1086",
+        "name": "Nhánh Gió Cuốn"
+    },
+    {
+        "id": "1087",
+        "name": "Nhánh Lá Vàng"
+    },
+    {
+        "id": "1088",
+        "name": "Nhánh Trăm Hoa"
+    },
+    {
+        "id": "1090",
+        "name": "Trung Úy Vân Kỵ - Yanqing"
+    },
+    {
+        "id": "1091",
+        "name": "Phi Kiếm"
+    },
+    {
+        "id": "1093",
+        "name": "Quả Thần Bất Tử - Phantylia"
+    },
+    {
+        "id": "1094",
+        "name": "Huyền Liên Trù Phú"
+    },
+    {
+        "id": "1096",
+        "name": "Huyền Liên Hủy Diệt"
+    },
+    {
+        "id": "1099",
+        "name": "Linh Thú Trù Phú - Chó Săn Vàng"
+    },
+    {
+        "id": "1100",
+        "name": "Linh Thú Trù Phú - Sói Cây"
+    },
+    {
+        "id": "1101",
+        "name": "Linh Thú Trù Phú - Linh Trưởng"
+    },
+    {
+        "id": "1102",
+        "name": "Thừa Lộ Thiên Nhân"
+    },
+    {
+        "id": "1103",
+        "name": "\"Bí Truyền Dược Vương\" Khí Nguyên Sĩ"
+    },
+    {
+        "id": "1104",
+        "name": "Cocolia (Hoàn Chỉnh)"
+    },
+    {
+        "id": "1105",
+        "name": "Svarog (Hoàn Chỉnh)"
+    },
+    {
+        "id": "1106",
+        "name": "Gepard (Hoàn Chỉnh)"
+    },
+    {
+        "id": "1108",
+        "name": "Cỗ Máy Tự Động - Gấu Xám (Hoàn Chỉnh)"
+    },
+    {
+        "id": "1109",
+        "name": "Đàn Côn Trùng - Bọ Gai Trưởng Thành (Hoàn Chỉnh)"
+    },
+    {
+        "id": "1110",
+        "name": "Bọ Gai Lớn"
+    },
+    {
+        "id": "1111",
+        "name": "Bọ Gai Nhỏ"
+    },
+    {
+        "id": "1112",
+        "name": "Nhân Viên Cơ Sở - Công Tác"
+    },
+    {
+        "id": "1113",
+        "name": "Nhân Viên Cơ Sở - Bảo Vệ"
+    },
+    {
+        "id": "1114",
+        "name": "Nhân Viên Thâm Niên - Tổ Trưởng"
+    },
+    {
+        "id": "1115",
+        "name": "Cai Ngục Cõi Âm"
+    },
+    {
+        "id": "1116",
+        "name": "Cai Ngục Nhập Ma"
+    },
+    {
+        "id": "1117",
+        "name": "Trung Úy Vân Kỵ - Yanqing (Hoàn Chỉnh)"
+    },
+    {
+        "id": "1118",
+        "name": "null"
+    },
+    {
+        "id": "1120",
+        "name": "Nhà Luyện Hình \"Bí Truyền Dược Vương\" (Bị Lỗi)"
+    },
+    {
+        "id": "1121",
+        "name": "Gác Cổng Kim Nhân (Bị Lỗi)"
+    },
+    {
+        "id": "1122",
+        "name": "Kim Nhân Câu Hồn Sứ"
+    },
+    {
+        "id": "1123",
+        "name": "Argenti"
+    },
+    {
+        "id": "1124",
+        "name": "Danh Dự"
+    },
+    {
+        "id": "1125",
+        "name": "Mũi Giáo"
+    },
+    {
+        "id": "1126",
+        "name": "Lá Chắn"
+    },
+    {
+        "id": "1127",
+        "name": "Linh Thú Trù Phú-Linh Trưởng (Bị Lỗi)"
+    },
+    {
+        "id": "1128",
+        "name": "Thừa Lộ Thiên Nhân (Bị Lỗi)"
+    },
+    {
+        "id": "1129",
+        "name": "Đàn Côn Trùng - Bọ Gai Trưởng Thành"
+    },
+    {
+        "id": "1130",
+        "name": "Đoàn Kịch Ác Mộng - Chó Săn Bong Bóng"
+    },
+    {
+        "id": "1131",
+        "name": "Kim Nhân Câu Hồn Sứ (Bị Lỗi)"
+    },
+    {
+        "id": "1133",
+        "name": "Nhân Viên Thâm Niên - Tổ Trưởng (Bị Lỗi)"
+    },
+    {
+        "id": "1134",
+        "name": "Đoàn Kịch Ác Mộng - Quý Ngài Màn Hình"
+    },
+    {
+        "id": "1135",
+        "name": "Meme Vùng Hồi Ức \"Vật Gì Hướng Về Cái Chết\""
+    },
+    {
+        "id": "1136",
+        "name": "Bia Mộ Vĩnh Hằng"
+    },
+    {
+        "id": "1139",
+        "name": "Bọ Chúa Hủy Hoại - Skarakabaz (Mô Phỏng)"
+    },
+    {
+        "id": "1140",
+        "name": "Gepard (Ảo Giác)"
+    },
+    {
+        "id": "1141",
+        "name": "Cocolia (Ảo Giác)"
+    },
+    {
+        "id": "1142",
+        "name": "Cocolia, Người Mẹ Hư Vô (Ảo Giác)"
+    },
+    {
+        "id": "1144",
+        "name": "Trung Úy Vân Kỵ - Yanqing (Ảo Giác)"
+    },
+    {
+        "id": "1145",
+        "name": "Huyền Lộc Trù Phú (Ảo Giác)"
+    },
+    {
+        "id": "1146",
+        "name": "\"Thợ Săn Stellaron\" Kafka (Ảo Giác)"
+    },
+    {
+        "id": "1148",
+        "name": "Argenti (Hoàn Chỉnh)"
+    },
+    {
+        "id": "1149",
+        "name": "Bọ Gai Ăn Thịt"
+    },
+    {
+        "id": "1150",
+        "name": "\"<unbreak>10</unbreak> Người Có Trái Tim Đá\" Aventurine Gian Trá"
+    },
+    {
+        "id": "1151",
+        "name": "\"Được Ăn Cả, Ngã Về Không\""
+    },
+    {
+        "id": "1152",
+        "name": "Đoàn Kịch Ác Mộng - Sọ Chim"
+    },
+    {
+        "id": "1153",
+        "name": "Meme Vùng Hồi Ức \"Tim Tôi Tan Nát\""
+    },
+    {
+        "id": "1154",
+        "name": "Đoàn Kịch Ác Mộng - Ác Quỷ Xúc Xắc"
+    },
+    {
+        "id": "1155",
+        "name": "Thùng Quý Tộc"
+    },
+    {
+        "id": "1157",
+        "name": "Meme Vùng Hồi Ức \"Tầm Mắt Khắp Nơi\""
+    },
+    {
+        "id": "1158",
+        "name": "Đoàn Kịch Ác Mộng - Vượn Khổng Lồ"
+    },
+    {
+        "id": "1159",
+        "name": "Đoàn Kịch Ác Mộng - Chín Khét"
+    },
+    {
+        "id": "1160",
+        "name": "\"Thợ Săn Stellaron\" Sam"
+    },
+    {
+        "id": "1161",
+        "name": "Đoàn Kịch Ác Mộng - Côn Đồ Dây Cót"
+    },
+    {
+        "id": "1162",
+        "name": "Meme Vùng Hồi Ức \"Vật Gì Giấu Trong Gương\""
+    },
+    {
+        "id": "1163",
+        "name": "Meme Vùng Hồi Ức \"Lớp Vỏ Của Cơn Giận Kìm Nén\""
+    },
+    {
+        "id": "1164",
+        "name": "Meme Vùng Hồi Ức \"Vật Gì Hướng Về Cái Chết\" (Hoàn Chỉnh)"
+    },
+    {
+        "id": "1165",
+        "name": "Đoàn Kịch Ác Mộng - Chín Khét (Bị Lỗi)"
+    },
+    {
+        "id": "1166",
+        "name": "Đoàn Kịch Ác Mộng - Vượn Khổng Lồ (Bị Lỗi)"
+    },
+    {
+        "id": "310010",
+        "name": "Quân Đoàn Phản Vật Chất"
+    },
+    {
+        "id": "310030",
+        "name": "Tạo Vật Rãnh Nứt"
+    },
+    {
+        "id": "311031",
+        "name": "Cỗ Máy Tuần Tra"
+    },
+    {
+        "id": "311061",
+        "name": "Lưu Manh Lang Thang"
+    },
+    {
+        "id": "312010",
+        "name": "Thiết Vệ Bờm Bạc"
+    },
+    {
+        "id": "313081",
+        "name": "Đoàn Kịch Ác Mộng"
+    },
+    {
+        "id": "420042",
+        "name": "Bronya (Ảo Giác)"
+    },
+    {
+        "id": "43103001",
+        "name": "Hồn Aether"
+    },
+    {
+        "id": "80060041",
+        "name": "Quân Đoàn Tà Vật"
+    },
+    {
+        "id": "80080021",
+        "name": "Nhân Viên Công Ty"
+    },
+    {
+        "id": "80090024",
+        "name": "Meme Vùng Hồi Ức"
+    },
+    {
+        "id": "81050011",
+        "name": "Đàn Bọ Gai Trưởng Thành"
+    },
+    {
+        "id": "103012990",
+        "name": "Tay Sai Ông Chủ Đá"
+    }
+]

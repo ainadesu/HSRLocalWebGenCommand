@@ -1,0 +1,10458 @@
+[
+  {
+      "id": "1",
+      "name": "Ngọc Ánh Sao"
+  },
+  {
+      "id": "2",
+      "name": "Điểm Tín Dụng"
+  },
+  {
+      "id": "3",
+      "name": "Mộng Ước Viễn Cổ"
+  },
+  {
+      "id": "11",
+      "name": "Sức Mạnh Khai Phá"
+  },
+  {
+      "id": "12",
+      "name": "Sức Mạnh Khai Phá Dự Bị"
+  },
+  {
+      "id": "21",
+      "name": "EXP"
+  },
+  {
+      "id": "22",
+      "name": "EXP Khai Phá"
+  },
+  {
+      "id": "23",
+      "name": "Độ Năng Động"
+  },
+  {
+      "id": "24",
+      "name": "Khai Phá Thì Tiếp Diễn"
+  },
+  {
+      "id": "25",
+      "name": "Quỹ Đạo Trở Về"
+  },
+  {
+      "id": "31",
+      "name": "Mảnh Vũ Trụ"
+  },
+  {
+      "id": "32",
+      "name": "Điểm Kỹ Năng"
+  },
+  {
+      "id": "33",
+      "name": "Thiết Bị Kết Nối"
+  },
+  {
+      "id": "41",
+      "name": "Điểm Thành Tựu"
+  },
+  {
+      "id": "51",
+      "name": "EXP Khách Vô Danh"
+  },
+  {
+      "id": "52",
+      "name": "EXP Khách Vô Danh"
+  },
+  {
+      "id": "53",
+      "name": "Quỹ Phát Triển"
+  },
+  {
+      "id": "101",
+      "name": "Vé Tinh Cầu"
+  },
+  {
+      "id": "102",
+      "name": "Vé Tinh Cầu Đặc Biệt"
+  },
+  {
+      "id": "170",
+      "name": "Điểm Khám Phá"
+  },
+  {
+      "id": "171",
+      "name": "Điểm Khám Phá"
+  },
+  {
+      "id": "201",
+      "name": "Nhiên Liệu"
+  },
+  {
+      "id": "211",
+      "name": "Kiến Thức Du Hành"
+  },
+  {
+      "id": "212",
+      "name": "Nhật Ký Thám Hiểm"
+  },
+  {
+      "id": "213",
+      "name": "Hướng Dẫn Dạo Chơi"
+  },
+  {
+      "id": "221",
+      "name": "Aether Loãng"
+  },
+  {
+      "id": "222",
+      "name": "Aether Cô Đặc"
+  },
+  {
+      "id": "223",
+      "name": "Aether Tinh Luyện"
+  },
+  {
+      "id": "231",
+      "name": "Bụi Sáng Đánh Mất"
+  },
+  {
+      "id": "232",
+      "name": "Mảnh Vàng Đánh Mất"
+  },
+  {
+      "id": "233",
+      "name": "Tinh Thể Đánh Mất"
+  },
+  {
+      "id": "234",
+      "name": "Tinh Túy Đánh Mất"
+  },
+  {
+      "id": "235",
+      "name": "Xác Di Vật"
+  },
+  {
+      "id": "236",
+      "name": "Bụi Nhựa Tự Tạo"
+  },
+  {
+      "id": "241",
+      "name": "Dấu Chân Vận Mệnh"
+  },
+  {
+      "id": "251",
+      "name": "Tàn Tro Chưa Tắt"
+  },
+  {
+      "id": "252",
+      "name": "Ánh Sao Bất Diệt"
+  },
+  {
+      "id": "261",
+      "name": "Ánh Tà Dương Rực Rỡ"
+  },
+  {
+      "id": "262",
+      "name": "Lông Vũ Ngọc"
+  },
+  {
+      "id": "271",
+      "name": "Máy Tích Tầng (Đặc Chế)"
+  },
+  {
+      "id": "503",
+      "name": "Phiếu Công Trái Herta"
+  },
+  {
+      "id": "800",
+      "name": "Chúc Phúc Khởi Hành"
+  },
+  {
+      "id": "801",
+      "name": "Chúc Phúc Khởi Hành"
+  },
+  {
+      "id": "802",
+      "name": "Chúc Phúc Tuần Du"
+  },
+  {
+      "id": "11001",
+      "name": "Tinh Hồn March 7th"
+  },
+  {
+      "id": "11002",
+      "name": "Tinh Hồn Dan Heng"
+  },
+  {
+      "id": "11003",
+      "name": "Tinh Hồn Himeko"
+  },
+  {
+      "id": "11004",
+      "name": "Tinh Hồn Welt"
+  },
+  {
+      "id": "11005",
+      "name": "Tinh Hồn Kafka"
+  },
+  {
+      "id": "11006",
+      "name": "Tinh Hồn Sói Bạc"
+  },
+  {
+      "id": "11008",
+      "name": "Tinh Hồn Arlan"
+  },
+  {
+      "id": "11009",
+      "name": "Tinh Hồn Asta"
+  },
+  {
+      "id": "11013",
+      "name": "Tinh Hồn Herta"
+  },
+  {
+      "id": "11101",
+      "name": "Tinh Hồn Bronya"
+  },
+  {
+      "id": "11102",
+      "name": "Tinh Hồn Seele"
+  },
+  {
+      "id": "11103",
+      "name": "Tinh Hồn Serval"
+  },
+  {
+      "id": "11104",
+      "name": "Tinh Hồn Gepard"
+  },
+  {
+      "id": "11105",
+      "name": "Tinh Hồn Natasha"
+  },
+  {
+      "id": "11106",
+      "name": "Tinh Hồn Pela"
+  },
+  {
+      "id": "11107",
+      "name": "Tinh Hồn Clara"
+  },
+  {
+      "id": "11108",
+      "name": "Tinh Hồn Sampo"
+  },
+  {
+      "id": "11109",
+      "name": "Tinh Hồn Hook"
+  },
+  {
+      "id": "11110",
+      "name": "Tinh Hồn Của Lynx"
+  },
+  {
+      "id": "11111",
+      "name": "Tinh Hồn Luka"
+  },
+  {
+      "id": "11112",
+      "name": "Tinh Hồn Của Topaz & Numby"
+  },
+  {
+      "id": "11201",
+      "name": "Tinh Hồn Của Qingque"
+  },
+  {
+      "id": "11202",
+      "name": "Tinh Hồn Của Tingyun"
+  },
+  {
+      "id": "11203",
+      "name": "Tinh Hồn Luocha"
+  },
+  {
+      "id": "11204",
+      "name": "Tinh Hồn Jing Yuan"
+  },
+  {
+      "id": "11205",
+      "name": "Tinh Hồn Của Blade"
+  },
+  {
+      "id": "11206",
+      "name": "Tinh Hồn Của Sushang"
+  },
+  {
+      "id": "11207",
+      "name": "Tinh Hồn Của Yukong"
+  },
+  {
+      "id": "11208",
+      "name": "Tinh Hồn Của Fu Xuan"
+  },
+  {
+      "id": "11209",
+      "name": "Tinh Hồn Của Yanqing"
+  },
+  {
+      "id": "11210",
+      "name": "Tinh Hồn Của Guinaifen"
+  },
+  {
+      "id": "11211",
+      "name": "Tinh Hồn Của Bailu"
+  },
+  {
+      "id": "11212",
+      "name": "Tinh Hồn Của Jingliu"
+  },
+  {
+      "id": "11213",
+      "name": "Tinh Hồn Dan Heng - Ẩm Nguyệt"
+  },
+  {
+      "id": "11214",
+      "name": "Tinh Hồn Của Xueyi"
+  },
+  {
+      "id": "11215",
+      "name": "Tinh Hồn Hanya"
+  },
+  {
+      "id": "11217",
+      "name": "Tinh Hồn Huohuo"
+  },
+  {
+      "id": "11301",
+      "name": "Tinh Hồn Gallagher"
+  },
+  {
+      "id": "11302",
+      "name": "Tinh Hồn Argenti"
+  },
+  {
+      "id": "11303",
+      "name": "Tinh Hồn Ruan Mei"
+  },
+  {
+      "id": "11304",
+      "name": "Tinh Hồn Aventurine"
+  },
+  {
+      "id": "11305",
+      "name": "Tinh Hồn Dr. Ratio"
+  },
+  {
+      "id": "11306",
+      "name": "Tinh Hồn Sparkle"
+  },
+  {
+      "id": "11307",
+      "name": "Tinh Hồn Black Swan"
+  },
+  {
+      "id": "11308",
+      "name": "Tinh Hồn Acheron"
+  },
+  {
+      "id": "11309",
+      "name": "Tinh Hồn Robin"
+  },
+  {
+      "id": "11312",
+      "name": "Tinh Hồn Misha"
+  },
+  {
+      "id": "11315",
+      "name": "Tinh Hồn Boothill"
+  },
+  {
+      "id": "18001",
+      "name": "Hình Ảnh \"Hủy Diệt\""
+  },
+  {
+      "id": "18002",
+      "name": "Hình Ảnh \"Hủy Diệt\""
+  },
+  {
+      "id": "18003",
+      "name": "Hình Ảnh \"Bảo Hộ\""
+  },
+  {
+      "id": "18004",
+      "name": "Hình Ảnh \"Bảo Hộ\""
+  },
+  {
+      "id": "18005",
+      "name": "Hình Ảnh \"Hòa Hợp\""
+  },
+  {
+      "id": "18006",
+      "name": "Hình Ảnh \"Hòa Hợp\""
+  },
+  {
+      "id": "31011",
+      "name": "Chiếc Trâm Của Lãng Khách"
+  },
+  {
+      "id": "31012",
+      "name": "Giáp Tay Rồng Của Lãng Khách"
+  },
+  {
+      "id": "31013",
+      "name": "Áo Khoác Rách Của Lãng Khách"
+  },
+  {
+      "id": "31014",
+      "name": "Đôi Giày Ảm Đạm Của Lãng Khách"
+  },
+  {
+      "id": "31021",
+      "name": "Mũ Bông Lúa Của Thiện Xạ"
+  },
+  {
+      "id": "31022",
+      "name": "Găng Tay Da Thô Của Thiện Xạ"
+  },
+  {
+      "id": "31023",
+      "name": "Áo Choàng Săn Gió Của Thiện Xạ"
+  },
+  {
+      "id": "31024",
+      "name": "Giày Bốt Đinh Tán Của Thiện Xạ"
+  },
+  {
+      "id": "31031",
+      "name": "Mũ Khoan Dung Thánh Kỵ Sĩ"
+  },
+  {
+      "id": "31032",
+      "name": "Nhẫn Thề Nguyền Thánh Kỵ Sĩ"
+  },
+  {
+      "id": "31033",
+      "name": "Giáp Trang Nghiêm Thánh Kỵ Sĩ"
+  },
+  {
+      "id": "31034",
+      "name": "Giày Sắt Thánh Kỵ Sĩ"
+  },
+  {
+      "id": "31041",
+      "name": "Mũ Artaius Thợ Săn"
+  },
+  {
+      "id": "31042",
+      "name": "Găng Tay Thằn Lằn Của Thợ Săn"
+  },
+  {
+      "id": "31043",
+      "name": "Áo Choàng Rồng Băng Của Thợ Săn"
+  },
+  {
+      "id": "31044",
+      "name": "Ủng Phủ Da Nai Của Thợ Săn"
+  },
+  {
+      "id": "31051",
+      "name": "Mũ Bảo Hộ Của Quyền Vương"
+  },
+  {
+      "id": "31052",
+      "name": "Găng Tay Pháo Của Quyền Vương"
+  },
+  {
+      "id": "31053",
+      "name": "Bảo Hộ Ngực Của Quyền Vương"
+  },
+  {
+      "id": "31054",
+      "name": "Giày Bước Nhảy Của Quyền Vương"
+  },
+  {
+      "id": "31061",
+      "name": "Mũ Giáp Gang Của Thiết Vệ"
+  },
+  {
+      "id": "31062",
+      "name": "Giáp Tay Vảy Bạc Của Thiết Vệ"
+  },
+  {
+      "id": "31063",
+      "name": "Quân Phục Cũ Của Thiết Vệ"
+  },
+  {
+      "id": "31064",
+      "name": "Giáp Chân Bạc Của Thiết Vệ"
+  },
+  {
+      "id": "31071",
+      "name": "Kính Đen Của Thợ Rèn Lửa"
+  },
+  {
+      "id": "31072",
+      "name": "Nhẫn Bắt Lửa Của Thợ Rèn Lửa"
+  },
+  {
+      "id": "31073",
+      "name": "Tạp Dề Chống Cháy Của Thợ Rèn Lửa"
+  },
+  {
+      "id": "31074",
+      "name": "Chân Hợp Kim Của Thợ Rèn Lửa"
+  },
+  {
+      "id": "31081",
+      "name": "Cảm Biến Từ Xa Của Thiên Tài"
+  },
+  {
+      "id": "31082",
+      "name": "Tay Bắt Biến Tần Của Thiên Tài"
+  },
+  {
+      "id": "31083",
+      "name": "Xâm Nhập Trường Siêu Dữ Liệu Thiên Tài"
+  },
+  {
+      "id": "31084",
+      "name": "Bước Đi Lực Hút Của Thiên Tài"
+  },
+  {
+      "id": "31091",
+      "name": "Kính Mát Phân Cực Của Ban Nhạc"
+  },
+  {
+      "id": "31092",
+      "name": "Vòng Tay Lưu Diễn Của Ban Nhạc"
+  },
+  {
+      "id": "31093",
+      "name": "Chiếc Áo Da Của Ban Nhạc"
+  },
+  {
+      "id": "31094",
+      "name": "Bốt Gắn Đinh Của Ban Nhạc"
+  },
+  {
+      "id": "31101",
+      "name": "Mũ Sắt Mỏ Ưng"
+  },
+  {
+      "id": "31102",
+      "name": "Nhẫn Ưng Kích"
+  },
+  {
+      "id": "31103",
+      "name": "Dây Cương Chim Ưng"
+  },
+  {
+      "id": "31104",
+      "name": "Băng Nhung Chim Ưng"
+  },
+  {
+      "id": "31111",
+      "name": "Mặt Nạ Ngàn Người Của Kẻ Trộm"
+  },
+  {
+      "id": "31112",
+      "name": "Găng Tay Hoa Văn Của Kẻ Trộm"
+  },
+  {
+      "id": "31113",
+      "name": "Móc Neo Sắt Của Kẻ Trộm"
+  },
+  {
+      "id": "31114",
+      "name": "Ủng Sao Băng Của Kẻ Trộm"
+  },
+  {
+      "id": "31121",
+      "name": "Mặt Nạ Thở Của Kẻ Hoang Dã"
+  },
+  {
+      "id": "31122",
+      "name": "Thiết Bị Hoang Mạc Của Kẻ Hoang Dã"
+  },
+  {
+      "id": "31123",
+      "name": "Áo Tu Sĩ Của Kẻ Hoang Dã"
+  },
+  {
+      "id": "31124",
+      "name": "Giáp Chân Động Lực Của Kẻ Hoang Dã"
+  },
+  {
+      "id": "31131",
+      "name": "Mắt Giả Phục Minh Của Môn Đồ"
+  },
+  {
+      "id": "31132",
+      "name": "Tay Robot Của Môn Đồ"
+  },
+  {
+      "id": "31133",
+      "name": "Áo Lông Vũ Thừa Lộ Của Môn Đồ"
+  },
+  {
+      "id": "31134",
+      "name": "Giày Lụa Thiên Nhân Của Môn Đồ"
+  },
+  {
+      "id": "31141",
+      "name": "Kính Thông Tin Của Tín Sứ"
+  },
+  {
+      "id": "31142",
+      "name": "Cánh Tay Biến Hóa Của Tín Sứ"
+  },
+  {
+      "id": "31143",
+      "name": "Túi Mật Thư Của Tín Sứ"
+  },
+  {
+      "id": "31144",
+      "name": "Giày Thể Thao Cực Ngầu Của Tín Sứ"
+  },
+  {
+      "id": "31151",
+      "name": "Vương Miện Địa Ngục Đại Công Tước"
+  },
+  {
+      "id": "31152",
+      "name": "Bao Tay Lửa Nhung Đại Công Tước"
+  },
+  {
+      "id": "31153",
+      "name": "Áo Choàng Ân Sủng Đại Công Tước"
+  },
+  {
+      "id": "31154",
+      "name": "Giày Bốt Thanh Lịch Đại Công Tước"
+  },
+  {
+      "id": "31161",
+      "name": "Lồng Chụp Miệng Tù Nhân"
+  },
+  {
+      "id": "31162",
+      "name": "Cùm Đá Tù Nhân"
+  },
+  {
+      "id": "31163",
+      "name": "Dây Trói Tù Nhân"
+  },
+  {
+      "id": "31164",
+      "name": "Gông Cùm Tù Nhân"
+  },
+  {
+      "id": "31171",
+      "name": "Vỏ Cách Nhiệt Tiên Phong"
+  },
+  {
+      "id": "31172",
+      "name": "La Bàn Hư Không Tiên Phong"
+  },
+  {
+      "id": "31173",
+      "name": "Áo Chì Bọc Kín Tiên Phong"
+  },
+  {
+      "id": "31174",
+      "name": "Mỏ Neo Du Hành Tiên Phong"
+  },
+  {
+      "id": "31181",
+      "name": "Thấu Kính Của Thợ Đồng Hồ"
+  },
+  {
+      "id": "31182",
+      "name": "Đồng Hồ May Mắn Thợ Đồng Hồ"
+  },
+  {
+      "id": "31183",
+      "name": "Lễ Phục Hư Ảo Thợ Đồng Hồ"
+  },
+  {
+      "id": "31184",
+      "name": "Giày Da Giấu Mộng Thợ Đồng Hồ"
+  },
+  {
+      "id": "33015",
+      "name": "Điểm Trạm Không Gian Herta"
+  },
+  {
+      "id": "33016",
+      "name": "Chuyến Đi Của Herta"
+  },
+  {
+      "id": "33025",
+      "name": "Tàu Vũ Trụ Xianzhou Luofu"
+  },
+  {
+      "id": "33026",
+      "name": "Nhánh Cây Kiến Tạo Của Xianzhou Luofu"
+  },
+  {
+      "id": "33035",
+      "name": "Tổng Bộ Đầu Não Công Ty"
+  },
+  {
+      "id": "33036",
+      "name": "Tuyến Đường Thương Mại Của Công Ty"
+  },
+  {
+      "id": "33045",
+      "name": "Pháo Đài Bảo Hộ Belobog"
+  },
+  {
+      "id": "33046",
+      "name": "Phòng Tuyến Thiết Vệ Của Belobog"
+  },
+  {
+      "id": "33055",
+      "name": "Mặt Trời Cơ Giới Của Screwllum"
+  },
+  {
+      "id": "33056",
+      "name": "Vành Đai Của Hành Tinh Screwllum"
+  },
+  {
+      "id": "33065",
+      "name": "Thành Phố Chuyển Động Salsotto"
+  },
+  {
+      "id": "33066",
+      "name": "Ranh Giới Ngày Đêm Salsotto"
+  },
+  {
+      "id": "33075",
+      "name": "Trấn Vỏ Đinh Talia"
+  },
+  {
+      "id": "33076",
+      "name": "Dây Điện Trần Talia"
+  },
+  {
+      "id": "33085",
+      "name": "Đảo Sinh Sôi Vonwacq"
+  },
+  {
+      "id": "33086",
+      "name": "Bờ Biển Quanh Đảo Vonwacq"
+  },
+  {
+      "id": "33095",
+      "name": "Sân Vận Động Laser Taikiyan"
+  },
+  {
+      "id": "33096",
+      "name": "Đường Đua Hồ Quang Của Taikiyan"
+  },
+  {
+      "id": "33105",
+      "name": "Tàu Cá Voi Insumousu"
+  },
+  {
+      "id": "33106",
+      "name": "Dây Thừng Sờn Rách Insumousu"
+  },
+  {
+      "id": "33115",
+      "name": "Đội Kỵ Binh Sắt Của Glamoth"
+  },
+  {
+      "id": "33116",
+      "name": "Bia Mộ Tĩnh Mịch Của Glamoth"
+  },
+  {
+      "id": "33125",
+      "name": "Khách Sạn Lớn Của Penacony"
+  },
+  {
+      "id": "33126",
+      "name": "Cung Đường Mộng Mơ Penacony"
+  },
+  {
+      "id": "33135",
+      "name": "Giường Mẹ Gaiathra Sigonia"
+  },
+  {
+      "id": "33136",
+      "name": "Nút Thắt Luân Hồi Của Sigonia"
+  },
+  {
+      "id": "33145",
+      "name": "Magatsu no Morokami Của Izumo"
+  },
+  {
+      "id": "33146",
+      "name": "Izumo, Lưỡi Đao Chấm Dứt Và Khởi Đầu"
+  },
+  {
+      "id": "41011",
+      "name": "Chiếc Trâm Của Lãng Khách"
+  },
+  {
+      "id": "41012",
+      "name": "Giáp Tay Rồng Của Lãng Khách"
+  },
+  {
+      "id": "41013",
+      "name": "Áo Khoác Rách Của Lãng Khách"
+  },
+  {
+      "id": "41014",
+      "name": "Đôi Giày Ảm Đạm Của Lãng Khách"
+  },
+  {
+      "id": "41021",
+      "name": "Mũ Bông Lúa Của Thiện Xạ"
+  },
+  {
+      "id": "41022",
+      "name": "Găng Tay Da Thô Của Thiện Xạ"
+  },
+  {
+      "id": "41023",
+      "name": "Áo Choàng Săn Gió Của Thiện Xạ"
+  },
+  {
+      "id": "41024",
+      "name": "Giày Bốt Đinh Tán Của Thiện Xạ"
+  },
+  {
+      "id": "41031",
+      "name": "Mũ Khoan Dung Thánh Kỵ Sĩ"
+  },
+  {
+      "id": "41032",
+      "name": "Nhẫn Thề Nguyền Thánh Kỵ Sĩ"
+  },
+  {
+      "id": "41033",
+      "name": "Giáp Trang Nghiêm Thánh Kỵ Sĩ"
+  },
+  {
+      "id": "41034",
+      "name": "Giày Sắt Thánh Kỵ Sĩ"
+  },
+  {
+      "id": "41041",
+      "name": "Mũ Artaius Thợ Săn"
+  },
+  {
+      "id": "41042",
+      "name": "Găng Tay Thằn Lằn Của Thợ Săn"
+  },
+  {
+      "id": "41043",
+      "name": "Áo Choàng Rồng Băng Của Thợ Săn"
+  },
+  {
+      "id": "41044",
+      "name": "Ủng Phủ Da Nai Của Thợ Săn"
+  },
+  {
+      "id": "41051",
+      "name": "Mũ Bảo Hộ Của Quyền Vương"
+  },
+  {
+      "id": "41052",
+      "name": "Găng Tay Pháo Của Quyền Vương"
+  },
+  {
+      "id": "41053",
+      "name": "Bảo Hộ Ngực Của Quyền Vương"
+  },
+  {
+      "id": "41054",
+      "name": "Giày Bước Nhảy Của Quyền Vương"
+  },
+  {
+      "id": "41061",
+      "name": "Mũ Giáp Gang Của Thiết Vệ"
+  },
+  {
+      "id": "41062",
+      "name": "Giáp Tay Vảy Bạc Của Thiết Vệ"
+  },
+  {
+      "id": "41063",
+      "name": "Quân Phục Cũ Của Thiết Vệ"
+  },
+  {
+      "id": "41064",
+      "name": "Giáp Chân Bạc Của Thiết Vệ"
+  },
+  {
+      "id": "41071",
+      "name": "Kính Đen Của Thợ Rèn Lửa"
+  },
+  {
+      "id": "41072",
+      "name": "Nhẫn Bắt Lửa Của Thợ Rèn Lửa"
+  },
+  {
+      "id": "41073",
+      "name": "Tạp Dề Chống Cháy Của Thợ Rèn Lửa"
+  },
+  {
+      "id": "41074",
+      "name": "Chân Hợp Kim Của Thợ Rèn Lửa"
+  },
+  {
+      "id": "41081",
+      "name": "Cảm Biến Từ Xa Của Thiên Tài"
+  },
+  {
+      "id": "41082",
+      "name": "Tay Bắt Biến Tần Của Thiên Tài"
+  },
+  {
+      "id": "41083",
+      "name": "Xâm Nhập Trường Siêu Dữ Liệu Thiên Tài"
+  },
+  {
+      "id": "41084",
+      "name": "Bước Đi Lực Hút Của Thiên Tài"
+  },
+  {
+      "id": "41091",
+      "name": "Kính Mát Phân Cực Của Ban Nhạc"
+  },
+  {
+      "id": "41092",
+      "name": "Vòng Tay Lưu Diễn Của Ban Nhạc"
+  },
+  {
+      "id": "41093",
+      "name": "Chiếc Áo Da Của Ban Nhạc"
+  },
+  {
+      "id": "41094",
+      "name": "Bốt Gắn Đinh Của Ban Nhạc"
+  },
+  {
+      "id": "41101",
+      "name": "Mũ Sắt Mỏ Ưng"
+  },
+  {
+      "id": "41102",
+      "name": "Nhẫn Ưng Kích"
+  },
+  {
+      "id": "41103",
+      "name": "Dây Cương Chim Ưng"
+  },
+  {
+      "id": "41104",
+      "name": "Băng Nhung Chim Ưng"
+  },
+  {
+      "id": "41111",
+      "name": "Mặt Nạ Ngàn Người Của Kẻ Trộm"
+  },
+  {
+      "id": "41112",
+      "name": "Găng Tay Hoa Văn Của Kẻ Trộm"
+  },
+  {
+      "id": "41113",
+      "name": "Móc Neo Sắt Của Kẻ Trộm"
+  },
+  {
+      "id": "41114",
+      "name": "Ủng Sao Băng Của Kẻ Trộm"
+  },
+  {
+      "id": "41121",
+      "name": "Mặt Nạ Thở Của Kẻ Hoang Dã"
+  },
+  {
+      "id": "41122",
+      "name": "Thiết Bị Hoang Mạc Của Kẻ Hoang Dã"
+  },
+  {
+      "id": "41123",
+      "name": "Áo Tu Sĩ Của Kẻ Hoang Dã"
+  },
+  {
+      "id": "41124",
+      "name": "Giáp Chân Động Lực Của Kẻ Hoang Dã"
+  },
+  {
+      "id": "41131",
+      "name": "Mắt Giả Phục Minh Của Môn Đồ"
+  },
+  {
+      "id": "41132",
+      "name": "Tay Robot Của Môn Đồ"
+  },
+  {
+      "id": "41133",
+      "name": "Áo Lông Vũ Thừa Lộ Của Môn Đồ"
+  },
+  {
+      "id": "41134",
+      "name": "Giày Lụa Thiên Nhân Của Môn Đồ"
+  },
+  {
+      "id": "41141",
+      "name": "Kính Thông Tin Của Tín Sứ"
+  },
+  {
+      "id": "41142",
+      "name": "Cánh Tay Biến Hóa Của Tín Sứ"
+  },
+  {
+      "id": "41143",
+      "name": "Túi Mật Thư Của Tín Sứ"
+  },
+  {
+      "id": "41144",
+      "name": "Giày Thể Thao Cực Ngầu Của Tín Sứ"
+  },
+  {
+      "id": "41151",
+      "name": "Vương Miện Địa Ngục Đại Công Tước"
+  },
+  {
+      "id": "41152",
+      "name": "Bao Tay Lửa Nhung Đại Công Tước"
+  },
+  {
+      "id": "41153",
+      "name": "Áo Choàng Ân Sủng Đại Công Tước"
+  },
+  {
+      "id": "41154",
+      "name": "Giày Bốt Thanh Lịch Đại Công Tước"
+  },
+  {
+      "id": "41161",
+      "name": "Lồng Chụp Miệng Tù Nhân"
+  },
+  {
+      "id": "41162",
+      "name": "Cùm Đá Tù Nhân"
+  },
+  {
+      "id": "41163",
+      "name": "Dây Trói Tù Nhân"
+  },
+  {
+      "id": "41164",
+      "name": "Gông Cùm Tù Nhân"
+  },
+  {
+      "id": "41171",
+      "name": "Vỏ Cách Nhiệt Tiên Phong"
+  },
+  {
+      "id": "41172",
+      "name": "La Bàn Hư Không Tiên Phong"
+  },
+  {
+      "id": "41173",
+      "name": "Áo Chì Bọc Kín Tiên Phong"
+  },
+  {
+      "id": "41174",
+      "name": "Mỏ Neo Du Hành Tiên Phong"
+  },
+  {
+      "id": "41181",
+      "name": "Thấu Kính Của Thợ Đồng Hồ"
+  },
+  {
+      "id": "41182",
+      "name": "Đồng Hồ May Mắn Thợ Đồng Hồ"
+  },
+  {
+      "id": "41183",
+      "name": "Lễ Phục Hư Ảo Thợ Đồng Hồ"
+  },
+  {
+      "id": "41184",
+      "name": "Giày Da Giấu Mộng Thợ Đồng Hồ"
+  },
+  {
+      "id": "43015",
+      "name": "Điểm Trạm Không Gian Herta"
+  },
+  {
+      "id": "43016",
+      "name": "Chuyến Đi Của Herta"
+  },
+  {
+      "id": "43025",
+      "name": "Tàu Vũ Trụ Xianzhou Luofu"
+  },
+  {
+      "id": "43026",
+      "name": "Nhánh Cây Kiến Tạo Của Xianzhou Luofu"
+  },
+  {
+      "id": "43035",
+      "name": "Tổng Bộ Đầu Não Công Ty"
+  },
+  {
+      "id": "43036",
+      "name": "Tuyến Đường Thương Mại Của Công Ty"
+  },
+  {
+      "id": "43045",
+      "name": "Pháo Đài Bảo Hộ Belobog"
+  },
+  {
+      "id": "43046",
+      "name": "Phòng Tuyến Thiết Vệ Của Belobog"
+  },
+  {
+      "id": "43055",
+      "name": "Mặt Trời Cơ Giới Của Screwllum"
+  },
+  {
+      "id": "43056",
+      "name": "Vành Đai Của Hành Tinh Screwllum"
+  },
+  {
+      "id": "43065",
+      "name": "Thành Phố Chuyển Động Salsotto"
+  },
+  {
+      "id": "43066",
+      "name": "Ranh Giới Ngày Đêm Salsotto"
+  },
+  {
+      "id": "43075",
+      "name": "Trấn Vỏ Đinh Talia"
+  },
+  {
+      "id": "43076",
+      "name": "Dây Điện Trần Talia"
+  },
+  {
+      "id": "43085",
+      "name": "Đảo Sinh Sôi Vonwacq"
+  },
+  {
+      "id": "43086",
+      "name": "Bờ Biển Quanh Đảo Vonwacq"
+  },
+  {
+      "id": "43095",
+      "name": "Sân Vận Động Laser Taikiyan"
+  },
+  {
+      "id": "43096",
+      "name": "Đường Đua Hồ Quang Của Taikiyan"
+  },
+  {
+      "id": "43105",
+      "name": "Tàu Cá Voi Insumousu"
+  },
+  {
+      "id": "43106",
+      "name": "Dây Thừng Sờn Rách Insumousu"
+  },
+  {
+      "id": "43115",
+      "name": "Đội Kỵ Binh Sắt Của Glamoth"
+  },
+  {
+      "id": "43116",
+      "name": "Bia Mộ Tĩnh Mịch Của Glamoth"
+  },
+  {
+      "id": "43125",
+      "name": "Khách Sạn Lớn Của Penacony"
+  },
+  {
+      "id": "43126",
+      "name": "Cung Đường Mộng Mơ Penacony"
+  },
+  {
+      "id": "43135",
+      "name": "Giường Mẹ Gaiathra Sigonia"
+  },
+  {
+      "id": "43136",
+      "name": "Nút Thắt Luân Hồi Của Sigonia"
+  },
+  {
+      "id": "43145",
+      "name": "Magatsu no Morokami Của Izumo"
+  },
+  {
+      "id": "43146",
+      "name": "Izumo, Lưỡi Đao Chấm Dứt Và Khởi Đầu"
+  },
+  {
+      "id": "51011",
+      "name": "Chiếc Trâm Của Lãng Khách"
+  },
+  {
+      "id": "51012",
+      "name": "Giáp Tay Rồng Của Lãng Khách"
+  },
+  {
+      "id": "51013",
+      "name": "Áo Khoác Rách Của Lãng Khách"
+  },
+  {
+      "id": "51014",
+      "name": "Đôi Giày Ảm Đạm Của Lãng Khách"
+  },
+  {
+      "id": "51021",
+      "name": "Mũ Bông Lúa Của Thiện Xạ"
+  },
+  {
+      "id": "51022",
+      "name": "Găng Tay Da Thô Của Thiện Xạ"
+  },
+  {
+      "id": "51023",
+      "name": "Áo Choàng Săn Gió Của Thiện Xạ"
+  },
+  {
+      "id": "51024",
+      "name": "Giày Bốt Đinh Tán Của Thiện Xạ"
+  },
+  {
+      "id": "51031",
+      "name": "Mũ Khoan Dung Thánh Kỵ Sĩ"
+  },
+  {
+      "id": "51032",
+      "name": "Nhẫn Thề Nguyền Thánh Kỵ Sĩ"
+  },
+  {
+      "id": "51033",
+      "name": "Giáp Trang Nghiêm Thánh Kỵ Sĩ"
+  },
+  {
+      "id": "51034",
+      "name": "Giày Sắt Thánh Kỵ Sĩ"
+  },
+  {
+      "id": "51041",
+      "name": "Mũ Artaius Thợ Săn"
+  },
+  {
+      "id": "51042",
+      "name": "Găng Tay Thằn Lằn Của Thợ Săn"
+  },
+  {
+      "id": "51043",
+      "name": "Áo Choàng Rồng Băng Của Thợ Săn"
+  },
+  {
+      "id": "51044",
+      "name": "Ủng Phủ Da Nai Của Thợ Săn"
+  },
+  {
+      "id": "51051",
+      "name": "Mũ Bảo Hộ Của Quyền Vương"
+  },
+  {
+      "id": "51052",
+      "name": "Găng Tay Pháo Của Quyền Vương"
+  },
+  {
+      "id": "51053",
+      "name": "Bảo Hộ Ngực Của Quyền Vương"
+  },
+  {
+      "id": "51054",
+      "name": "Giày Bước Nhảy Của Quyền Vương"
+  },
+  {
+      "id": "51061",
+      "name": "Mũ Giáp Gang Của Thiết Vệ"
+  },
+  {
+      "id": "51062",
+      "name": "Giáp Tay Vảy Bạc Của Thiết Vệ"
+  },
+  {
+      "id": "51063",
+      "name": "Quân Phục Cũ Của Thiết Vệ"
+  },
+  {
+      "id": "51064",
+      "name": "Giáp Chân Bạc Của Thiết Vệ"
+  },
+  {
+      "id": "51071",
+      "name": "Kính Đen Của Thợ Rèn Lửa"
+  },
+  {
+      "id": "51072",
+      "name": "Nhẫn Bắt Lửa Của Thợ Rèn Lửa"
+  },
+  {
+      "id": "51073",
+      "name": "Tạp Dề Chống Cháy Của Thợ Rèn Lửa"
+  },
+  {
+      "id": "51074",
+      "name": "Chân Hợp Kim Của Thợ Rèn Lửa"
+  },
+  {
+      "id": "51081",
+      "name": "Cảm Biến Từ Xa Của Thiên Tài"
+  },
+  {
+      "id": "51082",
+      "name": "Tay Bắt Biến Tần Của Thiên Tài"
+  },
+  {
+      "id": "51083",
+      "name": "Xâm Nhập Trường Siêu Dữ Liệu Thiên Tài"
+  },
+  {
+      "id": "51084",
+      "name": "Bước Đi Lực Hút Của Thiên Tài"
+  },
+  {
+      "id": "51091",
+      "name": "Kính Mát Phân Cực Của Ban Nhạc"
+  },
+  {
+      "id": "51092",
+      "name": "Vòng Tay Lưu Diễn Của Ban Nhạc"
+  },
+  {
+      "id": "51093",
+      "name": "Chiếc Áo Da Của Ban Nhạc"
+  },
+  {
+      "id": "51094",
+      "name": "Bốt Gắn Đinh Của Ban Nhạc"
+  },
+  {
+      "id": "51101",
+      "name": "Mũ Sắt Mỏ Ưng"
+  },
+  {
+      "id": "51102",
+      "name": "Nhẫn Ưng Kích"
+  },
+  {
+      "id": "51103",
+      "name": "Dây Cương Chim Ưng"
+  },
+  {
+      "id": "51104",
+      "name": "Băng Nhung Chim Ưng"
+  },
+  {
+      "id": "51111",
+      "name": "Mặt Nạ Ngàn Người Của Kẻ Trộm"
+  },
+  {
+      "id": "51112",
+      "name": "Găng Tay Hoa Văn Của Kẻ Trộm"
+  },
+  {
+      "id": "51113",
+      "name": "Móc Neo Sắt Của Kẻ Trộm"
+  },
+  {
+      "id": "51114",
+      "name": "Ủng Sao Băng Của Kẻ Trộm"
+  },
+  {
+      "id": "51121",
+      "name": "Mặt Nạ Thở Của Kẻ Hoang Dã"
+  },
+  {
+      "id": "51122",
+      "name": "Thiết Bị Hoang Mạc Của Kẻ Hoang Dã"
+  },
+  {
+      "id": "51123",
+      "name": "Áo Tu Sĩ Của Kẻ Hoang Dã"
+  },
+  {
+      "id": "51124",
+      "name": "Giáp Chân Động Lực Của Kẻ Hoang Dã"
+  },
+  {
+      "id": "51131",
+      "name": "Mắt Giả Phục Minh Của Môn Đồ"
+  },
+  {
+      "id": "51132",
+      "name": "Tay Robot Của Môn Đồ"
+  },
+  {
+      "id": "51133",
+      "name": "Áo Lông Vũ Thừa Lộ Của Môn Đồ"
+  },
+  {
+      "id": "51134",
+      "name": "Giày Lụa Thiên Nhân Của Môn Đồ"
+  },
+  {
+      "id": "51141",
+      "name": "Kính Thông Tin Của Tín Sứ"
+  },
+  {
+      "id": "51142",
+      "name": "Cánh Tay Biến Hóa Của Tín Sứ"
+  },
+  {
+      "id": "51143",
+      "name": "Túi Mật Thư Của Tín Sứ"
+  },
+  {
+      "id": "51144",
+      "name": "Giày Thể Thao Cực Ngầu Của Tín Sứ"
+  },
+  {
+      "id": "51151",
+      "name": "Vương Miện Địa Ngục Đại Công Tước"
+  },
+  {
+      "id": "51152",
+      "name": "Bao Tay Lửa Nhung Đại Công Tước"
+  },
+  {
+      "id": "51153",
+      "name": "Áo Choàng Ân Sủng Đại Công Tước"
+  },
+  {
+      "id": "51154",
+      "name": "Giày Bốt Thanh Lịch Đại Công Tước"
+  },
+  {
+      "id": "51161",
+      "name": "Lồng Chụp Miệng Tù Nhân"
+  },
+  {
+      "id": "51162",
+      "name": "Cùm Đá Tù Nhân"
+  },
+  {
+      "id": "51163",
+      "name": "Dây Trói Tù Nhân"
+  },
+  {
+      "id": "51164",
+      "name": "Gông Cùm Tù Nhân"
+  },
+  {
+      "id": "51171",
+      "name": "Vỏ Cách Nhiệt Tiên Phong"
+  },
+  {
+      "id": "51172",
+      "name": "La Bàn Hư Không Tiên Phong"
+  },
+  {
+      "id": "51173",
+      "name": "Áo Chì Bọc Kín Tiên Phong"
+  },
+  {
+      "id": "51174",
+      "name": "Mỏ Neo Du Hành Tiên Phong"
+  },
+  {
+      "id": "51181",
+      "name": "Thấu Kính Của Thợ Đồng Hồ"
+  },
+  {
+      "id": "51182",
+      "name": "Đồng Hồ May Mắn Thợ Đồng Hồ"
+  },
+  {
+      "id": "51183",
+      "name": "Lễ Phục Hư Ảo Thợ Đồng Hồ"
+  },
+  {
+      "id": "51184",
+      "name": "Giày Da Giấu Mộng Thợ Đồng Hồ"
+  },
+  {
+      "id": "53015",
+      "name": "Điểm Trạm Không Gian Herta"
+  },
+  {
+      "id": "53016",
+      "name": "Chuyến Đi Của Herta"
+  },
+  {
+      "id": "53025",
+      "name": "Tàu Vũ Trụ Xianzhou Luofu"
+  },
+  {
+      "id": "53026",
+      "name": "Nhánh Cây Kiến Tạo Của Xianzhou Luofu"
+  },
+  {
+      "id": "53035",
+      "name": "Tổng Bộ Đầu Não Công Ty"
+  },
+  {
+      "id": "53036",
+      "name": "Tuyến Đường Thương Mại Của Công Ty"
+  },
+  {
+      "id": "53045",
+      "name": "Pháo Đài Bảo Hộ Belobog"
+  },
+  {
+      "id": "53046",
+      "name": "Phòng Tuyến Thiết Vệ Của Belobog"
+  },
+  {
+      "id": "53055",
+      "name": "Mặt Trời Cơ Giới Của Screwllum"
+  },
+  {
+      "id": "53056",
+      "name": "Vành Đai Của Hành Tinh Screwllum"
+  },
+  {
+      "id": "53065",
+      "name": "Thành Phố Chuyển Động Salsotto"
+  },
+  {
+      "id": "53066",
+      "name": "Ranh Giới Ngày Đêm Salsotto"
+  },
+  {
+      "id": "53075",
+      "name": "Trấn Vỏ Đinh Talia"
+  },
+  {
+      "id": "53076",
+      "name": "Dây Điện Trần Talia"
+  },
+  {
+      "id": "53085",
+      "name": "Đảo Sinh Sôi Vonwacq"
+  },
+  {
+      "id": "53086",
+      "name": "Bờ Biển Quanh Đảo Vonwacq"
+  },
+  {
+      "id": "53095",
+      "name": "Sân Vận Động Laser Taikiyan"
+  },
+  {
+      "id": "53096",
+      "name": "Đường Đua Hồ Quang Của Taikiyan"
+  },
+  {
+      "id": "53105",
+      "name": "Tàu Cá Voi Insumousu"
+  },
+  {
+      "id": "53106",
+      "name": "Dây Thừng Sờn Rách Insumousu"
+  },
+  {
+      "id": "53115",
+      "name": "Đội Kỵ Binh Sắt Của Glamoth"
+  },
+  {
+      "id": "53116",
+      "name": "Bia Mộ Tĩnh Mịch Của Glamoth"
+  },
+  {
+      "id": "53125",
+      "name": "Khách Sạn Lớn Của Penacony"
+  },
+  {
+      "id": "53126",
+      "name": "Cung Đường Mộng Mơ Penacony"
+  },
+  {
+      "id": "53135",
+      "name": "Giường Mẹ Gaiathra Sigonia"
+  },
+  {
+      "id": "53136",
+      "name": "Nút Thắt Luân Hồi Của Sigonia"
+  },
+  {
+      "id": "53145",
+      "name": "Magatsu no Morokami Của Izumo"
+  },
+  {
+      "id": "53146",
+      "name": "Izumo, Lưỡi Đao Chấm Dứt Và Khởi Đầu"
+  },
+  {
+      "id": "55001",
+      "name": "Áo Khoác Rách Của Lãng Khách"
+  },
+  {
+      "id": "55002",
+      "name": "Đôi Giày Ảm Đạm Của Lãng Khách"
+  },
+  {
+      "id": "55003",
+      "name": "Áo Choàng Săn Gió Của Thiện Xạ"
+  },
+  {
+      "id": "55004",
+      "name": "Giáp Trang Nghiêm Thánh Kỵ Sĩ"
+  },
+  {
+      "id": "55005",
+      "name": "Giày Sắt Thánh Kỵ Sĩ"
+  },
+  {
+      "id": "55006",
+      "name": "Bảo Hộ Ngực Của Quyền Vương"
+  },
+  {
+      "id": "61011",
+      "name": "Chiếc Trâm Của Lãng Khách"
+  },
+  {
+      "id": "61012",
+      "name": "Giáp Tay Rồng Của Lãng Khách"
+  },
+  {
+      "id": "61013",
+      "name": "Áo Khoác Rách Của Lãng Khách"
+  },
+  {
+      "id": "61014",
+      "name": "Đôi Giày Ảm Đạm Của Lãng Khách"
+  },
+  {
+      "id": "61021",
+      "name": "Mũ Bông Lúa Của Thiện Xạ"
+  },
+  {
+      "id": "61022",
+      "name": "Găng Tay Da Thô Của Thiện Xạ"
+  },
+  {
+      "id": "61023",
+      "name": "Áo Choàng Săn Gió Của Thiện Xạ"
+  },
+  {
+      "id": "61024",
+      "name": "Giày Bốt Đinh Tán Của Thiện Xạ"
+  },
+  {
+      "id": "61031",
+      "name": "Mũ Khoan Dung Thánh Kỵ Sĩ"
+  },
+  {
+      "id": "61032",
+      "name": "Nhẫn Thề Nguyền Thánh Kỵ Sĩ"
+  },
+  {
+      "id": "61033",
+      "name": "Giáp Trang Nghiêm Thánh Kỵ Sĩ"
+  },
+  {
+      "id": "61034",
+      "name": "Giày Sắt Thánh Kỵ Sĩ"
+  },
+  {
+      "id": "61041",
+      "name": "Mũ Artaius Thợ Săn"
+  },
+  {
+      "id": "61042",
+      "name": "Găng Tay Thằn Lằn Của Thợ Săn"
+  },
+  {
+      "id": "61043",
+      "name": "Áo Choàng Rồng Băng Của Thợ Săn"
+  },
+  {
+      "id": "61044",
+      "name": "Ủng Phủ Da Nai Của Thợ Săn"
+  },
+  {
+      "id": "61051",
+      "name": "Mũ Bảo Hộ Của Quyền Vương"
+  },
+  {
+      "id": "61052",
+      "name": "Găng Tay Pháo Của Quyền Vương"
+  },
+  {
+      "id": "61053",
+      "name": "Bảo Hộ Ngực Của Quyền Vương"
+  },
+  {
+      "id": "61054",
+      "name": "Giày Bước Nhảy Của Quyền Vương"
+  },
+  {
+      "id": "61061",
+      "name": "Mũ Giáp Gang Của Thiết Vệ"
+  },
+  {
+      "id": "61062",
+      "name": "Giáp Tay Vảy Bạc Của Thiết Vệ"
+  },
+  {
+      "id": "61063",
+      "name": "Quân Phục Cũ Của Thiết Vệ"
+  },
+  {
+      "id": "61064",
+      "name": "Giáp Chân Bạc Của Thiết Vệ"
+  },
+  {
+      "id": "61071",
+      "name": "Kính Đen Của Thợ Rèn Lửa"
+  },
+  {
+      "id": "61072",
+      "name": "Nhẫn Bắt Lửa Của Thợ Rèn Lửa"
+  },
+  {
+      "id": "61073",
+      "name": "Tạp Dề Chống Cháy Của Thợ Rèn Lửa"
+  },
+  {
+      "id": "61074",
+      "name": "Chân Hợp Kim Của Thợ Rèn Lửa"
+  },
+  {
+      "id": "61081",
+      "name": "Cảm Biến Từ Xa Của Thiên Tài"
+  },
+  {
+      "id": "61082",
+      "name": "Tay Bắt Biến Tần Của Thiên Tài"
+  },
+  {
+      "id": "61083",
+      "name": "Xâm Nhập Trường Siêu Dữ Liệu Thiên Tài"
+  },
+  {
+      "id": "61084",
+      "name": "Bước Đi Lực Hút Của Thiên Tài"
+  },
+  {
+      "id": "61091",
+      "name": "Kính Mát Phân Cực Của Ban Nhạc"
+  },
+  {
+      "id": "61092",
+      "name": "Vòng Tay Lưu Diễn Của Ban Nhạc"
+  },
+  {
+      "id": "61093",
+      "name": "Chiếc Áo Da Của Ban Nhạc"
+  },
+  {
+      "id": "61094",
+      "name": "Bốt Gắn Đinh Của Ban Nhạc"
+  },
+  {
+      "id": "61101",
+      "name": "Mũ Sắt Mỏ Ưng"
+  },
+  {
+      "id": "61102",
+      "name": "Nhẫn Ưng Kích"
+  },
+  {
+      "id": "61103",
+      "name": "Dây Cương Chim Ưng"
+  },
+  {
+      "id": "61104",
+      "name": "Băng Nhung Chim Ưng"
+  },
+  {
+      "id": "61111",
+      "name": "Mặt Nạ Ngàn Người Của Kẻ Trộm"
+  },
+  {
+      "id": "61112",
+      "name": "Găng Tay Hoa Văn Của Kẻ Trộm"
+  },
+  {
+      "id": "61113",
+      "name": "Móc Neo Sắt Của Kẻ Trộm"
+  },
+  {
+      "id": "61114",
+      "name": "Ủng Sao Băng Của Kẻ Trộm"
+  },
+  {
+      "id": "61121",
+      "name": "Mặt Nạ Thở Của Kẻ Hoang Dã"
+  },
+  {
+      "id": "61122",
+      "name": "Thiết Bị Hoang Mạc Của Kẻ Hoang Dã"
+  },
+  {
+      "id": "61123",
+      "name": "Áo Tu Sĩ Của Kẻ Hoang Dã"
+  },
+  {
+      "id": "61124",
+      "name": "Giáp Chân Động Lực Của Kẻ Hoang Dã"
+  },
+  {
+      "id": "61131",
+      "name": "Mắt Giả Phục Minh Của Môn Đồ"
+  },
+  {
+      "id": "61132",
+      "name": "Tay Robot Của Môn Đồ"
+  },
+  {
+      "id": "61133",
+      "name": "Áo Lông Vũ Thừa Lộ Của Môn Đồ"
+  },
+  {
+      "id": "61134",
+      "name": "Giày Lụa Thiên Nhân Của Môn Đồ"
+  },
+  {
+      "id": "61141",
+      "name": "Kính Thông Tin Của Tín Sứ"
+  },
+  {
+      "id": "61142",
+      "name": "Cánh Tay Biến Hóa Của Tín Sứ"
+  },
+  {
+      "id": "61143",
+      "name": "Túi Mật Thư Của Tín Sứ"
+  },
+  {
+      "id": "61144",
+      "name": "Giày Thể Thao Cực Ngầu Của Tín Sứ"
+  },
+  {
+      "id": "61151",
+      "name": "Vương Miện Địa Ngục Đại Công Tước"
+  },
+  {
+      "id": "61152",
+      "name": "Bao Tay Lửa Nhung Đại Công Tước"
+  },
+  {
+      "id": "61153",
+      "name": "Áo Choàng Ân Sủng Đại Công Tước"
+  },
+  {
+      "id": "61154",
+      "name": "Giày Bốt Thanh Lịch Đại Công Tước"
+  },
+  {
+      "id": "61161",
+      "name": "Lồng Chụp Miệng Tù Nhân"
+  },
+  {
+      "id": "61162",
+      "name": "Cùm Đá Tù Nhân"
+  },
+  {
+      "id": "61163",
+      "name": "Dây Trói Tù Nhân"
+  },
+  {
+      "id": "61164",
+      "name": "Gông Cùm Tù Nhân"
+  },
+  {
+      "id": "61171",
+      "name": "Vỏ Cách Nhiệt Tiên Phong"
+  },
+  {
+      "id": "61172",
+      "name": "La Bàn Hư Không Tiên Phong"
+  },
+  {
+      "id": "61173",
+      "name": "Áo Chì Bọc Kín Tiên Phong"
+  },
+  {
+      "id": "61174",
+      "name": "Mỏ Neo Du Hành Tiên Phong"
+  },
+  {
+      "id": "61181",
+      "name": "Thấu Kính Của Thợ Đồng Hồ"
+  },
+  {
+      "id": "61182",
+      "name": "Đồng Hồ May Mắn Thợ Đồng Hồ"
+  },
+  {
+      "id": "61183",
+      "name": "Lễ Phục Hư Ảo Thợ Đồng Hồ"
+  },
+  {
+      "id": "61184",
+      "name": "Giày Da Giấu Mộng Thợ Đồng Hồ"
+  },
+  {
+      "id": "63015",
+      "name": "Điểm Trạm Không Gian Herta"
+  },
+  {
+      "id": "63016",
+      "name": "Chuyến Đi Của Herta"
+  },
+  {
+      "id": "63025",
+      "name": "Tàu Vũ Trụ Xianzhou Luofu"
+  },
+  {
+      "id": "63026",
+      "name": "Nhánh Cây Kiến Tạo Của Xianzhou Luofu"
+  },
+  {
+      "id": "63035",
+      "name": "Tổng Bộ Đầu Não Công Ty"
+  },
+  {
+      "id": "63036",
+      "name": "Tuyến Đường Thương Mại Của Công Ty"
+  },
+  {
+      "id": "63045",
+      "name": "Pháo Đài Bảo Hộ Belobog"
+  },
+  {
+      "id": "63046",
+      "name": "Phòng Tuyến Thiết Vệ Của Belobog"
+  },
+  {
+      "id": "63055",
+      "name": "Mặt Trời Cơ Giới Của Screwllum"
+  },
+  {
+      "id": "63056",
+      "name": "Vành Đai Của Hành Tinh Screwllum"
+  },
+  {
+      "id": "63065",
+      "name": "Thành Phố Chuyển Động Salsotto"
+  },
+  {
+      "id": "63066",
+      "name": "Ranh Giới Ngày Đêm Salsotto"
+  },
+  {
+      "id": "63075",
+      "name": "Trấn Vỏ Đinh Talia"
+  },
+  {
+      "id": "63076",
+      "name": "Dây Điện Trần Talia"
+  },
+  {
+      "id": "63085",
+      "name": "Đảo Sinh Sôi Vonwacq"
+  },
+  {
+      "id": "63086",
+      "name": "Bờ Biển Quanh Đảo Vonwacq"
+  },
+  {
+      "id": "63095",
+      "name": "Sân Vận Động Laser Taikiyan"
+  },
+  {
+      "id": "63096",
+      "name": "Đường Đua Hồ Quang Của Taikiyan"
+  },
+  {
+      "id": "63105",
+      "name": "Tàu Cá Voi Insumousu"
+  },
+  {
+      "id": "63106",
+      "name": "Dây Thừng Sờn Rách Insumousu"
+  },
+  {
+      "id": "63115",
+      "name": "Đội Kỵ Binh Sắt Của Glamoth"
+  },
+  {
+      "id": "63116",
+      "name": "Bia Mộ Tĩnh Mịch Của Glamoth"
+  },
+  {
+      "id": "63125",
+      "name": "Khách Sạn Lớn Của Penacony"
+  },
+  {
+      "id": "63126",
+      "name": "Cung Đường Mộng Mơ Penacony"
+  },
+  {
+      "id": "63135",
+      "name": "Giường Mẹ Gaiathra Sigonia"
+  },
+  {
+      "id": "63136",
+      "name": "Nút Thắt Luân Hồi Của Sigonia"
+  },
+  {
+      "id": "63145",
+      "name": "Magatsu no Morokami Của Izumo"
+  },
+  {
+      "id": "63146",
+      "name": "Izumo, Lưỡi Đao Chấm Dứt Và Khởi Đầu"
+  },
+  {
+      "id": "100000",
+      "name": "Ngôi Sao Vinh Dự"
+  },
+  {
+      "id": "100001",
+      "name": "Đầu Đạn Pixel"
+  },
+  {
+      "id": "110101",
+      "name": "Giọt Lệ Trong Mơ"
+  },
+  {
+      "id": "110111",
+      "name": "Lưỡi Đao Tử Vong"
+  },
+  {
+      "id": "110112",
+      "name": "Lưỡi Kiếm Vô Hồn"
+  },
+  {
+      "id": "110113",
+      "name": "Lưỡi Đao Tịnh Thế"
+  },
+  {
+      "id": "110121",
+      "name": "Mũi Tên Săn Thú"
+  },
+  {
+      "id": "110122",
+      "name": "Mũi Tên Diệt Quỷ"
+  },
+  {
+      "id": "110123",
+      "name": "Mũi Tên Đuổi Sao"
+  },
+  {
+      "id": "110131",
+      "name": "Chìa Khóa Linh Cảm"
+  },
+  {
+      "id": "110132",
+      "name": "Chìa Khóa Tri Thức"
+  },
+  {
+      "id": "110133",
+      "name": "Chìa Khóa Trí Tuệ"
+  },
+  {
+      "id": "110141",
+      "name": "Cố Chấp Của Đồng"
+  },
+  {
+      "id": "110142",
+      "name": "Lời Thề Sắt Lạnh"
+  },
+  {
+      "id": "110143",
+      "name": "Hổ Phách Kiên Cố"
+  },
+  {
+      "id": "110151",
+      "name": "Ánh Đen U Tối"
+  },
+  {
+      "id": "110152",
+      "name": "Ánh Đen Hư Không"
+  },
+  {
+      "id": "110153",
+      "name": "Ánh Đen Trầm Luân"
+  },
+  {
+      "id": "110161",
+      "name": "Giai Điệu Hài Hòa"
+  },
+  {
+      "id": "110162",
+      "name": "Ca Tụng Gia Tộc"
+  },
+  {
+      "id": "110163",
+      "name": "Chương Nhạc Chòm Sao"
+  },
+  {
+      "id": "110171",
+      "name": "Hạt Giống Trù Phú"
+  },
+  {
+      "id": "110172",
+      "name": "Mầm Sống"
+  },
+  {
+      "id": "110173",
+      "name": "Hoa Vĩnh Cửu"
+  },
+  {
+      "id": "110181",
+      "name": "Răng Nanh Boris"
+  },
+  {
+      "id": "110182",
+      "name": "Răng Sói Độc"
+  },
+  {
+      "id": "110183",
+      "name": "Răng Nanh Trăng Cuồng"
+  },
+  {
+      "id": "110191",
+      "name": "[Tạm Dịch] Đạn Thiên Thạch | Meteoric Bullet"
+  },
+  {
+      "id": "110192",
+      "name": "[Tạm Dịch] Dấu Hiệu Của Định Mệnh | Destined Expiration"
+  },
+  {
+      "id": "110193",
+      "name": "[Tạm Dịch] Một Cuộc Phản Công | Countertemporal Shot"
+  },
+  {
+      "id": "110211",
+      "name": "Bụi Sao Phân Tán"
+  },
+  {
+      "id": "110212",
+      "name": "Lăng Tinh Sao Băng"
+  },
+  {
+      "id": "110213",
+      "name": "Hổ Phách Thần Thể"
+  },
+  {
+      "id": "110221",
+      "name": "Linh Hồn Rực Cháy"
+  },
+  {
+      "id": "110222",
+      "name": "Linh Hồn Tinh Hỏa"
+  },
+  {
+      "id": "110223",
+      "name": "Quỷ Đốt Trời"
+  },
+  {
+      "id": "110231",
+      "name": "Nốt Nhạc Đám Mây"
+  },
+  {
+      "id": "110232",
+      "name": "Ô Nhịp Thiên Không"
+  },
+  {
+      "id": "110233",
+      "name": "Chương Nhạc Ngoài Bầu Trời"
+  },
+  {
+      "id": "110241",
+      "name": "Hạt Giống Kỳ Lạ"
+  },
+  {
+      "id": "110242",
+      "name": "Mật Hoa Sinh Trưởng"
+  },
+  {
+      "id": "110243",
+      "name": "Quả Muôn Mặt"
+  },
+  {
+      "id": "110400",
+      "name": "Sinh Thái Sâu Xa"
+  },
+  {
+      "id": "110401",
+      "name": "Răng Cưa Sói Sắt"
+  },
+  {
+      "id": "110402",
+      "name": "Vỏ Tinh Thể Giữ Nhiệt"
+  },
+  {
+      "id": "110403",
+      "name": "Sừng Bão Tuyết"
+  },
+  {
+      "id": "110404",
+      "name": "Mũ Dấu Ấn Xưa"
+  },
+  {
+      "id": "110405",
+      "name": "Mắt Bão Gió"
+  },
+  {
+      "id": "110406",
+      "name": "Thép Đúc Hư Ảo"
+  },
+  {
+      "id": "110407",
+      "name": "Trang Sức Dấu Ấn Xưa"
+  },
+  {
+      "id": "110411",
+      "name": "Thông Lệnh Cõi Âm"
+  },
+  {
+      "id": "110412",
+      "name": "Lưỡi Kiếm Quá Nhiệt"
+  },
+  {
+      "id": "110413",
+      "name": "Vỏ Tinh Thể Rét Buốt"
+  },
+  {
+      "id": "110414",
+      "name": "Gậy Lôi Nhà Luyện Hình"
+  },
+  {
+      "id": "110415",
+      "name": "Tro Tàn Thiên Nhân"
+  },
+  {
+      "id": "110416",
+      "name": "Chiếc Đinh Của Linh Trưởng"
+  },
+  {
+      "id": "110417",
+      "name": "Trấn Linh Sắc Phù"
+  },
+  {
+      "id": "110421",
+      "name": "[Tạm Dịch] Giấy Phép Làm Việc Công Ty Hòa Bình | IPC Work Permit"
+  },
+  {
+      "id": "110422",
+      "name": "Trái Tim Căm Phẫn"
+  },
+  {
+      "id": "110423",
+      "name": "Hộp Giấc Mơ Lạnh"
+  },
+  {
+      "id": "110426",
+      "name": "Súng Phun Giấc Mơ"
+  },
+  {
+      "id": "110501",
+      "name": "Sự Kết Thúc Của Kẻ Hủy Diệt"
+  },
+  {
+      "id": "110502",
+      "name": "Điều Ước Của Đấng Bảo Vệ"
+  },
+  {
+      "id": "110503",
+      "name": "Oán Hận Vô Hạn"
+  },
+  {
+      "id": "110504",
+      "name": "Tai Họa Ám Ảnh Trên Hành Tinh Sâu"
+  },
+  {
+      "id": "110505",
+      "name": "[Tạm Dịch] Nguyên Liệu Thủ Lĩnh | Boss Materials"
+  },
+  {
+      "id": "111001",
+      "name": "Lõi Dập Tắt"
+  },
+  {
+      "id": "111002",
+      "name": "Lõi Phát Sáng"
+  },
+  {
+      "id": "111003",
+      "name": "Lõi Rục Rịch"
+  },
+  {
+      "id": "111011",
+      "name": "Bản Năng Tranh Đoạt"
+  },
+  {
+      "id": "111012",
+      "name": "Dã Tâm Xuyên Tạc"
+  },
+  {
+      "id": "111013",
+      "name": "Ý Chí Giẫm Đạp"
+  },
+  {
+      "id": "112001",
+      "name": "Ghim Cài Thiết Vệ"
+  },
+  {
+      "id": "112002",
+      "name": "Quân Hiệu Thiết Vệ"
+  },
+  {
+      "id": "112003",
+      "name": "Huy Chương Thiết Vệ"
+  },
+  {
+      "id": "112011",
+      "name": "Linh Kiện Cổ Xưa"
+  },
+  {
+      "id": "112012",
+      "name": "Trục Xoay Cổ Xưa"
+  },
+  {
+      "id": "112013",
+      "name": "Động Cơ Cổ Đại"
+  },
+  {
+      "id": "113001",
+      "name": "Mầm Non Trường Thọ"
+  },
+  {
+      "id": "113002",
+      "name": "Đóa Hoa Trường Thọ"
+  },
+  {
+      "id": "113003",
+      "name": "Cành Cây Trường Thọ"
+  },
+  {
+      "id": "113011",
+      "name": "Linh Kiện Cơ Khí Nhân Tạo"
+  },
+  {
+      "id": "113012",
+      "name": "Bánh Xe Nhân Tạo"
+  },
+  {
+      "id": "113013",
+      "name": "Trái Tim Nhân Tạo"
+  },
+  {
+      "id": "114001",
+      "name": "Thiết Bị Lưu Giữ Giấc Mơ"
+  },
+  {
+      "id": "114002",
+      "name": "Van Dòng Chảy Giấc Mơ"
+  },
+  {
+      "id": "114003",
+      "name": "Động Cơ Tạo Giấc Mơ"
+  },
+  {
+      "id": "114011",
+      "name": "Mảnh Vỡ Suy Tư"
+  },
+  {
+      "id": "114012",
+      "name": "Mảnh Tinh Thể Ấn Tượng"
+  },
+  {
+      "id": "114013",
+      "name": "Mảnh Gương Vỡ Khát Vọng"
+  },
+  {
+      "id": "120000",
+      "name": "Xu Herta"
+  },
+  {
+      "id": "120001",
+      "name": "Shield"
+  },
+  {
+      "id": "120002",
+      "name": "Strale"
+  },
+  {
+      "id": "120003",
+      "name": "Tiền Đồng Hồ Vàng"
+  },
+  {
+      "id": "121000",
+      "name": "Kẹo Cao Su Lil"
+  },
+  {
+      "id": "121001",
+      "name": "Bùa Hàng Yêu"
+  },
+  {
+      "id": "121002",
+      "name": "null"
+  },
+  {
+      "id": "122000",
+      "name": "Xu Aideen"
+  },
+  {
+      "id": "140000",
+      "name": "Lời Khen Cao Thượng"
+  },
+  {
+      "id": "140004",
+      "name": "Đồng Xu Cổ Đại"
+  },
+  {
+      "id": "140017",
+      "name": "Hệ Thống Lõi"
+  },
+  {
+      "id": "140021",
+      "name": "Máy Khai Khoáng Chạy Bằng Nhiệt"
+  },
+  {
+      "id": "140022",
+      "name": "Mặt Nạ Thở Chống Bụi"
+  },
+  {
+      "id": "140023",
+      "name": "Mũ Bảo Hộ Màu Hồng"
+  },
+  {
+      "id": "140024",
+      "name": "Mũi Khoan Trang Trí Kỳ Lạ"
+  },
+  {
+      "id": "140025",
+      "name": "Chiếc Hộp Thiếc Của Nhà Balakin"
+  },
+  {
+      "id": "140026",
+      "name": "Khóa Mã Hóa Cơ Quan"
+  },
+  {
+      "id": "140027",
+      "name": "Khóa Mã Hóa Thiết Bị Đầu Cuối"
+  },
+  {
+      "id": "140032",
+      "name": "Giấy Thông Hành Tạm Thời"
+  },
+  {
+      "id": "140033",
+      "name": "Then Cài Xe Khoáng"
+  },
+  {
+      "id": "140034",
+      "name": "Chứng Nhận Trụ Sở Máy Móc Cấp 1"
+  },
+  {
+      "id": "140035",
+      "name": "Chứng Nhận Trụ Sở Máy Móc Cấp 2"
+  },
+  {
+      "id": "140036",
+      "name": "Chứng Nhận Trụ Sở Máy Móc Cấp 3"
+  },
+  {
+      "id": "140037",
+      "name": "Giấy Phép Đặc Biệt Herta"
+  },
+  {
+      "id": "140039",
+      "name": "Bánh Xe Xe Khoáng"
+  },
+  {
+      "id": "140040",
+      "name": "Viên Bi Pha Lê"
+  },
+  {
+      "id": "140041",
+      "name": "Con Nhộng Thời Gian Của Julian"
+  },
+  {
+      "id": "140046",
+      "name": "Chìa Khóa Khu Thương Mại"
+  },
+  {
+      "id": "140065",
+      "name": "Gấu Bông Tên \"Junjun\""
+  },
+  {
+      "id": "140066",
+      "name": "Bản Đồ Kho Báu"
+  },
+  {
+      "id": "140067",
+      "name": "Bản Đồ Kho Báu Thật"
+  },
+  {
+      "id": "140068",
+      "name": "Mũ Giáp Quái Vật Rãnh Nứt"
+  },
+  {
+      "id": "140069",
+      "name": "Tài Liệu Quảng Cáo Đấu Giá Đồ Cổ"
+  },
+  {
+      "id": "140070",
+      "name": "Bản Đồ Hành Trình Vận Chuyển"
+  },
+  {
+      "id": "140071",
+      "name": "Linh Kiện Siêu Niken"
+  },
+  {
+      "id": "140072",
+      "name": "Bản Chuyển Dịch Màu Đỏ"
+  },
+  {
+      "id": "140073",
+      "name": "Bản Chuyển Dịch Màu Lam"
+  },
+  {
+      "id": "140074",
+      "name": "Hình Ảnh Từ Camera"
+  },
+  {
+      "id": "140075",
+      "name": "Băng Ghi Hình"
+  },
+  {
+      "id": "140076",
+      "name": "Băng Ghi Hình"
+  },
+  {
+      "id": "140077",
+      "name": "Băng Ghi Hình"
+  },
+  {
+      "id": "140078",
+      "name": "Bức Thư Chưa Gửi - 1"
+  },
+  {
+      "id": "140079",
+      "name": "Bức Thư Chưa Gửi - 2"
+  },
+  {
+      "id": "140080",
+      "name": "Bức Thư Chưa Gửi - 3"
+  },
+  {
+      "id": "140081",
+      "name": "Bức Thư Chưa Gửi - 4"
+  },
+  {
+      "id": "140082",
+      "name": "Gói Hàng Chứa Sữa Bột"
+  },
+  {
+      "id": "140083",
+      "name": "Túi Đồ Ẩn Danh"
+  },
+  {
+      "id": "140084",
+      "name": "Chứng Nhận Quyền Hạn \"Thiên Tinh\""
+  },
+  {
+      "id": "140085",
+      "name": "Chứng Nhận Quyền Hạn \"██\""
+  },
+  {
+      "id": "140086",
+      "name": "Chứng Nhận Quyền Hạn \"Tập Đoàn\""
+  },
+  {
+      "id": "140090",
+      "name": "Một Thùng Cồn Dùng Trong Y Tế"
+  },
+  {
+      "id": "140091",
+      "name": "Một Hộp Thuốc Giảm Đau Đặc Chế"
+  },
+  {
+      "id": "140095",
+      "name": "Gói Hàng Chứa Truyện"
+  },
+  {
+      "id": "140096",
+      "name": "Gói Hàng Chứa Áo Sơ Sinh"
+  },
+  {
+      "id": "140097",
+      "name": "Thư Của Kluzer"
+  },
+  {
+      "id": "140098",
+      "name": "Bức Ảnh Cũ Của Balakin"
+  },
+  {
+      "id": "140103",
+      "name": "Hợp Đồng Ủy Thác Hàng Hóa"
+  },
+  {
+      "id": "140104",
+      "name": "Đầu Dò Tủy Ngầm"
+  },
+  {
+      "id": "140105",
+      "name": "Thư Từ Thợ Săn Sao Chổi"
+  },
+  {
+      "id": "140106",
+      "name": "Thư Từ Thợ Săn Sao Chổi"
+  },
+  {
+      "id": "140107",
+      "name": "Thư Từ Thợ Săn Sao Chổi"
+  },
+  {
+      "id": "140108",
+      "name": "Xenohydro Trong Hộp"
+  },
+  {
+      "id": "140109",
+      "name": "Tờ Công Thức Kapo-Kali"
+  },
+  {
+      "id": "140110",
+      "name": "null"
+  },
+  {
+      "id": "140111",
+      "name": "Chìa Khóa Gỉ Sét"
+  },
+  {
+      "id": "140112",
+      "name": "Ảnh Cất Giữ"
+  },
+  {
+      "id": "140114",
+      "name": "Quả Cầu Tuyết Tinh Chế"
+  },
+  {
+      "id": "140115",
+      "name": "Cầu Mẫu Đơn"
+  },
+  {
+      "id": "140116",
+      "name": "Tuyết Đầu Mùa"
+  },
+  {
+      "id": "140117",
+      "name": "Hầu Tước Phu Nhân"
+  },
+  {
+      "id": "140118",
+      "name": "Hoa Nắng Ấm"
+  },
+  {
+      "id": "140119",
+      "name": "Linh Kiện Máy Móc"
+  },
+  {
+      "id": "140120",
+      "name": "Lớp Vỏ Máy Móc"
+  },
+  {
+      "id": "140121",
+      "name": "Đóa Hoa Sắt"
+  },
+  {
+      "id": "140123",
+      "name": "Nguồn Điện Dự Bị"
+  },
+  {
+      "id": "140124",
+      "name": "Ngọc Phù Sở Công Nghiệp"
+  },
+  {
+      "id": "140125",
+      "name": "Ghi Chú Của Chị Mei - Hoa Cỏ"
+  },
+  {
+      "id": "140126",
+      "name": "Ghi Chú Của Chị Mei - Trao Đổi Về Việc Nội Trợ"
+  },
+  {
+      "id": "140127",
+      "name": "Tường Trình Của Chị Mei"
+  },
+  {
+      "id": "140128",
+      "name": "Tường Trình Của Quý Cô Hơi Lơ Tơ Mơ"
+  },
+  {
+      "id": "140129",
+      "name": "Tường Trình Của Quý Ông Đột Nhiên Hào Hứng"
+  },
+  {
+      "id": "140130",
+      "name": "Hình Ảnh Từ Camera Của Chim Robot"
+  },
+  {
+      "id": "140132",
+      "name": "Thiệp Đáp Lễ Fan Nam Thần Capote"
+  },
+  {
+      "id": "140133",
+      "name": "Chân Dung Giới Hạn Nam Thần Capote"
+  },
+  {
+      "id": "140134",
+      "name": "Bách Khoa Toàn Thư Nam Thần Capote"
+  },
+  {
+      "id": "140135",
+      "name": "Thẻ Thông Hành ID Arlan"
+  },
+  {
+      "id": "140136",
+      "name": "Trần Nhà Vỡ Nát"
+  },
+  {
+      "id": "140137",
+      "name": "Dấu Chân"
+  },
+  {
+      "id": "140138",
+      "name": "Ảnh Bóng Lưng Của Arlan"
+  },
+  {
+      "id": "140139",
+      "name": "Dây Đai Bẩn Đính Chuông"
+  },
+  {
+      "id": "140140",
+      "name": "Hộp Nhạc Hỏng"
+  },
+  {
+      "id": "140141",
+      "name": "Thư Mời \"Cuộc Thi Nắm Đấm Đen Tối\""
+  },
+  {
+      "id": "140146",
+      "name": "Túi Đồ Ký Tên Peak"
+  },
+  {
+      "id": "140147",
+      "name": "Túi Đồ Ký Tên Eunice"
+  },
+  {
+      "id": "140148",
+      "name": "Túi Đồ Không Thấy Rõ Chữ Ký"
+  },
+  {
+      "id": "140149",
+      "name": "Món Quà Của Wen Furui"
+  },
+  {
+      "id": "140150",
+      "name": "Đồng Hồ Vàng Lấp Lánh"
+  },
+  {
+      "id": "140151",
+      "name": "Một Bó Cầu Mẫu Đơn"
+  },
+  {
+      "id": "140152",
+      "name": "Một Bó Cầu Vồng Bảy Sắc"
+  },
+  {
+      "id": "140153",
+      "name": "Một Bó Tuyết Đầu Mùa"
+  },
+  {
+      "id": "140154",
+      "name": "Một Bụi Hầu Tước Phu Nhân"
+  },
+  {
+      "id": "140155",
+      "name": "Thư Của Gilbert"
+  },
+  {
+      "id": "140156",
+      "name": "Huy Hiệu Vàng"
+  },
+  {
+      "id": "140157",
+      "name": "Giấy Viết Thư Bí Truyền Dược Vương"
+  },
+  {
+      "id": "140158",
+      "name": "Ảnh Đã Gấp Xong"
+  },
+  {
+      "id": "140159",
+      "name": "Phương Thuốc Kỳ Lạ"
+  },
+  {
+      "id": "140161",
+      "name": "Gói Chuyển Phát Nhanh"
+  },
+  {
+      "id": "140162",
+      "name": "Tàn Binh Hủy Diệt"
+  },
+  {
+      "id": "140163",
+      "name": "Ngọc Phù Vỡ Nát"
+  },
+  {
+      "id": "140164",
+      "name": "Lựu Đạn Tịt Ngòi"
+  },
+  {
+      "id": "140165",
+      "name": "Trung Khu Ngôn Ngữ Logic"
+  },
+  {
+      "id": "140166",
+      "name": "Hoa Giấy Luocha"
+  },
+  {
+      "id": "140167",
+      "name": "Mảnh Giấy Kẹp Trong Sách"
+  },
+  {
+      "id": "140168",
+      "name": "\"Đội Chuột Chũi Phiêu Lưu"
+  },
+  {
+      "id": "140169",
+      "name": "\"Đội Chuột Chũi Phiêu Lưu"
+  },
+  {
+      "id": "140170",
+      "name": "\"Đội Chuột Chũi Phiêu Lưu"
+  },
+  {
+      "id": "140171",
+      "name": "\"Đội Chuột Chũi Phiêu Lưu"
+  },
+  {
+      "id": "140172",
+      "name": "\"Đội Chuột Chũi Phiêu Lưu"
+  },
+  {
+      "id": "140173",
+      "name": "\"Đội Chuột Chũi Phiêu Lưu"
+  },
+  {
+      "id": "140174",
+      "name": "\"Đội Chuột Chũi Phiêu Lưu"
+  },
+  {
+      "id": "140175",
+      "name": "Thư Mời Nhận Việc Nhà Thiết Kế"
+  },
+  {
+      "id": "140176",
+      "name": "Bộ Linh Kiện Tiêu Chuẩn Của Sở Công Nghiệp"
+  },
+  {
+      "id": "140177",
+      "name": "Thuyền Giấy Của Chengjie"
+  },
+  {
+      "id": "140178",
+      "name": "Kết Tinh Tủy Ngầm Hoàn Hảo"
+  },
+  {
+      "id": "140179",
+      "name": "Máy Khai Khoáng Chạy Bằng Nhiệt Mới <unbreak>80%</unbreak>"
+  },
+  {
+      "id": "140180",
+      "name": "Máy Khai Khoáng Chạy Bằng Nhiệt Mới <unbreak>60%</unbreak>"
+  },
+  {
+      "id": "140181",
+      "name": "Đá Kết Tinh Ngũ Sắc Tuyệt Đẹp"
+  },
+  {
+      "id": "140182",
+      "name": "Linh Kiện Bị Bẩn"
+  },
+  {
+      "id": "140183",
+      "name": "Hộp Sắt Cũ Kỹ"
+  },
+  {
+      "id": "140184",
+      "name": "Một Hũ \"Nước Mắt Người Cá\""
+  },
+  {
+      "id": "140185",
+      "name": "Kinh Văn Đã Chép Xong"
+  },
+  {
+      "id": "140186",
+      "name": "Lá Thư Nhà Chưa Gửi"
+  },
+  {
+      "id": "140187",
+      "name": "Bom Bức Xạ Neutron Nhỏ"
+  },
+  {
+      "id": "140188",
+      "name": "Mã Nhận Rương"
+  },
+  {
+      "id": "140189",
+      "name": "Quần Áo Của \"Người Thầy\""
+  },
+  {
+      "id": "140190",
+      "name": "Nhật Ký Tìm Kiếm \"Tạo Mối Quan Hệ\""
+  },
+  {
+      "id": "140191",
+      "name": "Nhật Ký Tìm Kiếm \"Tinh Thần Chấp Sự\""
+  },
+  {
+      "id": "140192",
+      "name": "Nhật Ký Tìm Kiếm \"Đe Dọa Vũ Lực\""
+  },
+  {
+      "id": "140193",
+      "name": "Nhật Ký Tìm Kiếm \"Của Đi Thay Người\""
+  },
+  {
+      "id": "140194",
+      "name": "Nhật Ký Tìm Kiếm \"Thỉnh Cầu Thành Khẩn\""
+  },
+  {
+      "id": "140195",
+      "name": "Nhật Ký Tìm Kiếm \"Trang Tiêu Đề\""
+  },
+  {
+      "id": "140196",
+      "name": "\"Rồng Cuộn Trở Mình\" Khảo Nghiệm Dược Lý"
+  },
+  {
+      "id": "140197",
+      "name": "Thuốc Do Dan Shu Điều Chế"
+  },
+  {
+      "id": "140198",
+      "name": "Xan Vân Thừa Lộ Đan"
+  },
+  {
+      "id": "140199",
+      "name": "Dấu Ngọc Báo Hiệu"
+  },
+  {
+      "id": "140200",
+      "name": "Phương Thuốc Viết Ngoáy"
+  },
+  {
+      "id": "140201",
+      "name": "Đặc Sản Không Rõ Tên"
+  },
+  {
+      "id": "140202",
+      "name": "Sashimi Cá Hồi Tuyết Tươi Ngon"
+  },
+  {
+      "id": "140203",
+      "name": "Ốc Sên Tuyết Bắt Chước"
+  },
+  {
+      "id": "140206",
+      "name": "Thiết Bị Kích Hoạt Tủy Ngầm"
+  },
+  {
+      "id": "140207",
+      "name": "Bánh Mì Cá Hồi Tuyết"
+  },
+  {
+      "id": "140208",
+      "name": "Xiên Que Nướng Đá Thơm Ngon"
+  },
+  {
+      "id": "140209",
+      "name": "Món Hầm Thập Cẩm Cánh Đồng Tuyết"
+  },
+  {
+      "id": "140210",
+      "name": "Chiếc Đĩa Dán Hình Pela Chụp Cùng Mẹ"
+  },
+  {
+      "id": "140211",
+      "name": "Mảnh Sao Băng"
+  },
+  {
+      "id": "140212",
+      "name": "Cuộn Phim Nhỏ"
+  },
+  {
+      "id": "140213",
+      "name": "Linh Kiện Nghệ Thuật Bị Tháo Rời"
+  },
+  {
+      "id": "140214",
+      "name": "null"
+  },
+  {
+      "id": "140215",
+      "name": "Hình Cũ"
+  },
+  {
+      "id": "140216",
+      "name": "Bản Đồ Kho Báu"
+  },
+  {
+      "id": "140217",
+      "name": "null"
+  },
+  {
+      "id": "140218",
+      "name": "Bản Đồ Kho Báu"
+  },
+  {
+      "id": "140219",
+      "name": "Hồi Ức Của Qingni"
+  },
+  {
+      "id": "140220",
+      "name": "Tàn Tro Mũi Tên Thần"
+  },
+  {
+      "id": "140221",
+      "name": "Hồi Ức Của Jing Yuan"
+  },
+  {
+      "id": "140222",
+      "name": "Nhật Ký Trao Đổi Của Yukong"
+  },
+  {
+      "id": "140223",
+      "name": "Nhật Ký Trao Đổi Của Caiyi"
+  },
+  {
+      "id": "140225",
+      "name": "Cẩm Nang Y Dược"
+  },
+  {
+      "id": "140228",
+      "name": "Cành Cây Kỳ Dị"
+  },
+  {
+      "id": "140229",
+      "name": "Thông Báo Tìm Đồ"
+  },
+  {
+      "id": "140230",
+      "name": "Lưu Vân Tập"
+  },
+  {
+      "id": "140231",
+      "name": "Bàn Tính Ngọc Linh Cảm - Biên Ải"
+  },
+  {
+      "id": "140232",
+      "name": "Khóa Đồng Tâm"
+  },
+  {
+      "id": "140233",
+      "name": "Bảng Hiệu Thép Không Gỉ"
+  },
+  {
+      "id": "140234",
+      "name": "Điềm Lành <unbreak>15</unbreak>"
+  },
+  {
+      "id": "140235",
+      "name": "Áo Khoác Cổ Đứng Quảng Vân Tụ"
+  },
+  {
+      "id": "140237",
+      "name": "Mô-Đun Điều Khiển"
+  },
+  {
+      "id": "140239",
+      "name": "Bản Thảo Bị Xé Nát"
+  },
+  {
+      "id": "140240",
+      "name": "Chìa Khóa Thần Bí"
+  },
+  {
+      "id": "140241",
+      "name": "Bản Thảo Bị Xé Nát"
+  },
+  {
+      "id": "140242",
+      "name": "Da Heo Cuốn Mua Cho Bailu"
+  },
+  {
+      "id": "140243",
+      "name": "Bánh Ngó Sen Mua Cho Bailu"
+  },
+  {
+      "id": "140244",
+      "name": "Thịt Chim Xiên Berry Mua Cho Bailu"
+  },
+  {
+      "id": "140245",
+      "name": "Sữa Dê Nóng Mua Cho Bailu"
+  },
+  {
+      "id": "140246",
+      "name": "Sữa Đậu Soda Mua Cho Bailu"
+  },
+  {
+      "id": "140247",
+      "name": "Hộp Chuyển Phát"
+  },
+  {
+      "id": "140248",
+      "name": "Nhật Ký Giao Dịch Vật Chứng"
+  },
+  {
+      "id": "140249",
+      "name": "Lời Khai Của Công Nhân Bến Cảng"
+  },
+  {
+      "id": "140250",
+      "name": "Tiền Thuê Bến Cảng Phố Kim Nhân"
+  },
+  {
+      "id": "140251",
+      "name": "Hợp Đồng Thuê Bến Cảng"
+  },
+  {
+      "id": "140252",
+      "name": "Doanh Thu Thương Hội Phố Kim Nhân"
+  },
+  {
+      "id": "140253",
+      "name": "Phân Tích Doanh Thu Đồng Công Phường"
+  },
+  {
+      "id": "140254",
+      "name": "Lượng Giao Dịch Quá Khứ Phố Kim Nhân"
+  },
+  {
+      "id": "140255",
+      "name": "Vốn Đấu Thầu Thương Hội Phố Kim Nhân"
+  },
+  {
+      "id": "140256",
+      "name": "Sự Kiện Liên Kết Gia Vị Thượng Đẳng"
+  },
+  {
+      "id": "140257",
+      "name": "Khảo Sát Cửa Tiệm Phố Kim Nhân"
+  },
+  {
+      "id": "140258",
+      "name": "Bản Khắc Ký Hiệu Của Hội 1"
+  },
+  {
+      "id": "140259",
+      "name": "Bản Khắc Ký Hiệu Của Hội 2"
+  },
+  {
+      "id": "140260",
+      "name": "Bản Khắc Ký Hiệu Của Hội 3"
+  },
+  {
+      "id": "140261",
+      "name": "Bản Khắc Ký Hiệu Của Hội 4"
+  },
+  {
+      "id": "140262",
+      "name": "Bản Khắc Ký Hiệu Của Hội 5"
+  },
+  {
+      "id": "140263",
+      "name": "Bản Khắc Ký Hiệu Của Hội 6"
+  },
+  {
+      "id": "140264",
+      "name": "Bản Khắc Ký Hiệu Của Hội 7"
+  },
+  {
+      "id": "140265",
+      "name": "Bản Khắc Ký Hiệu Của Hội 8"
+  },
+  {
+      "id": "140266",
+      "name": "\"Nhà Du Hành Từ Biệt Người Nhà\""
+  },
+  {
+      "id": "140267",
+      "name": "\"Người Yêu Không Nỡ Xa Rời\""
+  },
+  {
+      "id": "140268",
+      "name": "\"Bạn Bè Mỗi Người Một Nơi\""
+  },
+  {
+      "id": "140269",
+      "name": "Bàn Tính Ngọc Linh Cảm - Hàm Súc"
+  },
+  {
+      "id": "140270",
+      "name": "Bàn Tính Ngọc Linh Cảm - Niêm Luật"
+  },
+  {
+      "id": "140271",
+      "name": "Phiến Đá Chỉ Dẫn"
+  },
+  {
+      "id": "140272",
+      "name": "Sổ Tay Của Todd"
+  },
+  {
+      "id": "140273",
+      "name": "Quạt Cá Chép"
+  },
+  {
+      "id": "140274",
+      "name": "Con Dấu Tiếp Độ Sứ"
+  },
+  {
+      "id": "140275",
+      "name": "Chiếc Hộp Giao Đến \"Bất Dạ Hầu\""
+  },
+  {
+      "id": "140276",
+      "name": "Dao Làm Bếp Giao Đến \"Gia Vị Thượng Đẳng\""
+  },
+  {
+      "id": "140277",
+      "name": "Cung Không Biết Dành Tặng Ai"
+  },
+  {
+      "id": "140278",
+      "name": "Trà Mới \"Trà Tingyun\""
+  },
+  {
+      "id": "140279",
+      "name": "Nội Tạng Bò Dầu Ớt"
+  },
+  {
+      "id": "140280",
+      "name": "Diều Giấy Dùng Cho Lễ Truy Điệu"
+  },
+  {
+      "id": "140281",
+      "name": "Bàn Tính Ngọc Kết Liên Minh"
+  },
+  {
+      "id": "140282",
+      "name": "Bản Đồ Kho Báu Khóa Mã Hóa"
+  },
+  {
+      "id": "140283",
+      "name": "Bản Đồ Kho Báu Số 1"
+  },
+  {
+      "id": "140284",
+      "name": "Bản Đồ Kho Báu Số 2"
+  },
+  {
+      "id": "140285",
+      "name": "Bản Đồ Kho Báu Số 3"
+  },
+  {
+      "id": "140286",
+      "name": "Xu Aether"
+  },
+  {
+      "id": "140287",
+      "name": "Khóa Mã Hóa Mở Thang Máy"
+  },
+  {
+      "id": "140288",
+      "name": "Chứng Nhận Ứng Cử Viên Vô Địch Số 1"
+  },
+  {
+      "id": "140289",
+      "name": "Chứng Nhận Ứng Cử Viên Vô Địch Số 2"
+  },
+  {
+      "id": "140290",
+      "name": "Chứng Nhận Ứng Cử Viên Vô Địch Số 3"
+  },
+  {
+      "id": "140291",
+      "name": "Huyền Liên Băng Hỏa"
+  },
+  {
+      "id": "140292",
+      "name": "Linh Chi Sinh Tử"
+  },
+  {
+      "id": "140293",
+      "name": "Gốc Rễ Phong Lôi"
+  },
+  {
+      "id": "140294",
+      "name": "Cửu Chuyển Thăng Thiên Đan"
+  },
+  {
+      "id": "140295",
+      "name": "Thuốc Thúc Đẩy Sinh Trưởng"
+  },
+  {
+      "id": "140296",
+      "name": "Bản Đồ Kho Báu Ghi Vị Trí Vàng Thiên Hỏa"
+  },
+  {
+      "id": "140297",
+      "name": "Đồ Ăn Vặt Cho Todd"
+  },
+  {
+      "id": "140298",
+      "name": "Chuôi Kiếm Cây Kiến Tạo"
+  },
+  {
+      "id": "140299",
+      "name": "Vàng Thiên Hỏa"
+  },
+  {
+      "id": "140300",
+      "name": "{TEXTJOIN#61}"
+  },
+  {
+      "id": "140301",
+      "name": "{TEXTJOIN#61}"
+  },
+  {
+      "id": "140302",
+      "name": "Long Tôn Bí Bảo"
+  },
+  {
+      "id": "140303",
+      "name": "Câu Chuyện Hiệp Khách Khai Phá"
+  },
+  {
+      "id": "140304",
+      "name": "{TEXTJOIN#61}"
+  },
+  {
+      "id": "140305",
+      "name": "{TEXTJOIN#61}"
+  },
+  {
+      "id": "140306",
+      "name": "Cẩm Nang Bệnh Phổ Biến Của Ngân Hà"
+  },
+  {
+      "id": "140307",
+      "name": "Tuyển Tập Bí Kíp Bài Quỳnh Ngọc"
+  },
+  {
+      "id": "140308",
+      "name": "Bản Sao Lưu Chứng Nhận Nghỉ Bệnh"
+  },
+  {
+      "id": "140309",
+      "name": "Thư Mời Hợp Tác Công Ty Hành Tinh Hòa Bình"
+  },
+  {
+      "id": "140310",
+      "name": "Câu Chuyện Hiệp Khách Khai Phá"
+  },
+  {
+      "id": "140311",
+      "name": "\"Điểm Xuất Phát\" Của March 7th"
+  },
+  {
+      "id": "140312",
+      "name": "Vật Phẩm Rơi Của Tà Vật Trù Phú"
+  },
+  {
+      "id": "140313",
+      "name": "Tài Liệu Chứng Minh Của Yongren"
+  },
+  {
+      "id": "140314",
+      "name": "Ghi Âm Xiyan Tiên Sinh Ủy Quyền"
+  },
+  {
+      "id": "140315",
+      "name": "Ghi Âm Forth Và Back'n Ủy Quyền"
+  },
+  {
+      "id": "140316",
+      "name": "Hàng Tuyệt Mật Của Anh Huo"
+  },
+  {
+      "id": "140317",
+      "name": "Sách Khai Trí"
+  },
+  {
+      "id": "140318",
+      "name": "Sách Không Lời"
+  },
+  {
+      "id": "140319",
+      "name": "Sách Điên Loạn"
+  },
+  {
+      "id": "140320",
+      "name": "Điểm Mù Ký Ức - Nguy Cơ Về Lòng Tin"
+  },
+  {
+      "id": "140321",
+      "name": "Điểm Mù Ký Ức - Sự Mất Tích Của Nhà Nghiên Cứu"
+  },
+  {
+      "id": "140322",
+      "name": "Điểm Mù Ký Ức - Liên Minh Xianzhou"
+  },
+  {
+      "id": "140323",
+      "name": "Điểm Mù Ký Ức - Sinh Mệnh Năng Lượng"
+  },
+  {
+      "id": "140324",
+      "name": "Điểm Mù Ký Ức - Cơ Thể Tự Thiêu"
+  },
+  {
+      "id": "140325",
+      "name": "Điểm Mù Ký Ức - Thành Viên CLB Thiên Tài"
+  },
+  {
+      "id": "140326",
+      "name": "Thông Tin Mấu Chốt - Danh Sách Nhà Nghiên Cứu Mất Tích"
+  },
+  {
+      "id": "140327",
+      "name": "Thông Tin Mấu Chốt - Ma Bóng"
+  },
+  {
+      "id": "140328",
+      "name": "Thông Tin Mấu Chốt - Sổ Tay Phụ Lục"
+  },
+  {
+      "id": "140329",
+      "name": "Thông Tin Mấu Chốt - Ngọn Lửa Vượt Pha Sóng"
+  },
+  {
+      "id": "140330",
+      "name": "Điểm Mù Ký Ức - Nguy Cơ Về Lòng Tin"
+  },
+  {
+      "id": "140331",
+      "name": "Lá Thư Không Rõ Nguồn Gốc"
+  },
+  {
+      "id": "140332",
+      "name": "null"
+  },
+  {
+      "id": "140333",
+      "name": "null"
+  },
+  {
+      "id": "140334",
+      "name": "Điểm Mù Ký Ức - Cơ Thể Tự Thiêu"
+  },
+  {
+      "id": "140335",
+      "name": "Điểm Mù Ký Ức - Thành Viên CLB Thiên Tài"
+  },
+  {
+      "id": "140336",
+      "name": "Sắp Xếp Ký Ức"
+  },
+  {
+      "id": "140339",
+      "name": "Sơ Lược Vụ Án 1"
+  },
+  {
+      "id": "140340",
+      "name": "Sơ Lược Vụ Án 2"
+  },
+  {
+      "id": "140341",
+      "name": "Vật Chứng"
+  },
+  {
+      "id": "140342",
+      "name": "Vật Chứng"
+  },
+  {
+      "id": "140343",
+      "name": "Vật Chứng"
+  },
+  {
+      "id": "140344",
+      "name": "Vật Chứng"
+  },
+  {
+      "id": "140345",
+      "name": "Vật Chứng"
+  },
+  {
+      "id": "140346",
+      "name": "Vật Chứng"
+  },
+  {
+      "id": "140347",
+      "name": "Vật Chứng"
+  },
+  {
+      "id": "140348",
+      "name": "Vật Chứng"
+  },
+  {
+      "id": "140349",
+      "name": "Vật Chứng"
+  },
+  {
+      "id": "140350",
+      "name": "Vật Chứng"
+  },
+  {
+      "id": "140351",
+      "name": "Bằng Chứng Của Sự Tín Nhiệm"
+  },
+  {
+      "id": "140352",
+      "name": "Bong Bóng Ký Ức Của Khách Vô Danh"
+  },
+  {
+      "id": "140353",
+      "name": "null"
+  },
+  {
+      "id": "140354",
+      "name": "Tuế Dương - Bảo Chúc"
+  },
+  {
+      "id": "140355",
+      "name": "Quà Từ Người Hâm Mộ"
+  },
+  {
+      "id": "140356",
+      "name": "Giấy Tờ Nhà Đất"
+  },
+  {
+      "id": "140357",
+      "name": "Huy Hiệu Vàng"
+  },
+  {
+      "id": "140358",
+      "name": "Huy Hiệu Bạc"
+  },
+  {
+      "id": "140359",
+      "name": "null"
+  },
+  {
+      "id": "140360",
+      "name": "null"
+  },
+  {
+      "id": "140361",
+      "name": "Hồ Lô Tàng Nguyệt"
+  },
+  {
+      "id": "140362",
+      "name": "Chuông Lửa Đồng Tâm"
+  },
+  {
+      "id": "140363",
+      "name": "Quyển Võ Thuật Cổ Belobog"
+  },
+  {
+      "id": "140364",
+      "name": "Ghi Âm Cổ Cầm"
+  },
+  {
+      "id": "140365",
+      "name": "Ghi Âm Cổ Cầm Mới"
+  },
+  {
+      "id": "140366",
+      "name": "Đá Nam Châm Màu Sắc Kỳ Lạ"
+  },
+  {
+      "id": "140367",
+      "name": "Chìa Khóa Cổng Sân"
+  },
+  {
+      "id": "140370",
+      "name": "Chìa Khóa Cổng Sân"
+  },
+  {
+      "id": "140372",
+      "name": "Ảnh Gia Đình"
+  },
+  {
+      "id": "140373",
+      "name": "Giấy Viết Thư Bỏ Xó"
+  },
+  {
+      "id": "140374",
+      "name": "Giấy Thư In Chữ"
+  },
+  {
+      "id": "140376",
+      "name": "Cơm Nắm Hình Vuông"
+  },
+  {
+      "id": "140377",
+      "name": "Vân Kỵ Trường Đao Gãy"
+  },
+  {
+      "id": "140378",
+      "name": "Lục Lạc Cổ"
+  },
+  {
+      "id": "140380",
+      "name": "Vạn Thọ Vô Tình Đơn"
+  },
+  {
+      "id": "140381",
+      "name": "Rác Thông Thường"
+  },
+  {
+      "id": "140382",
+      "name": "Rác Hiếm"
+  },
+  {
+      "id": "140383",
+      "name": "Tuế Dương Tẩu Tán"
+  },
+  {
+      "id": "140384",
+      "name": "Tuế Dương Tẩu Tán"
+  },
+  {
+      "id": "140385",
+      "name": "Tuế Dương Tẩu Tán"
+  },
+  {
+      "id": "140386",
+      "name": "Rác Bình Thường"
+  },
+  {
+      "id": "140387",
+      "name": "Rác Không Có Gì Lạ"
+  },
+  {
+      "id": "140388",
+      "name": "Rác Đúng Quy Cách"
+  },
+  {
+      "id": "140389",
+      "name": "Rác Sơ Sài Qua Loa"
+  },
+  {
+      "id": "140390",
+      "name": "Rác Bình Dị"
+  },
+  {
+      "id": "140391",
+      "name": "Rác Tầm Thường"
+  },
+  {
+      "id": "140392",
+      "name": "Rác Không Đáng Chú Ý"
+  },
+  {
+      "id": "140393",
+      "name": "Rác Đen Thui Thủi"
+  },
+  {
+      "id": "140394",
+      "name": "Rác Bị Hỏng Số Liệu"
+  },
+  {
+      "id": "140395",
+      "name": "Nguyên Mẫu Cảm Xúc"
+  },
+  {
+      "id": "140396",
+      "name": "Nguyên Mẫu Cảm Xúc"
+  },
+  {
+      "id": "140397",
+      "name": "Nguyên Mẫu Cảm Xúc"
+  },
+  {
+      "id": "140398",
+      "name": "Nguyên Mẫu Cảm Xúc"
+  },
+  {
+      "id": "140399",
+      "name": "Nguyên Mẫu Cảm Xúc"
+  },
+  {
+      "id": "140400",
+      "name": "Mảnh Ghép Xây Mộng Chưa Rõ"
+  },
+  {
+      "id": "140401",
+      "name": "Ngân Sách Của Firefly"
+  },
+  {
+      "id": "140402",
+      "name": "Cơm Chiên Đại Vũ Trụ (Loại Qua Đêm)"
+  },
+  {
+      "id": "140403",
+      "name": "Hình Ảnh Lạ Từ Nhật Ký Giám Sát"
+  },
+  {
+      "id": "140404",
+      "name": "Nhật Ký Thông Tin Đối Ngoại"
+  },
+  {
+      "id": "140405",
+      "name": "Bánh Thơm Lừng"
+  },
+  {
+      "id": "140406",
+      "name": "Bánh Răng Điềm Tĩnh"
+  },
+  {
+      "id": "140407",
+      "name": "Bánh Răng Vui Vẻ"
+  },
+  {
+      "id": "140408",
+      "name": "Bánh Răng Sầu Não"
+  },
+  {
+      "id": "140409",
+      "name": "Bánh Răng Phẫn Nộ"
+  },
+  {
+      "id": "140410",
+      "name": "Kế Hoạch Tái Sinh Lesley Dean"
+  },
+  {
+      "id": "140411",
+      "name": "null"
+  },
+  {
+      "id": "140412",
+      "name": "Ảnh Ký Tên Một Nửa"
+  },
+  {
+      "id": "140414",
+      "name": "Tín Vật Của Aventurine"
+  },
+  {
+      "id": "140415",
+      "name": "Xe Bay Hạng Sang Steinway Falcon (Đen)"
+  },
+  {
+      "id": "140416",
+      "name": "Xe Bay Hạng Sang Steinway Falcon (Kiểu Taxi)"
+  },
+  {
+      "id": "140417",
+      "name": "Xe Bay Hạng Sang \"Steinway Falcon\" (Vàng)"
+  },
+  {
+      "id": "140418",
+      "name": "Xe Bay Hạng Sang Steinway Falcon (Xanh)"
+  },
+  {
+      "id": "140419",
+      "name": "Xe Bay Một Bánh Utopon"
+  },
+  {
+      "id": "140420",
+      "name": "Tưởng Tượng Một Đóa Hồng Tương Lai"
+  },
+  {
+      "id": "140421",
+      "name": "Chuyện Phiếm Của Nhân Viên"
+  },
+  {
+      "id": "140422",
+      "name": "Tin Tức Truyền Hình"
+  },
+  {
+      "id": "140423",
+      "name": "Kế Hoạch Bọ Cánh Cứng"
+  },
+  {
+      "id": "140424",
+      "name": "Cuộn Băng Kỳ Quái"
+  },
+  {
+      "id": "140425",
+      "name": "Ghi chú"
+  },
+  {
+      "id": "140426",
+      "name": "Ghi chú"
+  },
+  {
+      "id": "140427",
+      "name": "Ghi chú"
+  },
+  {
+      "id": "140428",
+      "name": "Ghi chú"
+  },
+  {
+      "id": "140429",
+      "name": "Thẻ Đen May Mắn Tối Thượng"
+  },
+  {
+      "id": "140430",
+      "name": "Vàng Giới Hạn - Xu Aideen"
+  },
+  {
+      "id": "140431",
+      "name": "Thuốc Không Rõ Tác Dụng"
+  },
+  {
+      "id": "140432",
+      "name": "Khối Gỗ Ác Mộng"
+  },
+  {
+      "id": "140433",
+      "name": "Linh Kiện Bỏ Đi Của Thần Bài"
+  },
+  {
+      "id": "140434",
+      "name": "Linh Kiện Quý Giá Của Thần Bài"
+  },
+  {
+      "id": "140435",
+      "name": "Thức Uống Xoa Dịu Tâm Hồn"
+  },
+  {
+      "id": "140436",
+      "name": "Linh Kiện Trong Phế Tích Nào Đó"
+  },
+  {
+      "id": "140437",
+      "name": "Lá Thư Viết Tay"
+  },
+  {
+      "id": "140438",
+      "name": "Lá Thư Viết Tay"
+  },
+  {
+      "id": "140439",
+      "name": "Lá Thư Viết Tay"
+  },
+  {
+      "id": "140440",
+      "name": "Thông Điệp Vận Mệnh"
+  },
+  {
+      "id": "140441",
+      "name": "Thư Mời Băng Hủy Hoại Nhận Được"
+  },
+  {
+      "id": "140442",
+      "name": "Cổng Vòm Gulliver"
+  },
+  {
+      "id": "140443",
+      "name": "Mô Hình Máy Bắn Bi"
+  },
+  {
+      "id": "140444",
+      "name": "Đá Tảng Của Aventurine"
+  },
+  {
+      "id": "140445",
+      "name": "Chiếc Hộp Của Aventurine"
+  },
+  {
+      "id": "140446",
+      "name": "Chiếc Hộp Của Aventurine"
+  },
+  {
+      "id": "140447",
+      "name": "Túi Hành Lý Của Aventurine"
+  },
+  {
+      "id": "140448",
+      "name": "Túi Hành Lý Của Aventurine"
+  },
+  {
+      "id": "140449",
+      "name": "Tầm Nhìn Của Kẻ Tầm Thường"
+  },
+  {
+      "id": "140450",
+      "name": "Nút \"Đảm Bảo Hủy Diệt Lẫn Nhau\""
+  },
+  {
+      "id": "140451",
+      "name": "Thức Uống Đặc Sắc \"El Dorado\""
+  },
+  {
+      "id": "140452",
+      "name": "Thức Uống Đặc Sắc \"Chôn Cất Quá Sớm\""
+  },
+  {
+      "id": "140453",
+      "name": "Thức Uống Đặc Sắc \"Mộng Trong Mộng\""
+  },
+  {
+      "id": "140454",
+      "name": "Thức Uống Đặc Sắc \"Giấc Ngủ Ngàn Thu\""
+  },
+  {
+      "id": "140455",
+      "name": "Thức Uống Đặc Sắc \"Chia Xa Đằng Đẵng\""
+  },
+  {
+      "id": "140456",
+      "name": "Thức Uống Đặc Sắc \"Tạm Biệt, Tình Yêu Của Tôi\""
+  },
+  {
+      "id": "140457",
+      "name": "Thức Uống Đặc Sắc \"Vé Xe Đến Nghĩa Trang\""
+  },
+  {
+      "id": "140458",
+      "name": "Thức Uống Đặc Sắc \"Truy Đuổi Cái Ác\""
+  },
+  {
+      "id": "140459",
+      "name": "Thức Uống Đặc Sắc \"Thời Gian Mưu Sát Và Sáng Tạo\""
+  },
+  {
+      "id": "140460",
+      "name": "Nón Ánh Sáng Của Sunday & Robin"
+  },
+  {
+      "id": "140461",
+      "name": "Đá Tảng Của Topaz"
+  },
+  {
+      "id": "140462",
+      "name": "Đá Tảng Của Jade"
+  },
+  {
+      "id": "140463",
+      "name": "Xiềng Xích Của Aventurine"
+  },
+  {
+      "id": "140464",
+      "name": "Trang Sức Của Aventurine Bé Nhỏ"
+  },
+  {
+      "id": "140465",
+      "name": "Ảnh Kỷ Niệm"
+  },
+  {
+      "id": "140466",
+      "name": "Bong Bóng Giấc Mơ Của \"Người Anh Em Hanu\""
+  },
+  {
+      "id": "140467",
+      "name": "null"
+  },
+  {
+      "id": "140468",
+      "name": "Giấy Bảo Vệ Bằng Sáng Chế Dài Hạn"
+  },
+  {
+      "id": "140469",
+      "name": "Bánh Răng Vui Vẻ"
+  },
+  {
+      "id": "140470",
+      "name": "\"Đồ Chơi\" Của Oksana"
+  },
+  {
+      "id": "140471",
+      "name": "Mảnh Ghép Xây Mộng Của Tư Lệnh"
+  },
+  {
+      "id": "140472",
+      "name": "Mảnh Ghép Xây Mộng của Quân Bích"
+  },
+  {
+      "id": "140473",
+      "name": "Mảnh Ghép Xây Mộng Của Trường Phái Sầu Muộn"
+  },
+  {
+      "id": "140474",
+      "name": "Mảnh Ghép Xây Mộng Của Ngôi Sao Nhỏ"
+  },
+  {
+      "id": "140475",
+      "name": "Mảnh Ghép Xây Mộng Của Thục Nữ"
+  },
+  {
+      "id": "140476",
+      "name": "Mảnh Ghép Xây Mộng Của Người Thiếc"
+  },
+  {
+      "id": "140477",
+      "name": "null"
+  },
+  {
+      "id": "140478",
+      "name": "null"
+  },
+  {
+      "id": "140479",
+      "name": "null"
+  },
+  {
+      "id": "140483",
+      "name": "null"
+  },
+  {
+      "id": "140484",
+      "name": "null"
+  },
+  {
+      "id": "140485",
+      "name": "null"
+  },
+  {
+      "id": "140486",
+      "name": "null"
+  },
+  {
+      "id": "140487",
+      "name": "null"
+  },
+  {
+      "id": "140488",
+      "name": "null"
+  },
+  {
+      "id": "140492",
+      "name": "null"
+  },
+  {
+      "id": "140493",
+      "name": "null"
+  },
+  {
+      "id": "140494",
+      "name": "null"
+  },
+  {
+      "id": "140495",
+      "name": "null"
+  },
+  {
+      "id": "149957",
+      "name": "Ảnh Chụp Cùng March 7th"
+  },
+  {
+      "id": "149958",
+      "name": "Ảnh Chụp Cùng March 7th"
+  },
+  {
+      "id": "149959",
+      "name": "Lõi Nhiệt Năng"
+  },
+  {
+      "id": "149960",
+      "name": "Chìa Khóa Cầu Ánh Sáng"
+  },
+  {
+      "id": "149961",
+      "name": "Chìa Khóa Phòng Bên Phải"
+  },
+  {
+      "id": "149962",
+      "name": "Chìa Khóa Phòng Ở Giữa"
+  },
+  {
+      "id": "149963",
+      "name": "Chìa Khóa Cầu Ánh Sáng"
+  },
+  {
+      "id": "149964",
+      "name": "Chìa Khóa Phòng Bên Phải"
+  },
+  {
+      "id": "149965",
+      "name": "Chìa Khóa Phòng Ở Giữa"
+  },
+  {
+      "id": "149966",
+      "name": "Chìa Khóa Phòng Bên Phải"
+  },
+  {
+      "id": "149967",
+      "name": "Chìa Khóa Phòng Ở Giữa"
+  },
+  {
+      "id": "149975",
+      "name": "Tấm Ảnh Mờ Ảo"
+  },
+  {
+      "id": "149976",
+      "name": "Chân Dung Mờ Ảo"
+  },
+  {
+      "id": "149977",
+      "name": "Chân Dung Ghi Manh Mối"
+  },
+  {
+      "id": "149978",
+      "name": "Sổ Tay Của Pela"
+  },
+  {
+      "id": "149979",
+      "name": "Sổ Tay Đã Chỉnh Sửa"
+  },
+  {
+      "id": "149980",
+      "name": "Chứng Nhận Diễn Tập"
+  },
+  {
+      "id": "149981",
+      "name": "Chứng Nhận Diễn Tập"
+  },
+  {
+      "id": "149982",
+      "name": "Chứng Nhận Diễn Tập"
+  },
+  {
+      "id": "149983",
+      "name": "Dữ Liệu Máy Phát Liên Kết"
+  },
+  {
+      "id": "149984",
+      "name": "Dữ Liệu Máy Phát Liên Kết"
+  },
+  {
+      "id": "149985",
+      "name": "Dữ Liệu Máy Phát Liên Kết"
+  },
+  {
+      "id": "149986",
+      "name": "Thuật Toán Mô Phỏng"
+  },
+  {
+      "id": "149987",
+      "name": "Thuật Toán Mô Phỏng"
+  },
+  {
+      "id": "149988",
+      "name": "Thuật Toán Mô Phỏng"
+  },
+  {
+      "id": "149989",
+      "name": "Thuật Toán Mô Phỏng"
+  },
+  {
+      "id": "149990",
+      "name": "null"
+  },
+  {
+      "id": "149991",
+      "name": "Một rương miếng nẹp và băng gạc"
+  },
+  {
+      "id": "149997",
+      "name": "null"
+  },
+  {
+      "id": "149998",
+      "name": "null"
+  },
+  {
+      "id": "149999",
+      "name": "null"
+  },
+  {
+      "id": "150000",
+      "name": "Cuộc Phiêu Lưu Của Hanu - Lời Nói Đầu"
+  },
+  {
+      "id": "150001",
+      "name": "Cuộc Phiêu Lưu Của Hanu - Phần 1, Chương 1"
+  },
+  {
+      "id": "150002",
+      "name": "Cuộc Phiêu Lưu Của Hanu - Phần 1, Chương 2"
+  },
+  {
+      "id": "150003",
+      "name": "Cuộc Phiêu Lưu Của Hanu - Phần 1, Chương 3"
+  },
+  {
+      "id": "150004",
+      "name": "Cuộc Phiêu Lưu Của Hanu - Phần 1, Chương 4"
+  },
+  {
+      "id": "150010",
+      "name": "Nguyên Liệu Pha Chế"
+  },
+  {
+      "id": "150011",
+      "name": "Nguyên Liệu Pha Chế"
+  },
+  {
+      "id": "150012",
+      "name": "Nguyên Liệu Pha Chế"
+  },
+  {
+      "id": "150013",
+      "name": "Nguyên Liệu Pha Chế"
+  },
+  {
+      "id": "150014",
+      "name": "Nguyên Liệu Pha Chế"
+  },
+  {
+      "id": "150015",
+      "name": "Nguyên Liệu Pha Chế"
+  },
+  {
+      "id": "150016",
+      "name": "Thức Uống Đặc Sắc \"El Dorado\""
+  },
+  {
+      "id": "150017",
+      "name": "Thức Uống Đặc Sắc \"Chôn Cất Quá Sớm\""
+  },
+  {
+      "id": "150018",
+      "name": "Thức Uống Đặc Sắc \"Mộng Trong Mộng\""
+  },
+  {
+      "id": "150019",
+      "name": "Thức Uống Đặc Sắc \"Giấc Ngủ Ngàn Thu\""
+  },
+  {
+      "id": "150020",
+      "name": "Thức Uống Đặc Sắc \"Chia Xa Đằng Đẵng\""
+  },
+  {
+      "id": "150021",
+      "name": "Thức Uống Đặc Sắc \"Tạm Biệt, Tình Yêu Của Tôi\""
+  },
+  {
+      "id": "150022",
+      "name": "Thức Uống Đặc Sắc \"Vé Xe Đến Nghĩa Trang\""
+  },
+  {
+      "id": "150023",
+      "name": "Thức Uống Đặc Sắc \"Truy Đuổi Cái Ác\""
+  },
+  {
+      "id": "150024",
+      "name": "Thức Uống Đặc Sắc \"Thời Gian Mưu Sát Và Sáng Tạo\""
+  },
+  {
+      "id": "150025",
+      "name": "Thức Uống Đặc Sắc \"El Dorado\""
+  },
+  {
+      "id": "150026",
+      "name": "Thức Uống Đặc Sắc \"Chôn Cất Quá Sớm\""
+  },
+  {
+      "id": "150027",
+      "name": "Thức Uống Đặc Sắc \"Mộng Trong Mộng\""
+  },
+  {
+      "id": "150028",
+      "name": "Thức Uống Đặc Sắc \"Giấc Ngủ Ngàn Thu\""
+  },
+  {
+      "id": "150029",
+      "name": "Thức Uống Đặc Sắc \"Chia Xa Đằng Đẵng\""
+  },
+  {
+      "id": "150030",
+      "name": "Thức Uống Đặc Sắc \"Tạm Biệt, Tình Yêu Của Tôi\""
+  },
+  {
+      "id": "150031",
+      "name": "Thức Uống Đặc Sắc \"Vé Xe Đến Nghĩa Trang\""
+  },
+  {
+      "id": "150032",
+      "name": "Thức Uống Đặc Sắc \"Truy Đuổi Cái Ác\""
+  },
+  {
+      "id": "150033",
+      "name": "Thức Uống Đặc Sắc \"Thời Gian Mưu Sát Và Sáng Tạo\""
+  },
+  {
+      "id": "150034",
+      "name": "Đế Lót Nút Bần"
+  },
+  {
+      "id": "150035",
+      "name": "Manh Mối Của Tượng Nightingale"
+  },
+  {
+      "id": "150036",
+      "name": "null"
+  },
+  {
+      "id": "150037",
+      "name": "null"
+  },
+  {
+      "id": "150038",
+      "name": "null"
+  },
+  {
+      "id": "150039",
+      "name": "Ảnh Chụp Chung Của Quán Bar Ác Mộng"
+  },
+  {
+      "id": "150040",
+      "name": "null"
+  },
+  {
+      "id": "150041",
+      "name": "null"
+  },
+  {
+      "id": "150042",
+      "name": "null"
+  },
+  {
+      "id": "150043",
+      "name": "null"
+  },
+  {
+      "id": "150044",
+      "name": "null"
+  },
+  {
+      "id": "150045",
+      "name": "null"
+  },
+  {
+      "id": "150046",
+      "name": "null"
+  },
+  {
+      "id": "180001",
+      "name": "Nước Sạch Thể Rắn"
+  },
+  {
+      "id": "180002",
+      "name": "Đồ Ăn Cơ Bản"
+  },
+  {
+      "id": "180004",
+      "name": "Chất Đốt"
+  },
+  {
+      "id": "180005",
+      "name": "Kim Loại"
+  },
+  {
+      "id": "180006",
+      "name": "Thể Khí Lưu"
+  },
+  {
+      "id": "180007",
+      "name": "Hạt Giống"
+  },
+  {
+      "id": "180008",
+      "name": "Linh Kiện Máy Móc Bỏ"
+  },
+  {
+      "id": "180009",
+      "name": "Bông Lúa Cao Bằng Người"
+  },
+  {
+      "id": "180010",
+      "name": "An Nhàn"
+  },
+  {
+      "id": "180011",
+      "name": "Giấc Mơ Tan Vỡ"
+  },
+  {
+      "id": "180012",
+      "name": "Bánh Răng Rỉ Sét"
+  },
+  {
+      "id": "181001",
+      "name": "Linh Kiện"
+  },
+  {
+      "id": "181002",
+      "name": "Hạt Ảo"
+  },
+  {
+      "id": "181003",
+      "name": "Gạo Protein"
+  },
+  {
+      "id": "181004",
+      "name": "Lông Vũ Lửa"
+  },
+  {
+      "id": "181005",
+      "name": "Lõi Băng"
+  },
+  {
+      "id": "181006",
+      "name": "Mắt Sấm"
+  },
+  {
+      "id": "181007",
+      "name": "Lốc Xoáy"
+  },
+  {
+      "id": "181008",
+      "name": "Sóng Lượng Tử"
+  },
+  {
+      "id": "181009",
+      "name": "Mảnh Lá Số Ảo"
+  },
+  {
+      "id": "181010",
+      "name": "Thiên Thạch"
+  },
+  {
+      "id": "181011",
+      "name": "Đơn Vị Bàn Tính Ngọc"
+  },
+  {
+      "id": "181012",
+      "name": "Chất Chiết Xuất Thảo Dược"
+  },
+  {
+      "id": "181013",
+      "name": "Lân Uyên Thiên Đông"
+  },
+  {
+      "id": "181014",
+      "name": "Mơ Màng"
+  },
+  {
+      "id": "181015",
+      "name": "Đói Bụng"
+  },
+  {
+      "id": "181016",
+      "name": "Răng Hàm Cũ"
+  },
+  {
+      "id": "182001",
+      "name": "Dị Chất Hủy Diệt"
+  },
+  {
+      "id": "182002",
+      "name": "Dịch Hương Màu Mỡ"
+  },
+  {
+      "id": "182003",
+      "name": "Đá Săn Bắn"
+  },
+  {
+      "id": "182004",
+      "name": "Vật Liệu Bảo Vệ"
+  },
+  {
+      "id": "182005",
+      "name": "Mảnh Hư Vô"
+  },
+  {
+      "id": "182006",
+      "name": "Vỏ Cây Tri Thức"
+  },
+  {
+      "id": "182007",
+      "name": "Chất Dính Hòa Hợp"
+  },
+  {
+      "id": "182008",
+      "name": "San Hô Vảy Rồng"
+  },
+  {
+      "id": "182009",
+      "name": "Nhộn Nhịp Và Náo Động"
+  },
+  {
+      "id": "182010",
+      "name": "Gel Tản Nhiệt"
+  },
+  {
+      "id": "183001",
+      "name": "Lá Cây Đổi Cảnh"
+  },
+  {
+      "id": "183002",
+      "name": "Linh Hỏa"
+  },
+  {
+      "id": "183003",
+      "name": "Đá Khóc Bi Hùng"
+  },
+  {
+      "id": "183004",
+      "name": "Sợi Dây Huyền Thoại"
+  },
+  {
+      "id": "183005",
+      "name": "Chán Ngán"
+  },
+  {
+      "id": "183006",
+      "name": "Khối Lập Phương Cơ Giáp"
+  },
+  {
+      "id": "190101",
+      "name": "Sổ Tay Ý Nghĩa Tặng Kèm Bó Hoa"
+  },
+  {
+      "id": "190102",
+      "name": "Mảnh Sổ Tay Của Nhân Viên Pha Chế"
+  },
+  {
+      "id": "190103",
+      "name": "\"Sổ Tay An Toàn Cho Công Nhân Mỏ\""
+  },
+  {
+      "id": "190104",
+      "name": "Sắp Xếp Công Tác Cho Lễ Hội Mặt Trời"
+  },
+  {
+      "id": "190105",
+      "name": "Danh Sách Đặt Hàng Máy Móc Khai Khoáng"
+  },
+  {
+      "id": "190106",
+      "name": "\"Xưởng Tôi Luyện"
+  },
+  {
+      "id": "190107",
+      "name": "Biểu Ngữ Dưới Cầu Vượt"
+  },
+  {
+      "id": "190108",
+      "name": "\"Bí Truyền"
+  },
+  {
+      "id": "190109",
+      "name": "Lịch Trực Khu Mỏ Khổng Lồ"
+  },
+  {
+      "id": "190110",
+      "name": "Tuần Báo Thợ Mỏ Kỳ <unbreak>205</unbreak>"
+  },
+  {
+      "id": "190111",
+      "name": "Tờ Gấp Hoa Hồng Ánh Sao Trang 1"
+  },
+  {
+      "id": "190112",
+      "name": "Tờ Gấp Hoa Hồng Ánh Sao Trang 2"
+  },
+  {
+      "id": "190113",
+      "name": "Tờ Gấp Hoa Hồng Ánh Sao Trang 3"
+  },
+  {
+      "id": "190114",
+      "name": "Tờ Gấp Công Dân Alexandra Trang 1"
+  },
+  {
+      "id": "190115",
+      "name": "Tờ Gấp Công Dân Alexandra Trang 2"
+  },
+  {
+      "id": "190116",
+      "name": "Tờ Gấp Công Dân Alexandra Trang 3"
+  },
+  {
+      "id": "190117",
+      "name": "Truyền Đơn Của Tổ Chức Lửa Ngầm"
+  },
+  {
+      "id": "190118",
+      "name": "Thông Điệp Của Đội Thợ Mỏ"
+  },
+  {
+      "id": "190119",
+      "name": "Quy Tắc Sinh Hoạt Ở Khu Mỏ Khổng Lồ"
+  },
+  {
+      "id": "190120",
+      "name": "Thư Thông Báo Của Balaway Đèn Mỏ"
+  },
+  {
+      "id": "190121",
+      "name": "Nguồn Gốc Cơn Bão Băng"
+  },
+  {
+      "id": "190122",
+      "name": "Những Câu Chuyện Thần Thoại Về Jarilo"
+  },
+  {
+      "id": "190123",
+      "name": "Phân Tích Về Jarilo"
+  },
+  {
+      "id": "190124",
+      "name": "Tin Nhắn Cho Thợ Sửa Chữa Mới Vào Nghề"
+  },
+  {
+      "id": "190125",
+      "name": "Phỏng Vấn Cuộc Sống Hàng Ngày Trước Lễ Hội Mặt Trời"
+  },
+  {
+      "id": "190126",
+      "name": "Nhãn Hiệu Thời Trang \"Suburbia\""
+  },
+  {
+      "id": "190127",
+      "name": "Hướng Dẫn Sử Dụng Thuốc Hít Làm Sạch Mũi Khỏi Độc Khoáng"
+  },
+  {
+      "id": "190128",
+      "name": "Nhật Ký Của Nhà Khoa Học Dân Gian-1"
+  },
+  {
+      "id": "190129",
+      "name": "Nhật Ký Của Nhà Khoa Học Dân Gian-2"
+  },
+  {
+      "id": "190130",
+      "name": "Nhật Ký Của Nhà Khoa Học Dân Gian-3"
+  },
+  {
+      "id": "190131",
+      "name": "Nhật Ký Của Nhà Khoa Học Dân Gian-4"
+  },
+  {
+      "id": "190132",
+      "name": "Thư Chắp Vá"
+  },
+  {
+      "id": "190133",
+      "name": "Khai Vị Cá Hồng"
+  },
+  {
+      "id": "190134",
+      "name": "Lữ Khách Xuyên Gió Tuyết"
+  },
+  {
+      "id": "190135",
+      "name": "Bánh Mì Cá"
+  },
+  {
+      "id": "190136",
+      "name": "Buổi Diễn Oratorio \"Đấng Bảo Vệ Tối Cao\""
+  },
+  {
+      "id": "190137",
+      "name": "Soda Đá Bào Bánh Mì Đen"
+  },
+  {
+      "id": "190138",
+      "name": "Sáp Dưỡng Ẩm Kép"
+  },
+  {
+      "id": "190139",
+      "name": "Phân Tích Giấc Mơ"
+  },
+  {
+      "id": "190140",
+      "name": "Thông Báo Thay Đổi Thời Gian Tập Oratorio"
+  },
+  {
+      "id": "190141",
+      "name": "Xúc Xích Belobog"
+  },
+  {
+      "id": "190142",
+      "name": "Thư Của Người Bạn Nhỏ"
+  },
+  {
+      "id": "190143",
+      "name": "Bách Khoa Dưới Lòng Đất"
+  },
+  {
+      "id": "190144",
+      "name": "Bách Khoa Dưới Lòng Đất"
+  },
+  {
+      "id": "190145",
+      "name": "Công Thức Xiên Thịt Thằn Lằn Đá"
+  },
+  {
+      "id": "190146",
+      "name": "Bảy Điều Kỳ Diệu Ở Belobog"
+  },
+  {
+      "id": "190147",
+      "name": "Danh Sách Tài Sản Hư Hại \"Herta\""
+  },
+  {
+      "id": "190148",
+      "name": "Huân Chương Chính Nghĩa Ngân Hà"
+  },
+  {
+      "id": "190149",
+      "name": "Thông Báo Thuyên Chuyển Tạm Thời"
+  },
+  {
+      "id": "190150",
+      "name": "Thư Từ Thợ Săn Sao Chổi-1"
+  },
+  {
+      "id": "190151",
+      "name": "Thư Từ Thợ Săn Sao Chổi-2"
+  },
+  {
+      "id": "190152",
+      "name": "Thư Từ Thợ Săn Sao Chổi-3"
+  },
+  {
+      "id": "190153",
+      "name": "Bản Nháp Kho Báu Thợ Săn Sao Chổi-1"
+  },
+  {
+      "id": "190154",
+      "name": "Bản Nháp Kho Báu Thợ Săn Sao Chổi-2"
+  },
+  {
+      "id": "190155",
+      "name": "Bản Nháp Kho Báu Thợ Săn Sao Chổi-3"
+  },
+  {
+      "id": "190156",
+      "name": "Bản Nháp Kho Báu Thợ Săn Sao Chổi-4"
+  },
+  {
+      "id": "190157",
+      "name": "Công Thức Bí Mật Kapo-Kali"
+  },
+  {
+      "id": "190158",
+      "name": "Khái Quát Về Loài Ở Ngân Hà"
+  },
+  {
+      "id": "190159",
+      "name": "Xin<unbreak>-41</unbreak> Lá Thư Gửi Nhà"
+  },
+  {
+      "id": "190160",
+      "name": "Nhật Ký Của Nhà Nghiên Cứu Eikura Shuu"
+  },
+  {
+      "id": "190161",
+      "name": "Nghiên Cứu Hành Vi Wubbaboo"
+  },
+  {
+      "id": "190162",
+      "name": "Trang \"Sổ Tay Nghiên Cứu Herta-Quyển 7-Giao Thông\""
+  },
+  {
+      "id": "190163",
+      "name": "Hồ Sơ Nhà Nghiên Cứu"
+  },
+  {
+      "id": "190164",
+      "name": "Hồ Sơ Nhà Nghiên Cứu"
+  },
+  {
+      "id": "190165",
+      "name": "Hồ Sơ Nhà Nghiên Cứu"
+  },
+  {
+      "id": "190166",
+      "name": "Tạm Biệt Herta"
+  },
+  {
+      "id": "190167",
+      "name": "Lời Trong Cõi Lặng"
+  },
+  {
+      "id": "190168",
+      "name": "Bản Thảo Của Herta"
+  },
+  {
+      "id": "190169",
+      "name": "Bản Thảo Của Herta"
+  },
+  {
+      "id": "190170",
+      "name": "Bản Thảo Của Herta"
+  },
+  {
+      "id": "190171",
+      "name": "Bản Thảo Của Herta"
+  },
+  {
+      "id": "190172",
+      "name": "Thơ Tình Herta-1"
+  },
+  {
+      "id": "190173",
+      "name": "Thơ Tình Herta-2"
+  },
+  {
+      "id": "190174",
+      "name": "Thơ Tình Herta-3"
+  },
+  {
+      "id": "190175",
+      "name": "Chuyển Dịch Tín Hiệu"
+  },
+  {
+      "id": "190176",
+      "name": "Chuyển Dịch Tín Hiệu"
+  },
+  {
+      "id": "190177",
+      "name": "Chuyển Dịch Tín Hiệu"
+  },
+  {
+      "id": "190178",
+      "name": "Chuyện Về Vương Quốc Tuyết Chương 1"
+  },
+  {
+      "id": "190179",
+      "name": "Chuyện Về Vương Quốc Tuyết Chương 2"
+  },
+  {
+      "id": "190180",
+      "name": "Chuyện Về Vương Quốc Tuyết Chương 2"
+  },
+  {
+      "id": "190181",
+      "name": "Chuyện Về Vương Quốc Tuyết Chương 2"
+  },
+  {
+      "id": "190182",
+      "name": "Chuyện Về Vương Quốc Tuyết Chương 4"
+  },
+  {
+      "id": "190183",
+      "name": "Chuyện Về Vương Quốc Tuyết Chương 5"
+  },
+  {
+      "id": "190184",
+      "name": "Chuyện Về Vương Quốc Tuyết Chương 6"
+  },
+  {
+      "id": "190185",
+      "name": "Chuyện Về Vương Quốc Tuyết Chương 6"
+  },
+  {
+      "id": "190186",
+      "name": "Chuyện Về Vương Quốc Tuyết Chương Cuối"
+  },
+  {
+      "id": "190187",
+      "name": "Thư Kèm Theo Kiện Hàng"
+  },
+  {
+      "id": "190188",
+      "name": "Nhật Ký Của Thú Cưng \"Sesame\""
+  },
+  {
+      "id": "190189",
+      "name": "Bách Khoa Dưới Lòng Đất"
+  },
+  {
+      "id": "190190",
+      "name": "Bách Khoa Dưới Lòng Đất"
+  },
+  {
+      "id": "190191",
+      "name": "Ghi chép giám định cổ vật \"Đèn Mỏ\""
+  },
+  {
+      "id": "190192",
+      "name": "Ghi chép giám định cổ vật \"Đèn Mỏ\""
+  },
+  {
+      "id": "190193",
+      "name": "Sách Chẩn Đoán Bệnh Thợ Mỏ"
+  },
+  {
+      "id": "190194",
+      "name": "Mỏ Maddon Sắp Sập Rồi"
+  },
+  {
+      "id": "190195",
+      "name": "Thư Của Kluzer"
+  },
+  {
+      "id": "190196",
+      "name": "Lời Khuyên Của Tổ Tiên"
+  },
+  {
+      "id": "190197",
+      "name": "Thư Của Bronya"
+  },
+  {
+      "id": "190198",
+      "name": "Thư Của Vache"
+  },
+  {
+      "id": "190199",
+      "name": "Ghi Chép Thí Nghiệm \"Miễn Dịch Gió Tuyết\"-1"
+  },
+  {
+      "id": "190200",
+      "name": "Ghi Chép Thí Nghiệm \"Miễn Dịch Gió Tuyết\"-2"
+  },
+  {
+      "id": "190201",
+      "name": "Kịch Bản Nhân Vật Của Sheila"
+  },
+  {
+      "id": "190202",
+      "name": "Thư Tố Cáo"
+  },
+  {
+      "id": "190203",
+      "name": "Bản Ghi Dữ Liệu"
+  },
+  {
+      "id": "190204",
+      "name": "Bản Ghi Dữ Liệu"
+  },
+  {
+      "id": "190205",
+      "name": "Bản Ghi Dữ Liệu"
+  },
+  {
+      "id": "190206",
+      "name": "Thư Nhà Của Asta"
+  },
+  {
+      "id": "190207",
+      "name": "Danh Sách Mua Sắm Của Asta"
+  },
+  {
+      "id": "190208",
+      "name": "Bản Sao Thư Từ Qua Lại Giữa Asta Và \"Doanh Nhân Ưu Tú\""
+  },
+  {
+      "id": "190209",
+      "name": "Giấy Nhắn Tin Cho Kẻ Xâm Nhập"
+  },
+  {
+      "id": "190210",
+      "name": "Cửa Tiệm Uy Tín, Tiền Vô Liền Liền!"
+  },
+  {
+      "id": "190211",
+      "name": "Danh Sách Mua Hàng Máy Móc Khai Khoáng"
+  },
+  {
+      "id": "190212",
+      "name": "Tuần Báo Thợ Mỏ Kỳ <unbreak>192</unbreak>"
+  },
+  {
+      "id": "190213",
+      "name": "Tuần Báo Thợ Mỏ Kỳ <unbreak>158</unbreak>"
+  },
+  {
+      "id": "190214",
+      "name": "Trưng Cầu Ý Kiến Về Nhu Cầu Vật Tư Sinh Hoạt"
+  },
+  {
+      "id": "190215",
+      "name": "Nhật Ký Vụn Vặt"
+  },
+  {
+      "id": "190216",
+      "name": "Thông Báo Lập Rào Chắn Trên Đường Chính Quảng Trường"
+  },
+  {
+      "id": "190217",
+      "name": "Phiếu Đánh Giá Dính Dầu Mỡ"
+  },
+  {
+      "id": "190218",
+      "name": "Thiết Vệ Vinh Dự Ngăn Kẻ Địch Vì Chúng Ta!"
+  },
+  {
+      "id": "190219",
+      "name": "Thư Của Người Theo Đuổi Giấc Mơ"
+  },
+  {
+      "id": "190220",
+      "name": "\"Xưởng Tôi Luyện - Mới\" Khai Trương!"
+  },
+  {
+      "id": "190221",
+      "name": "Nhật Ký Quan Sát Của Người Bạn Nhỏ (Đã Tha Hóa)"
+  },
+  {
+      "id": "190222",
+      "name": "Bản Ghi Chép Tu Sửa Máy Móc Quân Dụng"
+  },
+  {
+      "id": "190223",
+      "name": "Mở Kênh Bỏ Phiếu Đại Chiến Rap"
+  },
+  {
+      "id": "190224",
+      "name": "Biết Cắn Người, Cấm Đến Gần!"
+  },
+  {
+      "id": "190225",
+      "name": "Tờ Rơi Tuyển Dụng Võ Sĩ Quyền Anh"
+  },
+  {
+      "id": "190226",
+      "name": "Nhạc Sĩ Của Belobog - Quyển 1"
+  },
+  {
+      "id": "190227",
+      "name": "Nhạc Sĩ Của Belobog - Quyển 2"
+  },
+  {
+      "id": "190228",
+      "name": "Nhạc Sĩ Của Belobog - Quyển 3"
+  },
+  {
+      "id": "190229",
+      "name": "Nhạc Sĩ Của Belobog - Quyển 4"
+  },
+  {
+      "id": "190230",
+      "name": "Nhạc Sĩ Của Belobog - Quyển 5"
+  },
+  {
+      "id": "190231",
+      "name": "Nhạc Sĩ Của Belobog - Quyển 6"
+  },
+  {
+      "id": "190232",
+      "name": "Nhạc Sĩ Của Belobog - Kết Thúc Thật"
+  },
+  {
+      "id": "190233",
+      "name": "Lá Thư Nhà Chưa Thể Gửi-1"
+  },
+  {
+      "id": "190234",
+      "name": "Lá Thư Nhà Chưa Thể Gửi-2"
+  },
+  {
+      "id": "190235",
+      "name": "Thực Đơn Trà Chiều Khách Sạn Goethe"
+  },
+  {
+      "id": "190236",
+      "name": "Bản Tin Tụ Điểm Gặp Gỡ"
+  },
+  {
+      "id": "190237",
+      "name": "Bức Thư Gửi Đến Toàn Thể Căn Cứ Lõi Trung Tâm"
+  },
+  {
+      "id": "190238",
+      "name": "Đấng Bảo Vệ Tối Cao Tatiana Phát Biểu Lời Quan Trọng"
+  },
+  {
+      "id": "190239",
+      "name": "Anh Em Đối Chất Trước Tòa, Nhà Goethe Tạm Đóng Cửa"
+  },
+  {
+      "id": "190240",
+      "name": "Sói Đồng Tuyết Xuất Hiện, Đấng Bảo Vệ Tối Cao Giới Nghiêm Ban Đêm"
+  },
+  {
+      "id": "190241",
+      "name": "Đêm Tối Và Mây Mù Của Khách Sạn Goethe"
+  },
+  {
+      "id": "190242",
+      "name": "Tờ Gấp \"Chuyện Kể Về Vương Quốc Tuyết\" Trang 1"
+  },
+  {
+      "id": "190243",
+      "name": "Tờ Gấp \"Chuyện Kể Về Vương Quốc Tuyết\" Trang 2"
+  },
+  {
+      "id": "190244",
+      "name": "Tờ Gấp \"Chuyện Kể Về Vương Quốc Tuyết\" Trang 3"
+  },
+  {
+      "id": "190245",
+      "name": "Tờ Gấp \"Leisha Và Bà Trude\" Trang 1"
+  },
+  {
+      "id": "190246",
+      "name": "Tờ Gấp \"Leisha Và Bà Trude\" Trang 2"
+  },
+  {
+      "id": "190247",
+      "name": "Tờ Gấp \"Leisha Và Bà Trude\" Trang 3"
+  },
+  {
+      "id": "190248",
+      "name": "Tờ Gấp \"Buổi Cắm Trại Ven Đường\" Trang 1"
+  },
+  {
+      "id": "190249",
+      "name": "Tờ Gấp \"Buổi Cắm Trại Ven Đường\" Trang 2"
+  },
+  {
+      "id": "190250",
+      "name": "Tờ Gấp \"Buổi Cắm Trại Ven Đường\" Trang 3"
+  },
+  {
+      "id": "190251",
+      "name": "Tờ Gấp \"Phía Sau Áo Trắng\" Trang 1"
+  },
+  {
+      "id": "190252",
+      "name": "Tờ Gấp \"Phía Sau Áo Trắng\" Trang 2"
+  },
+  {
+      "id": "190253",
+      "name": "Tờ Gấp \"Phía Sau Áo Trắng\" Trang 3"
+  },
+  {
+      "id": "190254",
+      "name": "Ghi Lại Chuyến Dạ Hành Trường Lạc Thiên"
+  },
+  {
+      "id": "190255",
+      "name": "Vườn Ẩm Thực  Tiệc Cửu Hòa"
+  },
+  {
+      "id": "190256",
+      "name": "Hướng Dẫn Kiểm Tra An Toàn Thuyền Sao"
+  },
+  {
+      "id": "190257",
+      "name": "Cách Quản Lý Báo Danh Thuyền Ra Vào Cảng"
+  },
+  {
+      "id": "190258",
+      "name": "Món Trân Châu Trái Sao này cũng khó uống thật đấy!"
+  },
+  {
+      "id": "190259",
+      "name": "Về Đến Tương Lai"
+  },
+  {
+      "id": "190260",
+      "name": "Hạt Bụi Trong Mưa"
+  },
+  {
+      "id": "190261",
+      "name": "Trang Lữ Hành - Lần Đầu Đến Xianzhou"
+  },
+  {
+      "id": "190262",
+      "name": "Trang Lữ Hành - Tặng Lễ Vật"
+  },
+  {
+      "id": "190263",
+      "name": "Trang Công Việc - Cuộc Sống Công Sở"
+  },
+  {
+      "id": "190264",
+      "name": "Ráo Riết Chiêu Mộ Thành Viên \"Hiệp Hội Bảo Vệ Clara\""
+  },
+  {
+      "id": "190265",
+      "name": "Danh Sách Của Natasha"
+  },
+  {
+      "id": "190266",
+      "name": "Nhật Trình Dày Đặc"
+  },
+  {
+      "id": "190267",
+      "name": "\"Thu Thập Gần Đây Về Cấm Địa Thiết Vệ Và Những Ý Kiến Liên Quan\""
+  },
+  {
+      "id": "190268",
+      "name": "Bản Thảo Xét Duyệt Của Nhật Báo Pha Lê"
+  },
+  {
+      "id": "190269",
+      "name": "Tập Thơ Cổ Belobog \"Bút Ký Chuột Chũi\""
+  },
+  {
+      "id": "190270",
+      "name": "Tập Thơ Cổ Belobog \"Bút Ký Chuột Chũi\""
+  },
+  {
+      "id": "190271",
+      "name": "Tập Thơ Cổ Belobog \"Bút Ký Chuột Chũi\""
+  },
+  {
+      "id": "190272",
+      "name": "Phiếu Thi Trong Học Viện Belobog"
+  },
+  {
+      "id": "190273",
+      "name": "Bản Chỉnh Sửa Hướng Dẫn Chống Lừa Đảo"
+  },
+  {
+      "id": "190274",
+      "name": "Thông Báo Tìm Bạn Bốn Phương"
+  },
+  {
+      "id": "190275",
+      "name": "Lời Tuyên Thệ Của Thiết Vệ Bờm Bạc"
+  },
+  {
+      "id": "190276",
+      "name": "Hợp Đồng Mua Sắm Máy Móc Của Asta"
+  },
+  {
+      "id": "190277",
+      "name": "Thư Phản Hồi Sau Khi Bán \"Máy Tìm Đồ Gia Dụng\""
+  },
+  {
+      "id": "190278",
+      "name": "Khái Quát Về Loài Ở Ngân Hà"
+  },
+  {
+      "id": "190279",
+      "name": "Băng Ghi Âm Phim Kẻ Ngốc"
+  },
+  {
+      "id": "190280",
+      "name": "Bí Quyết Bất Truyền Của Phòng Bảo Trì"
+  },
+  {
+      "id": "190281",
+      "name": "Thông Báo Hạng Mục Kiểm Tra Sức Khỏe Trạm Không Gian"
+  },
+  {
+      "id": "190282",
+      "name": "Sổ Tay Giới Thiệu Trạm Không Gian"
+  },
+  {
+      "id": "190283",
+      "name": "Quy Tắc Sử Dụng Phòng Sưu Tập Của Herta"
+  },
+  {
+      "id": "190284",
+      "name": "Báo Cáo Nghiên Cứu"
+  },
+  {
+      "id": "190285",
+      "name": "Tài Liệu Ghi Âm Tự Động Dịch Không Hoàn Chỉnh"
+  },
+  {
+      "id": "190286",
+      "name": "Nhật Ký Tấn Công Thiết Bị Đầu Cuối Phát Hiện Chướng Ngại Vật"
+  },
+  {
+      "id": "190287",
+      "name": "Tin Nhắn Của Nhà Nghiên Cứu-1"
+  },
+  {
+      "id": "190288",
+      "name": "Tin Nhắn Của Nhà Nghiên Cứu-2"
+  },
+  {
+      "id": "190289",
+      "name": "Tin Nhắn Của Nhà Nghiên Cứu-3"
+  },
+  {
+      "id": "190290",
+      "name": "Tin Nhắn Của Nhà Nghiên Cứu-4"
+  },
+  {
+      "id": "190291",
+      "name": "Tin Nhắn Của Nhà Nghiên Cứu-5"
+  },
+  {
+      "id": "190292",
+      "name": "Tin Nhắn Của Nhà Nghiên Cứu-6"
+  },
+  {
+      "id": "190293",
+      "name": "Phiếu Ghi Phản Hồi Nhà Hàng Của Nhân Viên Trạm Không Gian"
+  },
+  {
+      "id": "190294",
+      "name": "Trang Ghi Chép Chu Kỳ Của Nhà Nghiên Cứu Khoa Giống Loài Nào Đó"
+  },
+  {
+      "id": "190295",
+      "name": "Nhật Ký Trò Chuyện Của Nhà Nghiên Cứu"
+  },
+  {
+      "id": "190296",
+      "name": "Tottonid Là Viên Đá"
+  },
+  {
+      "id": "190297",
+      "name": "Nhật Ký Pascal-1"
+  },
+  {
+      "id": "190298",
+      "name": "Nhật Ký Pascal-2"
+  },
+  {
+      "id": "190299",
+      "name": "Nhật Ký Pascal-3"
+  },
+  {
+      "id": "190300",
+      "name": "Cương Lĩnh Hiệp Hội Đầu Xù"
+  },
+  {
+      "id": "190301",
+      "name": "Nội dung cập nhật Bách Khoa Toàn Thư Nam Thần Capote <unbreak>12.0</unbreak>"
+  },
+  {
+      "id": "190302",
+      "name": "Ghi Chép Công Việc Của Arlan"
+  },
+  {
+      "id": "190303",
+      "name": "Câu Hỏi Khó Của Viện Giáo Dục (Phần 1)"
+  },
+  {
+      "id": "190304",
+      "name": "Câu Hỏi Khó Của Viện Giáo Dục (Phần 2)"
+  },
+  {
+      "id": "190305",
+      "name": "Câu Hỏi Khó Của Viện Giáo Dục (Phần 3)"
+  },
+  {
+      "id": "190306",
+      "name": "Câu Hỏi Khó Của Viện Giáo Dục (Phần 4)"
+  },
+  {
+      "id": "190307",
+      "name": "Câu Hỏi Khó Của Viện Giáo Dục (Phần 5)"
+  },
+  {
+      "id": "190308",
+      "name": "Câu Hỏi Khó Của Viện Giáo Dục (Phần 6)"
+  },
+  {
+      "id": "190309",
+      "name": "Câu Hỏi Khó Của Viện Giáo Dục (Phần 7)"
+  },
+  {
+      "id": "190310",
+      "name": "Câu Hỏi Khó Của Viện Giáo Dục (Phần 8)"
+  },
+  {
+      "id": "190311",
+      "name": "Cuộc Gọi Từ Rãnh Nứt - Manh Mối Từ Cuộc Gọi"
+  },
+  {
+      "id": "190312",
+      "name": "Cuộc Gọi Từ Rãnh Nứt - Báo Cáo Sự Cố Do Thiết Vệ Sắp Xếp"
+  },
+  {
+      "id": "190313",
+      "name": "Cyrille - Nhật Ký Niên Đại Xa Xưa"
+  },
+  {
+      "id": "190314",
+      "name": "Cyrille - Bức Thư Niên Đại Xa Xưa"
+  },
+  {
+      "id": "190315",
+      "name": "Cyrille - \"Kẻ Ngốc\" Cyrille"
+  },
+  {
+      "id": "190316",
+      "name": "Công Việc Không Thích Hợp Với Con Rối-1"
+  },
+  {
+      "id": "190317",
+      "name": "Công Việc Không Thích Hợp Với Con Rối-2"
+  },
+  {
+      "id": "190318",
+      "name": "Công Việc Không Thích Hợp Với Con Rối-3"
+  },
+  {
+      "id": "190319",
+      "name": "Bảo Vệ Biển Thuyền Sao-1"
+  },
+  {
+      "id": "190320",
+      "name": "Bảo Vệ Biển Thuyền Sao-2"
+  },
+  {
+      "id": "190321",
+      "name": "Bảo Vệ Biển Thuyền Sao-3"
+  },
+  {
+      "id": "190322",
+      "name": "Tạp Chí Phong Cảnh Xianzhou - Động Tiên"
+  },
+  {
+      "id": "190323",
+      "name": "Tạp Chí Phong Cảnh Xianzhou - Thuyền Sao"
+  },
+  {
+      "id": "190325",
+      "name": "Tạp Chí Phong Cảnh Xianzhou - Sở Địa Hành"
+  },
+  {
+      "id": "190327",
+      "name": "Tạp Chí Phong Cảnh Xianzhou - Sở Công Nghiệp"
+  },
+  {
+      "id": "190330",
+      "name": "Tạp Chí Phong Cảnh Xianzhou - Bàn Tính Ngọc"
+  },
+  {
+      "id": "190331",
+      "name": "Vân Kỵ Đấu Boris"
+  },
+  {
+      "id": "190332",
+      "name": "Tiếng Vọng Cổ Xưa - Khúc Nghệ Truyền Thống Xianzhou - Lời Mở Đầu"
+  },
+  {
+      "id": "190333",
+      "name": "Tiếng Vọng Cổ Xưa - Khúc Nghệ Truyền Thống Xianzhou - Bình Thư"
+  },
+  {
+      "id": "190334",
+      "name": "Tiếng Vọng Cổ Xưa - Khúc Nghệ Truyền Thống Xianzhou - Xianzhou Trụy Tử"
+  },
+  {
+      "id": "190335",
+      "name": "Tiếng Vọng Cổ Xưa - Khúc Nghệ Truyền Thống Xianzhou - Kịch Trống Của Người Hồ Ly"
+  },
+  {
+      "id": "190336",
+      "name": "Tiếng Vọng Cổ Xưa - Khúc Nghệ Truyền Thống Xianzhou - Điệu Hát Vidyadhara"
+  },
+  {
+      "id": "190337",
+      "name": "Tiếng Vọng Cổ Xưa - Khúc Nghệ Truyền Thống Xianzhou - Tấu Nói"
+  },
+  {
+      "id": "190338",
+      "name": "Tiếng Vọng Cổ Xưa - Khúc Nghệ Truyền Thống Xianzhou - Tạp Kỹ"
+  },
+  {
+      "id": "190339",
+      "name": "Liệu Pháp Thiền Quên Lãng"
+  },
+  {
+      "id": "190340",
+      "name": "Tổng Hợp Nguồn Gốc Các Loài - Loài Có Lông - Hoàng Thạch"
+  },
+  {
+      "id": "190341",
+      "name": "Tổng Hợp Nguồn Gốc Các Loài - Loài Có Lông - Mộng Mạc"
+  },
+  {
+      "id": "190342",
+      "name": "Tổng Hợp Nguồn Gốc Các Loài - Loài Có Lông - Tinh Nhu"
+  },
+  {
+      "id": "190343",
+      "name": "Tổng Hợp Nguồn Gốc Các Loài - Loài Có Lông - Phù Nhung"
+  },
+  {
+      "id": "190344",
+      "name": "Chú Thích [Đế Cung Tích Triền Ca] - Phần 1"
+  },
+  {
+      "id": "190345",
+      "name": "Chú Thích [Đế Cung Tích Triền Ca] - Phần 2"
+  },
+  {
+      "id": "190346",
+      "name": "Chú Thích [Đế Cung Tích Triền Ca] - Phần 3"
+  },
+  {
+      "id": "190347",
+      "name": "Chú Thích [Đế Cung Tích Triền Ca] - Phần 4"
+  },
+  {
+      "id": "190348",
+      "name": "Chú Thích [Đế Cung Tích Triền Ca] - Phần 5"
+  },
+  {
+      "id": "190349",
+      "name": "Ghi Chú Của Chị Mei"
+  },
+  {
+      "id": "190350",
+      "name": "Ghi Chú Của Chị Mei"
+  },
+  {
+      "id": "190351",
+      "name": "Ghi Chú Của Chị Mei"
+  },
+  {
+      "id": "190352",
+      "name": "Ghi Chú Của Chị Mei"
+  },
+  {
+      "id": "190353",
+      "name": "Lời Nhắn Của Liangmu I"
+  },
+  {
+      "id": "190354",
+      "name": "Lời Nhắn Của Liangmu II"
+  },
+  {
+      "id": "190355",
+      "name": "Thư Của Liangmu"
+  },
+  {
+      "id": "190356",
+      "name": "Vụ Án Ngư Công"
+  },
+  {
+      "id": "190357",
+      "name": "Bí Truyền Dược Vương - Tuyển Tập Vật Chứng"
+  },
+  {
+      "id": "190358",
+      "name": "Bí Truyền Dược Vương - Tuyển Tập Vật Chứng"
+  },
+  {
+      "id": "190359",
+      "name": "Bí Truyền Dược Vương - Tuyển Tập Vật Chứng"
+  },
+  {
+      "id": "190360",
+      "name": "Bí Truyền Dược Vương - Tuyển Tập Vật Chứng"
+  },
+  {
+      "id": "190361",
+      "name": "Bí Truyền Dược Vương - Tuyển Tập Vật Chứng"
+  },
+  {
+      "id": "190362",
+      "name": "Bí Truyền Dược Vương - Tuyển Tập Vật Chứng"
+  },
+  {
+      "id": "190363",
+      "name": "Nhật Ký Của Tướng Quân-1"
+  },
+  {
+      "id": "190364",
+      "name": "Nhật Ký Của Tướng Quân-2"
+  },
+  {
+      "id": "190365",
+      "name": "Nhật Ký Của Tướng Quân-3"
+  },
+  {
+      "id": "190367",
+      "name": "Báo Cáo Nghiên Cứu Của Adler Về Chuyện Lạ-1"
+  },
+  {
+      "id": "190368",
+      "name": "Báo Cáo Nghiên Cứu Của Adler Về Chuyện Lạ-2"
+  },
+  {
+      "id": "190369",
+      "name": "Báo Cáo Nghiên Cứu Của Adler Về Chuyện Lạ-3"
+  },
+  {
+      "id": "190370",
+      "name": "Biên Niên Sử Belobog - Trước Khi Băng Giá Vĩnh Cửu"
+  },
+  {
+      "id": "190371",
+      "name": "Sổ Lưu Niệm Lệnh Truy Nã"
+  },
+  {
+      "id": "190372",
+      "name": "Nhật Ký Quản Lý Vật Thể Lạ-1"
+  },
+  {
+      "id": "190373",
+      "name": "Nhật Ký Quản Lý Vật Thể Lạ-2"
+  },
+  {
+      "id": "190374",
+      "name": "Nhật Ký Quản Lý Vật Thể Lạ-3"
+  },
+  {
+      "id": "190375",
+      "name": "Số Đặc San \"Điệp Ảnh\""
+  },
+  {
+      "id": "190376",
+      "name": "Số Đặc San \"Điệp Ảnh\""
+  },
+  {
+      "id": "190377",
+      "name": "Số Đặc San \"Điệp Ảnh\""
+  },
+  {
+      "id": "190378",
+      "name": "Số Đặc San \"Điệp Ảnh\""
+  },
+  {
+      "id": "190379",
+      "name": "Số Đặc San \"Điệp Ảnh\""
+  },
+  {
+      "id": "190380",
+      "name": "Số Đặc San \"Điệp Ảnh\""
+  },
+  {
+      "id": "190381",
+      "name": "Số Đặc San \"Điệp Ảnh\""
+  },
+  {
+      "id": "190382",
+      "name": "Số Đặc San \"Điệp Ảnh\""
+  },
+  {
+      "id": "190383",
+      "name": "Số Đặc San \"Điệp Ảnh\""
+  },
+  {
+      "id": "190384",
+      "name": "Số Đặc San \"Điệp Ảnh\""
+  },
+  {
+      "id": "190385",
+      "name": "Trang Tiêu Đề Truyện Trinh Thám Bị Luocha Xé"
+  },
+  {
+      "id": "190386",
+      "name": "Danh Sách Thương Hội Sở Thiên Bách Luofu"
+  },
+  {
+      "id": "190387",
+      "name": "Tộc Trường Sinh, điều 1"
+  },
+  {
+      "id": "190388",
+      "name": "Dược Vương Từ Bi Nghìn Tay Cứu Thế"
+  },
+  {
+      "id": "190389",
+      "name": "Phương Thuốc"
+  },
+  {
+      "id": "190390",
+      "name": "Phòng Tập Quyền Anh Lão Hổ - Quảng Cáo Chiêu Sinh"
+  },
+  {
+      "id": "190391",
+      "name": "Đề xướng việc yêu quý, bảo vệ động vật hợp lý và hợp pháp, kiểm soát và nghiêm trị hành vi \"phóng sinh\" động vật phạm pháp"
+  },
+  {
+      "id": "190392",
+      "name": "Xianzhou Thông Giám - Tam Kiếp Bản Kỷ - Quyển Thượng Khuyết"
+  },
+  {
+      "id": "190393",
+      "name": "Xianzhou Thông Giám - Tam Kiếp Bản Kỷ - Quyển Hạ Khuyết"
+  },
+  {
+      "id": "190394",
+      "name": "Tổng Hợp Sự Kiện Kim Cang Sở Thiên Bách - Lịch Hành Tinh Năm <unbreak>3287</unbreak> - Ngày <unbreak>03</unbreak> Canh Dậu"
+  },
+  {
+      "id": "190395",
+      "name": "\"Tuyên Ngôn Liên Minh Xianzhou - Mở Đầu\" Bản Điện Tử Mở Rộng"
+  },
+  {
+      "id": "190396",
+      "name": "Thư Tư Vấn Bí Ẩn"
+  },
+  {
+      "id": "190397",
+      "name": "Thư Phúc Đáp Đầy Cảm Kích"
+  },
+  {
+      "id": "190398",
+      "name": "Thư Phúc Đáp Đau Thương"
+  },
+  {
+      "id": "190399",
+      "name": "Vân Ngâm Phổ"
+  },
+  {
+      "id": "190400",
+      "name": "Thư Mật Lục Phù Dung"
+  },
+  {
+      "id": "190401",
+      "name": "Khảo Nghiệm Xác Nhập Ma (Mở Đầu)"
+  },
+  {
+      "id": "190402",
+      "name": "Khảo Nghiệm Xác Nhập Ma (1)"
+  },
+  {
+      "id": "190403",
+      "name": "Báo Cáo Giám Sát Từ Xianzhou \"Yuque\""
+  },
+  {
+      "id": "190404",
+      "name": "Quyển Tận Diệt"
+  },
+  {
+      "id": "190405",
+      "name": "Quyển Tà Vật"
+  },
+  {
+      "id": "190406",
+      "name": "Nhật Ký Của Dahao (1)"
+  },
+  {
+      "id": "190407",
+      "name": "Nhật ký của Dahao (2)"
+  },
+  {
+      "id": "190408",
+      "name": "Đế Cung Thùy Tích Lục"
+  },
+  {
+      "id": "190409",
+      "name": "Một Bản Báo Cáo Bói Toán"
+  },
+  {
+      "id": "190410",
+      "name": "Ghi Chép Về Thần - Tổng Luận"
+  },
+  {
+      "id": "190411",
+      "name": "Ghi Chép Về Thần - Tư Mệnh"
+  },
+  {
+      "id": "190412",
+      "name": "Ghi Chép Về Thần - Thiên Quân"
+  },
+  {
+      "id": "190413",
+      "name": "Ghi Chép Về Thần - Họa Tổ"
+  },
+  {
+      "id": "190414",
+      "name": "Ghi Chép Cộng Hưởng Hệ Thống Chuông Vàng"
+  },
+  {
+      "id": "190415",
+      "name": "Ghi Chép Bói Toán Của Mingyue"
+  },
+  {
+      "id": "190416",
+      "name": "Ghi Chép Bói Toán Của Jingzhai"
+  },
+  {
+      "id": "190417",
+      "name": "Thượng Quốc Mộng Hoa Lục (Phần Thiếu)"
+  },
+  {
+      "id": "190420",
+      "name": "Danh Sách Kẻ Thù Lớn  Quyển Tà Vật"
+  },
+  {
+      "id": "190421",
+      "name": "Danh Sách Kẻ Thù Lớn  Quyển Tà Vật"
+  },
+  {
+      "id": "190422",
+      "name": "Lời Kêu Gọi Từ Vidyadhara 1"
+  },
+  {
+      "id": "190423",
+      "name": "Lời Kêu Gọi Từ Vidyadhara 2"
+  },
+  {
+      "id": "190424",
+      "name": "Báo Cáo Tuần Tra Của Vân Kỵ Quân"
+  },
+  {
+      "id": "190425",
+      "name": "Danh Sách Thuyền Sao Thất Lạc"
+  },
+  {
+      "id": "190426",
+      "name": "Chỉ Lệnh Bí Truyền Dược Vương"
+  },
+  {
+      "id": "190427",
+      "name": "Tiểu Thuyết Võ Hiệp Đã Dừng Ra Chương Mới Từ <unbreak>300</unbreak> Năm Trước"
+  },
+  {
+      "id": "190428",
+      "name": "Quẻ Xăm Rút Được"
+  },
+  {
+      "id": "190429",
+      "name": "Nhật Ký Lưu Thông Của Thuyền Sao"
+  },
+  {
+      "id": "190430",
+      "name": "Ghi Chép Tình Báo Xianzhou Luofu"
+  },
+  {
+      "id": "190431",
+      "name": "Nhật Ký Của Dan Shu-1"
+  },
+  {
+      "id": "190432",
+      "name": "Nhật Ký Của Dan Shu-2"
+  },
+  {
+      "id": "190433",
+      "name": "Bí Truyền Dược Vương - Tuyển Tập Vật Chứng \"Rồng Cuộn Trở Mình\" Khảo Nghiệm Dược Lý"
+  },
+  {
+      "id": "190434",
+      "name": "Tổng Quan Y Thuật Xianzhou  Kỳ Hoàng Biên Soạn"
+  },
+  {
+      "id": "190435",
+      "name": "Tổng Quan Y Thuật Xianzhou  Bảo Thực Biên Soạn"
+  },
+  {
+      "id": "190436",
+      "name": "Tổng Quan Y Thuật Xianzhou  Bàng Môn Biên Soạn"
+  },
+  {
+      "id": "190437",
+      "name": "Tổng Quan Y Thuật Xianzhou  Tà Kiến Biên Soạn"
+  },
+  {
+      "id": "190438",
+      "name": "Cẩm Nang Y Dược 1"
+  },
+  {
+      "id": "190439",
+      "name": "Cẩm Nang Y Dược 2"
+  },
+  {
+      "id": "190440",
+      "name": "Thông Báo Chính Thức Về Bí Truyền Dược Vương"
+  },
+  {
+      "id": "190441",
+      "name": "Nhật Ký Trao Đổi Của Yukong"
+  },
+  {
+      "id": "190442",
+      "name": "Nhật Ký Trao Đổi Của Caiyi"
+  },
+  {
+      "id": "190443",
+      "name": "Ghi Chép Sử Dụng Tài Liệu Quan Di Đài"
+  },
+  {
+      "id": "190444",
+      "name": "Một Trang Của Mục Công Báo Sở Đan Đỉnh"
+  },
+  {
+      "id": "190445",
+      "name": "Tạp Chí Phong Cảnh Xianzhou - Tộc Trường Sinh 2"
+  },
+  {
+      "id": "190446",
+      "name": "Sổ Bệnh Án Kinh Điển"
+  },
+  {
+      "id": "190447",
+      "name": "Lá Thư Chưa Bị Hủy"
+  },
+  {
+      "id": "190448",
+      "name": "Bút Ký Chưa Bị Hủy"
+  },
+  {
+      "id": "190449",
+      "name": "Báo Cáo"
+  },
+  {
+      "id": "190450",
+      "name": "Tin Nhắn Của Sampo"
+  },
+  {
+      "id": "190451",
+      "name": "Thư Của Zhongshan"
+  },
+  {
+      "id": "190452",
+      "name": "Sơ Yếu Lý Lịch Của Serval"
+  },
+  {
+      "id": "190453",
+      "name": "Sơ Yếu Lý Lịch Của Natasha"
+  },
+  {
+      "id": "190454",
+      "name": "Sơ Yếu Lý Lịch Của Hook"
+  },
+  {
+      "id": "190455",
+      "name": "Sơ Yếu Lý Lịch Của Gepard"
+  },
+  {
+      "id": "190456",
+      "name": "Sơ Yếu Lý Lịch Của Seele"
+  },
+  {
+      "id": "190457",
+      "name": "Bản Án"
+  },
+  {
+      "id": "190458",
+      "name": "Hàn Thực, Tuế Dương và Án Oan"
+  },
+  {
+      "id": "190459",
+      "name": "Ghi Chép Về Việc Long Sư Sutuan Tạc Tượng Long Tôn"
+  },
+  {
+      "id": "190460",
+      "name": "Công Chính Congyan Khắc Đá"
+  },
+  {
+      "id": "190461",
+      "name": "Tấm Bia Liên Lạc Người Bảo Vệ Ngọc"
+  },
+  {
+      "id": "190462",
+      "name": "Ghi Chú Rách Nát Của Học Sĩ Bernini"
+  },
+  {
+      "id": "190463",
+      "name": "Nghiên Cứu Phân Đoạn Điệu Hát Vidyadhara \"Lục Ngự Vấn Ẩm Nguyệt\""
+  },
+  {
+      "id": "190464",
+      "name": "Bút Ký Của Một Thiếu Niên Vidyadhara Nào Đó"
+  },
+  {
+      "id": "190465",
+      "name": "Bia Ghi Chép Về Hội Nghị Long Sư"
+  },
+  {
+      "id": "190466",
+      "name": "Khảo Sát Bản Khắc Luofu"
+  },
+  {
+      "id": "190467",
+      "name": "Khảo Sát Bản Khắc Luofu"
+  },
+  {
+      "id": "190468",
+      "name": "Khảo Sát Bản Khắc Luofu"
+  },
+  {
+      "id": "190469",
+      "name": "Khảo Sát Bản Khắc Luofu"
+  },
+  {
+      "id": "190470",
+      "name": "Khảo Sát Bản Khắc Luofu"
+  },
+  {
+      "id": "190471",
+      "name": "Khảo Sát Bản Khắc Luofu"
+  },
+  {
+      "id": "190472",
+      "name": "Khảo Sát Bản Khắc Luofu"
+  },
+  {
+      "id": "190473",
+      "name": "Khảo Sát Bản Khắc Luofu"
+  },
+  {
+      "id": "190474",
+      "name": "Lá Thư Gửi Đến Học Sĩ Cleo"
+  },
+  {
+      "id": "190475",
+      "name": "Bia Ghi Chép Quan Trắc Gốc Rễ Cây Kiến Tạo"
+  },
+  {
+      "id": "190476",
+      "name": "Thắng Cảnh Bến Bờ Thuyền Sao - Xianzhou Zhuming 1"
+  },
+  {
+      "id": "190477",
+      "name": "Thắng Cảnh Bến Bờ Thuyền Sao - Xianzhou Zhuming 2"
+  },
+  {
+      "id": "190478",
+      "name": "Thắng Cảnh Bến Bờ Thuyền Sao - Xianzhou Zhuming 3"
+  },
+  {
+      "id": "190479",
+      "name": "Hội Hái Sao - Hướng Dẫn Du Lịch Phố Kim Nhân"
+  },
+  {
+      "id": "190480",
+      "name": "Lời Nhắn Đánh Giá Điểm Tối Đa \"Gia Vị Thượng Đẳng\" Nhận Được"
+  },
+  {
+      "id": "190481",
+      "name": "Hợp Đồng Lao Động Của Majima"
+  },
+  {
+      "id": "190482",
+      "name": "Ghi Chép Điều Tra Thương Nhân Chợ Đen"
+  },
+  {
+      "id": "190483",
+      "name": "Kịch Bản Khảo Sát Tiệm Ẩm Thực Của Guinaifen"
+  },
+  {
+      "id": "190484",
+      "name": "Sổ Tay Du Ngoạn Liên Minh Xianzhou - Fanghu"
+  },
+  {
+      "id": "190485",
+      "name": "Sổ Tay Du Ngoạn Liên Minh Xianzhou - Yaoqing"
+  },
+  {
+      "id": "190486",
+      "name": "Thư Fu Xuan Gửi Học Sĩ Yaakob"
+  },
+  {
+      "id": "190487",
+      "name": "Tổng Quan Khủng Hoảng Tín Ngưỡng Liên Minh Xianzhou 1"
+  },
+  {
+      "id": "190488",
+      "name": "Tổng Quan Khủng Hoảng Tín Ngưỡng Liên Minh Xianzhou 2"
+  },
+  {
+      "id": "190489",
+      "name": "Tổng Quan Khủng Hoảng Tín Ngưỡng Liên Minh Xianzhou 3"
+  },
+  {
+      "id": "190490",
+      "name": "Tổng Quan Khủng Hoảng Tín Ngưỡng Liên Minh Xianzhou 4"
+  },
+  {
+      "id": "190491",
+      "name": "Văn Tế Xiao Và Hong"
+  },
+  {
+      "id": "190492",
+      "name": "Lá Thư Trong Bình Trôi Dạt 1"
+  },
+  {
+      "id": "190493",
+      "name": "Lá Thư Trong Bình Trôi Dạt 2"
+  },
+  {
+      "id": "190494",
+      "name": "Lá Thư Trong Bình Trôi Dạt 3"
+  },
+  {
+      "id": "190495",
+      "name": "Lá Thư Trong Bình Trôi Dạt 4"
+  },
+  {
+      "id": "190496",
+      "name": "Lá Thư Trong Bình Trôi Dạt 5"
+  },
+  {
+      "id": "190497",
+      "name": "Tuyển Tập Tấu Nói Forth & Back'n"
+  },
+  {
+      "id": "190498",
+      "name": "Tuyển Tập Bình Thư Xiyan Tiên Sinh"
+  },
+  {
+      "id": "190499",
+      "name": "Giấy Nợ Của Nhân Viên IPC"
+  },
+  {
+      "id": "190500",
+      "name": "Quy Tắc Ứng Xử Dành Cho Nhân Viên Công Tác"
+  },
+  {
+      "id": "190501",
+      "name": "Phương Án Sửa Chữa Linh Kiện Gốc Rễ Của Tạo Vật"
+  },
+  {
+      "id": "190502",
+      "name": "Chi Tiết Kế Hoạch Sửa Chữa Gốc Rễ Của Tạo Vật"
+  },
+  {
+      "id": "190503",
+      "name": "Áp Phích An Toàn Công Trường"
+  },
+  {
+      "id": "190504",
+      "name": "Tuần Báo Thợ Mỏ Kỳ <unbreak>226</unbreak>"
+  },
+  {
+      "id": "190505",
+      "name": "Bí Kíp Cuộc Chiến Aetherium Của Hook"
+  },
+  {
+      "id": "190506",
+      "name": "Kế Hoạch Dự Án Gốc Rễ Của Tạo Vật"
+  },
+  {
+      "id": "190507",
+      "name": "Tờ Báo Tro Tàn"
+  },
+  {
+      "id": "190508",
+      "name": "Sổ Tay An Toàn Hành Trình Công Ty"
+  },
+  {
+      "id": "190509",
+      "name": "Robot Chiến Đấu"
+  },
+  {
+      "id": "190510",
+      "name": "Lời Nhắn Của Screwllum"
+  },
+  {
+      "id": "190511",
+      "name": "Lá Thư Không Rõ Nguồn Gốc"
+  },
+  {
+      "id": "190512",
+      "name": "Ghi Chú Do Luocha Để Lại"
+  },
+  {
+      "id": "190514",
+      "name": "Sổ Tay Hướng Dẫn Trừ Tà Tuế Dương"
+  },
+  {
+      "id": "190515",
+      "name": "Chuyện Về Đêm Khu Vườn Tĩnh Mịch"
+  },
+  {
+      "id": "190516",
+      "name": "Chuyện Về Đêm Khu Vườn Tĩnh Mịch"
+  },
+  {
+      "id": "190517",
+      "name": "Thư In Từ Viên Đá"
+  },
+  {
+      "id": "190518",
+      "name": "Tóm Tắt Tai Họa Nhã Mộc Luofu"
+  },
+  {
+      "id": "190519",
+      "name": "Kịch Trống Của Người Hồ Ly"
+  },
+  {
+      "id": "190520",
+      "name": "Ngôn Ngữ Nhân Gian Đáng Ghét"
+  },
+  {
+      "id": "190521",
+      "name": "Tuyển Tập Dân Ca Người Boris 1"
+  },
+  {
+      "id": "190522",
+      "name": "Tờ Trình Văn Phòng Tổng Vụ Công Đường Trường Lạc Thiên"
+  },
+  {
+      "id": "190523",
+      "name": "Ghi Chép Chứng Cứ Phạm Tội Của Yêu Khấu Dược Vương"
+  },
+  {
+      "id": "190524",
+      "name": "Giải Trình <unbreak>10</unbreak> Tội Ác Không Thể Tha Thứ"
+  },
+  {
+      "id": "190525",
+      "name": "Danh Sách Trọng Phạm Sở Thập Vương"
+  },
+  {
+      "id": "190526",
+      "name": "Biên Bản Sở Thập Vương Hỏi Cung Thợ Dệt Cánh Xili"
+  },
+  {
+      "id": "190527",
+      "name": "Cảm Nghĩ Về \"Chương Đặc Biệt Kỷ Niệm Vụ Án Ngư Công\""
+  },
+  {
+      "id": "190528",
+      "name": "Danh Sách Trọng Phạm Vân Kỵ Quân Gửi Đến Sở Thập Vương"
+  },
+  {
+      "id": "190529",
+      "name": "Thư Đến Từ Sở Địa Hành"
+  },
+  {
+      "id": "190530",
+      "name": "Bộ Mặt <unbreak>14</unbreak> Loại Ảo Giác"
+  },
+  {
+      "id": "190531",
+      "name": "Tập Nhạc \"Rượu Hợp Hôn\""
+  },
+  {
+      "id": "190532",
+      "name": "Câu Lạc Bộ Thiên Tài"
+  },
+  {
+      "id": "190533",
+      "name": "Mảnh Nhật Ký Của Ruan Mei"
+  },
+  {
+      "id": "190534",
+      "name": "Nhật Ký Thí Nghiệm Của Ruan Mei"
+  },
+  {
+      "id": "190535",
+      "name": "Bản kế hoạch nuôi dưỡng cây trồng của Khoa Giống Loài"
+  },
+  {
+      "id": "190536",
+      "name": "Cảnh báo!!!"
+  },
+  {
+      "id": "190537",
+      "name": "Trích Từ Thực Đơn Điểm Tâm Hoàn Hảo"
+  },
+  {
+      "id": "190538",
+      "name": "Bản chất của tình cảm... Một hạng mục phân tích sinh lý học"
+  },
+  {
+      "id": "190539",
+      "name": "Mẩu Giấy Nhắn Của Dr. Ratio 1"
+  },
+  {
+      "id": "190540",
+      "name": "Mẩu Giấy Nhắn Của Dr. Ratio 2"
+  },
+  {
+      "id": "190541",
+      "name": "Mẩu Giấy Nhắn Của Dr. Ratio 3"
+  },
+  {
+      "id": "190542",
+      "name": "Mẩu Giấy Nhắn Của Dr. Ratio 4"
+  },
+  {
+      "id": "190543",
+      "name": "Chào Mừng Đến Với ■■■■"
+  },
+  {
+      "id": "190544",
+      "name": "Nhật Ký Làm Việc Của Giovanna"
+  },
+  {
+      "id": "190545",
+      "name": "\"Đêm Ngân Hà Lộng Lẫy\""
+  },
+  {
+      "id": "190546",
+      "name": "\"Đường Ven Biển\""
+  },
+  {
+      "id": "190547",
+      "name": "\"Thiên Đường Hạ Giới\""
+  },
+  {
+      "id": "190548",
+      "name": "Bài Đồng Dao Cõi Mộng"
+  },
+  {
+      "id": "190549",
+      "name": "\"Suất Chiếu Đặc Biệt Của Rạp Nickodeum"
+  },
+  {
+      "id": "190550",
+      "name": "Bách Khoa SoulGlad"
+  },
+  {
+      "id": "190551",
+      "name": "Quy Tắc An Toàn Phủ Búa Vàng"
+  },
+  {
+      "id": "190552",
+      "name": "Sơ Lược Vụ Án 1"
+  },
+  {
+      "id": "190553",
+      "name": "Sơ Lược Vụ Án 2"
+  },
+  {
+      "id": "190554",
+      "name": "Lời Khuyên Của Sampo?"
+  },
+  {
+      "id": "190555",
+      "name": "Lời Khuyên Của \"Thợ Đồng Hồ\""
+  },
+  {
+      "id": "190556",
+      "name": "Cuộc Phiêu Lưu Của Hanu - Lời Nói Đầu"
+  },
+  {
+      "id": "190557",
+      "name": "Cuộc Phiêu Lưu Của Hanu - Phần 1, Chương 1"
+  },
+  {
+      "id": "190558",
+      "name": "Cuộc Phiêu Lưu Của Hanu - Phần 1, Chương 2"
+  },
+  {
+      "id": "190559",
+      "name": "Cuộc Phiêu Lưu Của Hanu - Phần 1, Chương 3"
+  },
+  {
+      "id": "190560",
+      "name": "Cuộc Phiêu Lưu Của Hanu - Phần 1, Chương 4"
+  },
+  {
+      "id": "190561",
+      "name": "Tuyệt Tác Hành Tinh Thánh Ca - Nhạc Hội \"Khúc Ca Đẹp Thuần Khiết\""
+  },
+  {
+      "id": "190562",
+      "name": "\"Sóng Xung Kích Màn Bạc\" Kỳ <unbreak>280</unbreak>"
+  },
+  {
+      "id": "190563",
+      "name": "\"Đoạn Danh Sách Người Bị Hại Meme Vùng Hồi Ức\""
+  },
+  {
+      "id": "190564",
+      "name": "\"Đnoạ Dhan Shác Nigườ Bị Hiạ Meem Vùng Hồi Ức (Phiên Bản Mã Hóa)\""
+  },
+  {
+      "id": "190565",
+      "name": "Tờ Rơi Quảng Cáo \"Đêm Bruce\""
+  },
+  {
+      "id": "190566",
+      "name": "Câu chuyện về Ngôi Sao Ngân Hà, bài báo được cắt ra của fan"
+  },
+  {
+      "id": "190567",
+      "name": "Câu chuyện về Ngôi Sao Ngân Hà, kế hoạch tái sinh Lesley Dean"
+  },
+  {
+      "id": "190568",
+      "name": "Nghiên Cứu Về Máy Quay Trứng Số ■"
+  },
+  {
+      "id": "190569",
+      "name": "Thông Cáo Báo Chí"
+  },
+  {
+      "id": "190570",
+      "name": "\"Hướng Dẫn Du Lịch Cõi Mộng-Giao Thông\""
+  },
+  {
+      "id": "190571",
+      "name": "\"Hướng Dẫn Du Lịch Cõi Mộng-Mua Sắm\""
+  },
+  {
+      "id": "190572",
+      "name": "\"Hướng Dẫn Du Lịch Cõi Mộng-Tham Quan\""
+  },
+  {
+      "id": "190573",
+      "name": "Thẻ Sưu Tầm Hành Tinh Lễ Hội, Hành Tinh Lễ Hội"
+  },
+  {
+      "id": "190574",
+      "name": "null"
+  },
+  {
+      "id": "190575",
+      "name": "null"
+  },
+  {
+      "id": "190576",
+      "name": "Thẻ Sưu Tầm Hành Tinh Lễ Hội, Hành Tinh Lễ Hội"
+  },
+  {
+      "id": "190577",
+      "name": "Thẻ Sưu Tầm Hành Tinh Lễ Hội — Hành Tinh Lễ Hội"
+  },
+  {
+      "id": "190578",
+      "name": "Thẻ Sưu Tầm Hành Tinh Lễ Hội, Hành Tinh Lễ Hội"
+  },
+  {
+      "id": "190579",
+      "name": "null"
+  },
+  {
+      "id": "190580",
+      "name": "Thẻ Sưu Tầm Hành Tinh Lễ Hội, Hành Tinh Lễ Hội"
+  },
+  {
+      "id": "190581",
+      "name": "Mảnh Giấy Nhắn Của Cocona"
+  },
+  {
+      "id": "190582",
+      "name": "Phần 1"
+  },
+  {
+      "id": "190583",
+      "name": "Phần 2"
+  },
+  {
+      "id": "190584",
+      "name": "Phần 3"
+  },
+  {
+      "id": "190585",
+      "name": "Phần 4"
+  },
+  {
+      "id": "190586",
+      "name": "Thẻ Sưu Tầm Hành Tinh Lễ Hội — Hành Tinh Lễ Hội"
+  },
+  {
+      "id": "190587",
+      "name": "Thẻ Sưu Tầm Hành Tinh Lễ Hội — Hành Tinh Lễ Hội"
+  },
+  {
+      "id": "190588",
+      "name": "Lá Thư Từ Robin"
+  },
+  {
+      "id": "190589",
+      "name": "Lời Dặn Của Bác Sĩ"
+  },
+  {
+      "id": "190590",
+      "name": "Danh Sách Nghi Phạm"
+  },
+  {
+      "id": "190591",
+      "name": "Danh Sách Người Bị Hại Bởi \"Tử Vong\""
+  },
+  {
+      "id": "190592",
+      "name": "Lá Thư Từ Alfalfa"
+  },
+  {
+      "id": "190593",
+      "name": "Tóm Tắt Báo Cáo Tài Chính Clock Studios"
+  },
+  {
+      "id": "190594",
+      "name": "Nhật Ký Sáng Tạo \"Thị Trấn Cơ Khí\""
+  },
+  {
+      "id": "190595",
+      "name": "Cậu Bé Đồng Hồ Và Công Chúa Gương - Phần 1"
+  },
+  {
+      "id": "190596",
+      "name": "Cậu Bé Đồng Hồ Và Công Chúa Gương - Phần 2"
+  },
+  {
+      "id": "190597",
+      "name": "Ghi Chép Điều Tra \"Thợ Đồng Hồ\""
+  },
+  {
+      "id": "190598",
+      "name": "\"Giai Điệu Vạn Cung Đàn\""
+  },
+  {
+      "id": "190599",
+      "name": "\"Khúc Ca Hòa Hợp\", Chương Nhạc 1"
+  },
+  {
+      "id": "190600",
+      "name": "null"
+  },
+  {
+      "id": "190601",
+      "name": "null"
+  },
+  {
+      "id": "190602",
+      "name": "null"
+  },
+  {
+      "id": "190603",
+      "name": "Ý Kiến Đánh Giá Về \"Cuộc Phiêu Lưu Trên Cát Nóng\""
+  },
+  {
+      "id": "190604",
+      "name": "Một Bức Thư Khiếu Nại"
+  },
+  {
+      "id": "190605",
+      "name": "Ghi Chép Cuộc Gặp Gỡ"
+  },
+  {
+      "id": "190606",
+      "name": "\"Bức Thư Gửi Người Cổ Vũ Cõi Mộng\""
+  },
+  {
+      "id": "190608",
+      "name": "\"Kế Hoạch Bọ Cánh Cứng\""
+  },
+  {
+      "id": "190609",
+      "name": "Giấy Ghi Chú Với Nét Chữ Nguệch Ngoạc"
+  },
+  {
+      "id": "190610",
+      "name": "Lá Thư Nhà Viết Tay"
+  },
+  {
+      "id": "190611",
+      "name": "Câu Chuyện Siêu Nhiên Ở Học Viện Gấp Giấy"
+  },
+  {
+      "id": "190612",
+      "name": "Một Lá Thư Chưa Gửi"
+  },
+  {
+      "id": "190613",
+      "name": "Tập Tài Liệu Của Claudia"
+  },
+  {
+      "id": "190614",
+      "name": "Một Lá Thư Tuyệt Giao"
+  },
+  {
+      "id": "190615",
+      "name": "Cơ Mật"
+  },
+  {
+      "id": "190616",
+      "name": "Trích Đoạn \"Hồ Sơ Tội Phạm Cõi Mộng\""
+  },
+  {
+      "id": "190617",
+      "name": "Nhật Ký Của Quinn"
+  },
+  {
+      "id": "190618",
+      "name": "\"Giấy Giới Thiệu Gói Bảo Hiểm Ngân Hàng Alfalfa\""
+  },
+  {
+      "id": "190619",
+      "name": "Cuộc Phiêu Lưu Của Hanu Phần 2 - Chương 1"
+  },
+  {
+      "id": "190620",
+      "name": "Cuộc Phiêu Lưu Của Hanu Phần 2 - Chương 2"
+  },
+  {
+      "id": "190621",
+      "name": "Cuộc Phiêu Lưu Của Hanu Phần 2 - Chương 3"
+  },
+  {
+      "id": "190622",
+      "name": "Cuộc Phiêu Lưu Của Hanu Phần 2 - Chương 4"
+  },
+  {
+      "id": "190624",
+      "name": "null"
+  },
+  {
+      "id": "190625",
+      "name": "null"
+  },
+  {
+      "id": "190626",
+      "name": "null"
+  },
+  {
+      "id": "190627",
+      "name": "null"
+  },
+  {
+      "id": "190628",
+      "name": "null"
+  },
+  {
+      "id": "190629",
+      "name": "null"
+  },
+  {
+      "id": "190630",
+      "name": "null"
+  },
+  {
+      "id": "190631",
+      "name": "null"
+  },
+  {
+      "id": "190632",
+      "name": "null"
+  },
+  {
+      "id": "190634",
+      "name": "null"
+  },
+  {
+      "id": "190635",
+      "name": "null"
+  },
+  {
+      "id": "190636",
+      "name": "null"
+  },
+  {
+      "id": "190637",
+      "name": "null"
+  },
+  {
+      "id": "190638",
+      "name": "null"
+  },
+  {
+      "id": "190639",
+      "name": "null"
+  },
+  {
+      "id": "190640",
+      "name": "null"
+  },
+  {
+      "id": "190641",
+      "name": "null"
+  },
+  {
+      "id": "190642",
+      "name": "null"
+  },
+  {
+      "id": "190643",
+      "name": "null"
+  },
+  {
+      "id": "190644",
+      "name": "null"
+  },
+  {
+      "id": "190645",
+      "name": "null"
+  },
+  {
+      "id": "190646",
+      "name": "null"
+  },
+  {
+      "id": "190647",
+      "name": "null"
+  },
+  {
+      "id": "190648",
+      "name": "null"
+  },
+  {
+      "id": "190649",
+      "name": "null"
+  },
+  {
+      "id": "190650",
+      "name": "null"
+  },
+  {
+      "id": "190651",
+      "name": "null"
+  },
+  {
+      "id": "190652",
+      "name": "null"
+  },
+  {
+      "id": "190653",
+      "name": "null"
+  },
+  {
+      "id": "190901",
+      "name": "\"Đội Chuột Chũi Phiêu Lưu"
+  },
+  {
+      "id": "190902",
+      "name": "\"Đội Chuột Chũi Phiêu Lưu"
+  },
+  {
+      "id": "190903",
+      "name": "\"Đội Chuột Chũi Phiêu Lưu"
+  },
+  {
+      "id": "190904",
+      "name": "\"Đội Chuột Chũi Phiêu Lưu"
+  },
+  {
+      "id": "190905",
+      "name": "\"Đội Chuột Chũi Phiêu Lưu"
+  },
+  {
+      "id": "190906",
+      "name": "\"Đội Chuột Chũi Phiêu Lưu"
+  },
+  {
+      "id": "190907",
+      "name": "\"Đội Chuột Chũi Phiêu Lưu"
+  },
+  {
+      "id": "191001",
+      "name": "Tổng Quan Về Aeon"
+  },
+  {
+      "id": "191002",
+      "name": "Khai Phá - Akivili"
+  },
+  {
+      "id": "191003",
+      "name": "Hủy Diệt - Nanook"
+  },
+  {
+      "id": "191004",
+      "name": "Săn Bắn - Lan"
+  },
+  {
+      "id": "191005",
+      "name": "Tri Thức - Nous"
+  },
+  {
+      "id": "191006",
+      "name": "Hòa Hợp - Xipe"
+  },
+  {
+      "id": "191007",
+      "name": "Hư Vô - IX"
+  },
+  {
+      "id": "191008",
+      "name": "Bảo Hộ - Qlipoth"
+  },
+  {
+      "id": "191009",
+      "name": "Trù Phú - Yaoshi"
+  },
+  {
+      "id": "191010",
+      "name": "Tham Ăn - Oroboros"
+  },
+  {
+      "id": "191011",
+      "name": "Vui Vẻ - Aha"
+  },
+  {
+      "id": "191012",
+      "name": "Đẹp Thuần Khiết - Idrila"
+  },
+  {
+      "id": "191013",
+      "name": "Sinh Sôi - Tayzzyronth"
+  },
+  {
+      "id": "191014",
+      "name": "Thần Bí - Mythus"
+  },
+  {
+      "id": "191015",
+      "name": "Tổng Quan Phe Phái"
+  },
+  {
+      "id": "191016",
+      "name": "Đội Tàu Astral - Khai Phá"
+  },
+  {
+      "id": "191017",
+      "name": "Thợ Săn Stellaron - ???"
+  },
+  {
+      "id": "191018",
+      "name": "Khách Vô Danh - Khai Phá"
+  },
+  {
+      "id": "191019",
+      "name": "Liên Minh Xianzhou - Săn Bắn"
+  },
+  {
+      "id": "191020",
+      "name": "Bác Sĩ Hỗn Độn - Hư Vô"
+  },
+  {
+      "id": "191021",
+      "name": "Cơ Quan IX - Hư Vô"
+  },
+  {
+      "id": "191022",
+      "name": "Dân Trù Phú - Trù Phú"
+  },
+  {
+      "id": "191023",
+      "name": "Kẻ Cầu Trường Sinh - Trù Phú"
+  },
+  {
+      "id": "191024",
+      "name": "Quân Đoàn Phản Vật Chất - Hủy Diệt"
+  },
+  {
+      "id": "191025",
+      "name": "Gia Tộc - Hòa Hợp"
+  },
+  {
+      "id": "191026",
+      "name": "Câu Lạc Bộ Thiên Tài - Tri Thức"
+  },
+  {
+      "id": "191027",
+      "name": "Hội Trí Thức - Tri Thức"
+  },
+  {
+      "id": "191028",
+      "name": "Đấng Kiến Tạo - Bảo Hộ"
+  },
+  {
+      "id": "191029",
+      "name": "Công Ty Hành Tinh Hòa Bình - Bảo Hộ"
+  },
+  {
+      "id": "191030",
+      "name": "Đàn Côn Trùng - Sinh Sôi"
+  },
+  {
+      "id": "191031",
+      "name": "Sảnh Đường Hồi Ức - Ký Ức"
+  },
+  {
+      "id": "191032",
+      "name": "Người Hỏa Táng - Ký Ức"
+  },
+  {
+      "id": "191033",
+      "name": "Kẻ Khóc Thuê - Vui Vẻ"
+  },
+  {
+      "id": "191034",
+      "name": "Kẻ Ngốc Đeo Mặt Nạ - Vui Vẻ"
+  },
+  {
+      "id": "191035",
+      "name": "Nhà Sử Học Hư Cấu - Bí Ẩn"
+  },
+  {
+      "id": "191036",
+      "name": "Kẻ Đánh Đố - Thần Bí"
+  },
+  {
+      "id": "200001",
+      "name": "Trống"
+  },
+  {
+      "id": "200101",
+      "name": "March 7th - Chào Đón"
+  },
+  {
+      "id": "200102",
+      "name": "Dan Heng - Chào Đón"
+  },
+  {
+      "id": "200103",
+      "name": "Himeko - Chào Đón"
+  },
+  {
+      "id": "200104",
+      "name": "Welt - Chào Đón"
+  },
+  {
+      "id": "200105",
+      "name": "Nhà Khai Phá - Chào Đón"
+  },
+  {
+      "id": "200106",
+      "name": "Nhà Khai Phá - Chào Đón"
+  },
+  {
+      "id": "200107",
+      "name": "Kafka - Tiệc Đêm"
+  },
+  {
+      "id": "200108",
+      "name": "Blade - Tiệc Đêm"
+  },
+  {
+      "id": "200109",
+      "name": "Jing Yuan - Nhàn Rỗi"
+  },
+  {
+      "id": "200110",
+      "name": "Fu Xuan - Nhàn Rỗi"
+  },
+  {
+      "id": "200111",
+      "name": "Bronya - Lễ Hội"
+  },
+  {
+      "id": "200112",
+      "name": "Gepard - Lễ Hội"
+  },
+  {
+      "id": "200113",
+      "name": "Jingliu - Viễn Du"
+  },
+  {
+      "id": "200114",
+      "name": "Yanqing - Viễn Du"
+  },
+  {
+      "id": "200115",
+      "name": "Ruan Mei - Nghiên Cứu Giảng Dạy"
+  },
+  {
+      "id": "200116",
+      "name": "Dr. Ratio - Nghiên Cứu Giảng Dạy"
+  },
+  {
+      "id": "200117",
+      "name": "Sparkle - Ảo Giác"
+  },
+  {
+      "id": "200118",
+      "name": "Sampo - Ảo Giác"
+  },
+  {
+      "id": "200119",
+      "name": "Topaz - Chính Xác"
+  },
+  {
+      "id": "200120",
+      "name": "Aventurine - Chính Xác"
+  },
+  {
+      "id": "200121",
+      "name": "null"
+  },
+  {
+      "id": "200122",
+      "name": "null"
+  },
+  {
+      "id": "201001",
+      "name": "March 7th"
+  },
+  {
+      "id": "201002",
+      "name": "Dan Heng"
+  },
+  {
+      "id": "201003",
+      "name": "Himeko"
+  },
+  {
+      "id": "201004",
+      "name": "Welt"
+  },
+  {
+      "id": "201005",
+      "name": "Kafka"
+  },
+  {
+      "id": "201006",
+      "name": "Sói Bạc"
+  },
+  {
+      "id": "201008",
+      "name": "Arlan"
+  },
+  {
+      "id": "201009",
+      "name": "Asta"
+  },
+  {
+      "id": "201013",
+      "name": "Herta"
+  },
+  {
+      "id": "201101",
+      "name": "Bronya"
+  },
+  {
+      "id": "201102",
+      "name": "Seele"
+  },
+  {
+      "id": "201103",
+      "name": "Serval"
+  },
+  {
+      "id": "201104",
+      "name": "Gepard"
+  },
+  {
+      "id": "201105",
+      "name": "Natasha"
+  },
+  {
+      "id": "201106",
+      "name": "Pela"
+  },
+  {
+      "id": "201107",
+      "name": "Clara"
+  },
+  {
+      "id": "201108",
+      "name": "Sampo"
+  },
+  {
+      "id": "201109",
+      "name": "Hook"
+  },
+  {
+      "id": "201110",
+      "name": "Lynx"
+  },
+  {
+      "id": "201111",
+      "name": "Luka"
+  },
+  {
+      "id": "201112",
+      "name": "Topaz & Numby"
+  },
+  {
+      "id": "201201",
+      "name": "Qingque"
+  },
+  {
+      "id": "201202",
+      "name": "Tingyun"
+  },
+  {
+      "id": "201203",
+      "name": "Luocha"
+  },
+  {
+      "id": "201204",
+      "name": "Jing Yuan"
+  },
+  {
+      "id": "201205",
+      "name": "Blade"
+  },
+  {
+      "id": "201206",
+      "name": "Sushang"
+  },
+  {
+      "id": "201207",
+      "name": "Yukong"
+  },
+  {
+      "id": "201208",
+      "name": "Fu Xuan"
+  },
+  {
+      "id": "201209",
+      "name": "Yanqing"
+  },
+  {
+      "id": "201210",
+      "name": "Guinaifen"
+  },
+  {
+      "id": "201211",
+      "name": "Bailu"
+  },
+  {
+      "id": "201212",
+      "name": "Jingliu"
+  },
+  {
+      "id": "201213",
+      "name": "Dan Heng - Ẩm Nguyệt"
+  },
+  {
+      "id": "201214",
+      "name": "Xueyi"
+  },
+  {
+      "id": "201215",
+      "name": "Hanya"
+  },
+  {
+      "id": "201217",
+      "name": "Huohuo"
+  },
+  {
+      "id": "201301",
+      "name": "Gallagher"
+  },
+  {
+      "id": "201302",
+      "name": "Argenti"
+  },
+  {
+      "id": "201303",
+      "name": "Ruan Mei"
+  },
+  {
+      "id": "201304",
+      "name": "Aventurine"
+  },
+  {
+      "id": "201305",
+      "name": "Dr. Ratio"
+  },
+  {
+      "id": "201306",
+      "name": "Sparkle"
+  },
+  {
+      "id": "201307",
+      "name": "Black Swan"
+  },
+  {
+      "id": "201308",
+      "name": "Acheron"
+  },
+  {
+      "id": "201309",
+      "name": "null"
+  },
+  {
+      "id": "201312",
+      "name": "Misha"
+  },
+  {
+      "id": "201315",
+      "name": "null"
+  },
+  {
+      "id": "202001",
+      "name": "Wubbaboo"
+  },
+  {
+      "id": "202002",
+      "name": "Thùng Rác"
+  },
+  {
+      "id": "202003",
+      "name": "Junjun"
+  },
+  {
+      "id": "202004",
+      "name": "Peppy"
+  },
+  {
+      "id": "202005",
+      "name": "Diting"
+  },
+  {
+      "id": "202006",
+      "name": "Lệnh Truy Nã"
+  },
+  {
+      "id": "202007",
+      "name": "Pom-Pom - Món Ngon"
+  },
+  {
+      "id": "202008",
+      "name": "Sinh Mệnh Bánh Ngọt"
+  },
+  {
+      "id": "202009",
+      "name": "{NICKNAME}"
+  },
+  {
+      "id": "202010",
+      "name": "{NICKNAME}"
+  },
+  {
+      "id": "202011",
+      "name": "Cậu Bé Đồng Hồ"
+  },
+  {
+      "id": "202012",
+      "name": "Người Anh Em Hanu"
+  },
+  {
+      "id": "202013",
+      "name": "Chim Giấy"
+  },
+  {
+      "id": "202014",
+      "name": "Kakavasha"
+  },
+  {
+      "id": "202015",
+      "name": "Kỵ Sĩ Bóng Hamster"
+  },
+  {
+      "id": "202016",
+      "name": "Kỷ Niệm Một Năm"
+  },
+  {
+      "id": "208001",
+      "name": "{NICKNAME} - Hủy Diệt"
+  },
+  {
+      "id": "208002",
+      "name": "{NICKNAME} - Hủy Diệt"
+  },
+  {
+      "id": "208003",
+      "name": "{NICKNAME} - Bảo Hộ"
+  },
+  {
+      "id": "208004",
+      "name": "{NICKNAME} - Bảo Hộ"
+  },
+  {
+      "id": "208005",
+      "name": "null"
+  },
+  {
+      "id": "208006",
+      "name": "null"
+  },
+  {
+      "id": "210001",
+      "name": "\"Bình Minh Của Tai Ương\""
+  },
+  {
+      "id": "210003",
+      "name": "\"Phong Cách Tự Do\""
+  },
+  {
+      "id": "210008",
+      "name": "\"Mối Nguy Biết Trước\""
+  },
+  {
+      "id": "210010",
+      "name": "Thời Khắc Bùng Nổ"
+  },
+  {
+      "id": "210100",
+      "name": "\"Trật Tự\""
+  },
+  {
+      "id": "210101",
+      "name": "\"Ngọn Đuốc\""
+  },
+  {
+      "id": "210102",
+      "name": "\"Thành Phố Ngầm\""
+  },
+  {
+      "id": "210103",
+      "name": "\"Người Đỡ Đầu\""
+  },
+  {
+      "id": "210104",
+      "name": "\"Hành Quân Trong Giá Rét\""
+  },
+  {
+      "id": "210105",
+      "name": "\"Xung Trận Không Về\""
+  },
+  {
+      "id": "210106",
+      "name": "\"Lửa Rừng\""
+  },
+  {
+      "id": "210107",
+      "name": "\"Mặt Trời Mờ Nhạt\""
+  },
+  {
+      "id": "210108",
+      "name": "\"Dấu Ấn Ngày Cũ\""
+  },
+  {
+      "id": "210109",
+      "name": "\"Everwinter\""
+  },
+  {
+      "id": "210110",
+      "name": "\"Vận Mệnh\""
+  },
+  {
+      "id": "210111",
+      "name": "\"Tro Tàn\""
+  },
+  {
+      "id": "210112",
+      "name": "\"Ngọn Lửa Trái Tim\""
+  },
+  {
+      "id": "210113",
+      "name": "\"Nắng Ấm\""
+  },
+  {
+      "id": "210114",
+      "name": "\"Huyên Náo\""
+  },
+  {
+      "id": "210115",
+      "name": "\"Ngủ Say\""
+  },
+  {
+      "id": "210200",
+      "name": "\"Mây Tích Trận Địa\""
+  },
+  {
+      "id": "210201",
+      "name": "\"Ave Astra et Viator\""
+  },
+  {
+      "id": "210202",
+      "name": "\"Ma Trận Xuất Hiện\""
+  },
+  {
+      "id": "210203",
+      "name": "\"Linh Lung Công Xảo\""
+  },
+  {
+      "id": "210204",
+      "name": "\"Khắp Chốn Vui Mừng\""
+  },
+  {
+      "id": "210205",
+      "name": "\"Hướng Về Ngọc Giới\""
+  },
+  {
+      "id": "210206",
+      "name": "\"Hạc Kêu\""
+  },
+  {
+      "id": "210207",
+      "name": "\"Lưỡi Đao Hãy Tuân Lệnh\""
+  },
+  {
+      "id": "210208",
+      "name": "\"Trục Lộc\""
+  },
+  {
+      "id": "210209",
+      "name": "\"Ánh Trăng Vằng Vặc\""
+  },
+  {
+      "id": "210210",
+      "name": "\"Kế Khắc Chế\""
+  },
+  {
+      "id": "210211",
+      "name": "\"Sấm Giội Mặt Đất\""
+  },
+  {
+      "id": "210212",
+      "name": "\"Trực Giác Của Thợ Săn\""
+  },
+  {
+      "id": "210213",
+      "name": "\"Lạc Giữa Mưa Tên\""
+  },
+  {
+      "id": "210214",
+      "name": "Dược Vương Cứu Thế Dharani"
+  },
+  {
+      "id": "210215",
+      "name": "Giải Thoát Diệu Đế"
+  },
+  {
+      "id": "210216",
+      "name": "Phi Quang Hiện Long Ảnh"
+  },
+  {
+      "id": "210217",
+      "name": "Giấc Mộng Sương Khói"
+  },
+  {
+      "id": "210218",
+      "name": "Cung Điện Cổ Hải"
+  },
+  {
+      "id": "210219",
+      "name": "Thủy Long Ngâm"
+  },
+  {
+      "id": "210220",
+      "name": "Ngọc Trong Biển"
+  },
+  {
+      "id": "210221",
+      "name": "Cổng Ngọc, Gốc Rễ"
+  },
+  {
+      "id": "210222",
+      "name": "Khúc Ca Vòng Đời Ngắn Ngủi"
+  },
+  {
+      "id": "210223",
+      "name": "Khúc Ca Tận Cùng Tiên Cốt"
+  },
+  {
+      "id": "210224",
+      "name": "Khúc Ca Bất Tử"
+  },
+  {
+      "id": "210225",
+      "name": "Khúc Ca Hòa Men Rượu"
+  },
+  {
+      "id": "210226",
+      "name": "Vũ Trụ Chết Vì Yêu"
+  },
+  {
+      "id": "210227",
+      "name": "Quý Ông Mộng Mị"
+  },
+  {
+      "id": "210228",
+      "name": "Vũ Điệu Của Quỷ"
+  },
+  {
+      "id": "210229",
+      "name": "Chim Say Giấc Nồng"
+  },
+  {
+      "id": "210300",
+      "name": "Chống Lại Ban Ngày"
+  },
+  {
+      "id": "210301",
+      "name": "Thách Thức Độc Giả"
+  },
+  {
+      "id": "210302",
+      "name": "Người Chơi Khác Phe"
+  },
+  {
+      "id": "210303",
+      "name": "Trò Chơi Công Bằng"
+  },
+  {
+      "id": "210304",
+      "name": "Không Ai Sống Sót"
+  },
+  {
+      "id": "210305",
+      "name": "Quyết Không Trở Lại"
+  },
+  {
+      "id": "210306",
+      "name": "Phía Bên Kia Địa Ngục"
+  },
+  {
+      "id": "210307",
+      "name": "Vùng Đất Vàng"
+  },
+  {
+      "id": "210308",
+      "name": "Ván Bài Lật Ngược"
+  },
+  {
+      "id": "210309",
+      "name": "Giấc Ngủ Vĩnh Hằng"
+  },
+  {
+      "id": "210310",
+      "name": "Nguyên Tắc Hiện Thực"
+  },
+  {
+      "id": "210311",
+      "name": "Nguyên Tắc Vui Vẻ"
+  },
+  {
+      "id": "210312",
+      "name": "Ngôi Nhà Giữa Đường"
+  },
+  {
+      "id": "210313",
+      "name": "Để Trái Tim Không Còn Đau Thương"
+  },
+  {
+      "id": "210314",
+      "name": "Sợi Dây Liên Kết"
+  },
+  {
+      "id": "210315",
+      "name": "Giai Đoạn Phản Chiếu"
+  },
+  {
+      "id": "210316",
+      "name": "\"Thành Phố Trên Đỉnh Núi\""
+  },
+  {
+      "id": "210317",
+      "name": "\"Tình Yêu Cuồng Si\""
+  },
+  {
+      "id": "210318",
+      "name": "\"Xin Chào Dolly!\""
+  },
+  {
+      "id": "210319",
+      "name": "\"Điều Đặc Biệt Lúc Nửa Đêm\""
+  },
+  {
+      "id": "210320",
+      "name": "\"Nếu Như Tỉnh Dậy Lúc Nửa Đêm\""
+  },
+  {
+      "id": "210321",
+      "name": "\"Thiên Đường Xa Lạ\""
+  },
+  {
+      "id": "210322",
+      "name": "\"Phân Giải Ký Ức Vĩnh Hằng\""
+  },
+  {
+      "id": "210323",
+      "name": "\"Công Dân Hanunue\""
+  },
+  {
+      "id": "210324",
+      "name": "null"
+  },
+  {
+      "id": "210325",
+      "name": "null"
+  },
+  {
+      "id": "210326",
+      "name": "null"
+  },
+  {
+      "id": "210327",
+      "name": "null"
+  },
+  {
+      "id": "210328",
+      "name": "null"
+  },
+  {
+      "id": "210329",
+      "name": "null"
+  },
+  {
+      "id": "210330",
+      "name": "null"
+  },
+  {
+      "id": "210331",
+      "name": "null"
+  },
+  {
+      "id": "210332",
+      "name": "null"
+  },
+  {
+      "id": "210333",
+      "name": "null"
+  },
+  {
+      "id": "210334",
+      "name": "null"
+  },
+  {
+      "id": "210335",
+      "name": "null"
+  },
+  {
+      "id": "210336",
+      "name": "null"
+  },
+  {
+      "id": "210337",
+      "name": "null"
+  },
+  {
+      "id": "210338",
+      "name": "null"
+  },
+  {
+      "id": "210339",
+      "name": "null"
+  },
+  {
+      "id": "210340",
+      "name": "null"
+  },
+  {
+      "id": "210341",
+      "name": "null"
+  },
+  {
+      "id": "210342",
+      "name": "null"
+  },
+  {
+      "id": "210343",
+      "name": "null"
+  },
+  {
+      "id": "210344",
+      "name": "null"
+  },
+  {
+      "id": "210345",
+      "name": "null"
+  },
+  {
+      "id": "210346",
+      "name": "null"
+  },
+  {
+      "id": "210347",
+      "name": "null"
+  },
+  {
+      "id": "210348",
+      "name": "null"
+  },
+  {
+      "id": "210349",
+      "name": "null"
+  },
+  {
+      "id": "210350",
+      "name": "null"
+  },
+  {
+      "id": "210351",
+      "name": "null"
+  },
+  {
+      "id": "210352",
+      "name": "null"
+  },
+  {
+      "id": "220000",
+      "name": "Nghệ Thuật Ngôn Ngữ"
+  },
+  {
+      "id": "220001",
+      "name": "Thỏ Ở Đâu?"
+  },
+  {
+      "id": "220002",
+      "name": "{TEXTJOIN#54}"
+  },
+  {
+      "id": "220003",
+      "name": "Lồng Ấp Tinh Thể"
+  },
+  {
+      "id": "220004",
+      "name": "Quán Bar Quái Vật"
+  },
+  {
+      "id": "220005",
+      "name": "null"
+  },
+  {
+      "id": "221000",
+      "name": "Hành Trình Không Tên"
+  },
+  {
+      "id": "221001",
+      "name": "Giấc Mơ Công Nghệ Hóa"
+  },
+  {
+      "id": "221002",
+      "name": "Đích Thân Tàu Trưởng Chế Biến"
+  },
+  {
+      "id": "221003",
+      "name": "Khu Vườn Tinh Hỏa"
+  },
+  {
+      "id": "221004",
+      "name": "Hành Tinh Lễ Hội"
+  },
+  {
+      "id": "221005",
+      "name": "Cờ Tỷ Phú Vũ Trụ"
+  },
+  {
+      "id": "222000",
+      "name": "Hộ Chiếu Cõi Mộng"
+  },
+  {
+      "id": "223000",
+      "name": "Aventurine"
+  },
+  {
+      "id": "223001",
+      "name": "Black Swan"
+  },
+  {
+      "id": "223002",
+      "name": "Sparkle"
+  },
+  {
+      "id": "223003",
+      "name": "Acheron"
+  },
+  {
+      "id": "223004",
+      "name": "Firefly"
+  },
+  {
+      "id": "223005",
+      "name": "Misha"
+  },
+  {
+      "id": "223006",
+      "name": "Robin"
+  },
+  {
+      "id": "223007",
+      "name": "\"Thợ Săn Stellaron\" Sam"
+  },
+  {
+      "id": "223008",
+      "name": "Sunday"
+  },
+  {
+      "id": "223009",
+      "name": "Gallagher"
+  },
+  {
+      "id": "223010",
+      "name": "Dr. Ratio"
+  },
+  {
+      "id": "223011",
+      "name": "null"
+  },
+  {
+      "id": "223012",
+      "name": "null"
+  },
+  {
+      "id": "223020",
+      "name": "Về Tiền Bạc"
+  },
+  {
+      "id": "223021",
+      "name": "Về Hạnh Phúc"
+  },
+  {
+      "id": "223022",
+      "name": "Về Tình Yêu"
+  },
+  {
+      "id": "223023",
+      "name": "Về Cuộc Sống"
+  },
+  {
+      "id": "223024",
+      "name": "Về Cái Chết"
+  },
+  {
+      "id": "223050",
+      "name": "Gia Tộc"
+  },
+  {
+      "id": "223051",
+      "name": "Ngôi Sao"
+  },
+  {
+      "id": "223052",
+      "name": "Thương Nhân"
+  },
+  {
+      "id": "223053",
+      "name": "Bạo Quân"
+  },
+  {
+      "id": "223054",
+      "name": "Học Giả"
+  },
+  {
+      "id": "223055",
+      "name": "Sứ Giả"
+  },
+  {
+      "id": "223056",
+      "name": "Anh Hùng"
+  },
+  {
+      "id": "223057",
+      "name": "Dẫn Chương Trình"
+  },
+  {
+      "id": "223058",
+      "name": "Phòng Nghỉ VIP \"Mộng Mơ\""
+  },
+  {
+      "id": "223059",
+      "name": "Con Gái"
+  },
+  {
+      "id": "223060",
+      "name": "null"
+  },
+  {
+      "id": "223080",
+      "name": "Bạn Là Ai?"
+  },
+  {
+      "id": "223081",
+      "name": "Cảm Giác Khoảng Cách"
+  },
+  {
+      "id": "223082",
+      "name": "Nhân Vật Lớn"
+  },
+  {
+      "id": "223083",
+      "name": "Những Người Bạn Thân"
+  },
+  {
+      "id": "223084",
+      "name": "Người Dũng Cảm"
+  },
+  {
+      "id": "223085",
+      "name": "Ô Trống"
+  },
+  {
+      "id": "223100",
+      "name": "Trung Tâm Thương Mại Oti"
+  },
+  {
+      "id": "223101",
+      "name": "Cửa Hàng Bán Cõi Mộng"
+  },
+  {
+      "id": "223102",
+      "name": "Ga Trung Tâm Hoàng Kim"
+  },
+  {
+      "id": "223103",
+      "name": "Người Bán Hàng"
+  },
+  {
+      "id": "223104",
+      "name": "Máy Phun Tiền"
+  },
+  {
+      "id": "223105",
+      "name": "SoulGlad Kinh Điển"
+  },
+  {
+      "id": "223106",
+      "name": "Thời Báo Hoàng Kim"
+  },
+  {
+      "id": "223107",
+      "name": "Hamburger Đĩa Bay"
+  },
+  {
+      "id": "223108",
+      "name": "Bong Bóng Giấc Mơ Khách Vô Danh"
+  },
+  {
+      "id": "223109",
+      "name": "Mô Hình Đội Tàu Astral 1"
+  },
+  {
+      "id": "223150",
+      "name": "Cậu Bé Đồng Hồ Vĩ Đại Nhất"
+  },
+  {
+      "id": "223151",
+      "name": "Giấc Mộng Trong Mộng Mơ"
+  },
+  {
+      "id": "223152",
+      "name": "Đôi Mắt Khách Tìm Mộng"
+  },
+  {
+      "id": "223153",
+      "name": "Đài Truyền Hình Penacony"
+  },
+  {
+      "id": "223154",
+      "name": "Gia Tộc Cần Bạn!"
+  },
+  {
+      "id": "223155",
+      "name": "Khúc Hát Thiên Đường"
+  },
+  {
+      "id": "223156",
+      "name": "Thông Tin Che Mắt"
+  },
+  {
+      "id": "223157",
+      "name": "Tạp Âm"
+  },
+  {
+      "id": "223180",
+      "name": "Tin vắn (1)"
+  },
+  {
+      "id": "223181",
+      "name": "Tin Vắn (2)"
+  },
+  {
+      "id": "223182",
+      "name": "Tin Vắn (3)"
+  },
+  {
+      "id": "223183",
+      "name": "Tin Vắn (4)"
+  },
+  {
+      "id": "223184",
+      "name": "Tin Vắn (5)"
+  },
+  {
+      "id": "223185",
+      "name": "Tin Vắn (6)"
+  },
+  {
+      "id": "223200",
+      "name": "Công Viên Aideen"
+  },
+  {
+      "id": "223201",
+      "name": "Máy Quay Trứng Vàng"
+  },
+  {
+      "id": "223202",
+      "name": "Nhảy Múa Nào"
+  },
+  {
+      "id": "223203",
+      "name": "Tiền Đồng Hồ Vàng"
+  },
+  {
+      "id": "223204",
+      "name": "Xu Aideen"
+  },
+  {
+      "id": "223205",
+      "name": "Đúng, Đều Là Của Bạn"
+  },
+  {
+      "id": "223206",
+      "name": "Quay Trứng May Mắn"
+  },
+  {
+      "id": "223207",
+      "name": "Quay Trứng May Mắn Nhất Ngân Hà"
+  },
+  {
+      "id": "223208",
+      "name": "Sảng Khoái Cạn Chén"
+  },
+  {
+      "id": "223230",
+      "name": "Tin Thú Vị (1)"
+  },
+  {
+      "id": "223231",
+      "name": "Tin Thú Vị (2)"
+  },
+  {
+      "id": "223232",
+      "name": "Tin Thú Vị (3)"
+  },
+  {
+      "id": "223233",
+      "name": "Tin Thú Vị (4)"
+  },
+  {
+      "id": "223250",
+      "name": "Hi! Tôi Tên Là Cậu Bé Đồng Hồ"
+  },
+  {
+      "id": "223251",
+      "name": "Nếu Có Chiếc Giường Thì Tốt Quá"
+  },
+  {
+      "id": "223252",
+      "name": "Cậu Bé Bi Thương"
+  },
+  {
+      "id": "223253",
+      "name": "Cậu Bé Phẫn Nộ"
+  },
+  {
+      "id": "223254",
+      "name": "Cậu Bé Vui Vẻ"
+  },
+  {
+      "id": "223255",
+      "name": "Cậu Bé Điềm Tĩnh"
+  },
+  {
+      "id": "223256",
+      "name": "Hầy! Anh Ấy Tên Là Anh Hanu"
+  },
+  {
+      "id": "223257",
+      "name": "Ống Phóng Hỏa Tiễn \"Đừng Chọc Tôi\""
+  },
+  {
+      "id": "223258",
+      "name": "Ôi! Đây Không Phải Chim Giấy Sao"
+  },
+  {
+      "id": "223259",
+      "name": "Bay Theo Giấc Mơ"
+  },
+  {
+      "id": "223260",
+      "name": "A! Ông Chủ Đá Đáng Ghét"
+  },
+  {
+      "id": "223261",
+      "name": "Một Kẻ Xấu Thuần Túy"
+  },
+  {
+      "id": "223270",
+      "name": "Lời Thoại"
+  },
+  {
+      "id": "223271",
+      "name": "Lời Thoại"
+  },
+  {
+      "id": "223272",
+      "name": "Lời Thoại"
+  },
+  {
+      "id": "223273",
+      "name": "Lời Thoại"
+  },
+  {
+      "id": "223274",
+      "name": "Lời Thoại"
+  },
+  {
+      "id": "223300",
+      "name": "Cục Xây Dựng Gia Tộc"
+  },
+  {
+      "id": "223301",
+      "name": "Đài Quan Sát"
+  },
+  {
+      "id": "223302",
+      "name": "Một Bức Tượng Kỳ Lạ"
+  },
+  {
+      "id": "223303",
+      "name": "Người Chế Tạo"
+  },
+  {
+      "id": "223304",
+      "name": "Cướp Biển"
+  },
+  {
+      "id": "223305",
+      "name": "Ánh Sáng Vào Vị Trí"
+  },
+  {
+      "id": "223306",
+      "name": "Chim Xây Mộng"
+  },
+  {
+      "id": "223307",
+      "name": "Chim Xây Mộng (Một Con Khác)"
+  },
+  {
+      "id": "223308",
+      "name": "Ngài Đá"
+  },
+  {
+      "id": "223309",
+      "name": "Chai Soda"
+  },
+  {
+      "id": "223330",
+      "name": "Kiến Trúc Sư Xây Mộng"
+  },
+  {
+      "id": "223331",
+      "name": "Kiến Trúc Sư Xây Mộng"
+  },
+  {
+      "id": "223332",
+      "name": "Kiến Trúc Sư Xây Mộng"
+  },
+  {
+      "id": "223333",
+      "name": "Kiến Trúc Sư Xây Mộng"
+  },
+  {
+      "id": "223334",
+      "name": "Kiến Trúc Sư Xây Mộng"
+  },
+  {
+      "id": "223350",
+      "name": "Suối Băng Ký Ức"
+  },
+  {
+      "id": "223351",
+      "name": "Phòng Đồ Chơi"
+  },
+  {
+      "id": "223352",
+      "name": "Phòng Sách"
+  },
+  {
+      "id": "223353",
+      "name": "Tác Phẩm Của Ông"
+  },
+  {
+      "id": "223354",
+      "name": "Ký Ức Dịch Chuyển"
+  },
+  {
+      "id": "223355",
+      "name": "Ký Ức Đóng Băng"
+  },
+  {
+      "id": "223356",
+      "name": "Ghế Tựa"
+  },
+  {
+      "id": "223357",
+      "name": "Gỗ Xếp"
+  },
+  {
+      "id": "223358",
+      "name": "Bóng Bay"
+  },
+  {
+      "id": "223370",
+      "name": "Hồi Ức (1)"
+  },
+  {
+      "id": "223371",
+      "name": "Hồi Ức (2)"
+  },
+  {
+      "id": "223372",
+      "name": "Hồi Ức (3)"
+  },
+  {
+      "id": "223373",
+      "name": "Hồi Ức (4)"
+  },
+  {
+      "id": "223400",
+      "name": "Phòng Khách Cõi Mộng"
+  },
+  {
+      "id": "223401",
+      "name": "Đại Sảnh Cõi Mộng"
+  },
+  {
+      "id": "223402",
+      "name": "Phòng Giám Sát"
+  },
+  {
+      "id": "223403",
+      "name": "Tầm Mắt Khắp Nơi"
+  },
+  {
+      "id": "223404",
+      "name": "Tim Tôi Tan Nát"
+  },
+  {
+      "id": "223405",
+      "name": "Vật Gì Hướng Về Cái Chết"
+  },
+  {
+      "id": "223406",
+      "name": "W?"
+  },
+  {
+      "id": "223407",
+      "name": "null"
+  },
+  {
+      "id": "223408",
+      "name": "Không Tín Hiệu"
+  },
+  {
+      "id": "223409",
+      "name": "Màn Hình Lỗi"
+  },
+  {
+      "id": "223410",
+      "name": "Ai Phản Chiếu Trong Gương"
+  },
+  {
+      "id": "223411",
+      "name": "null"
+  },
+  {
+      "id": "223412",
+      "name": "null"
+  },
+  {
+      "id": "223430",
+      "name": "Lạc Lối (1)"
+  },
+  {
+      "id": "223431",
+      "name": "Lạc Lối (2)"
+  },
+  {
+      "id": "223432",
+      "name": "Lạc Lối (3)"
+  },
+  {
+      "id": "223433",
+      "name": "Lạc Lối (4)"
+  },
+  {
+      "id": "223434",
+      "name": "Lạc Lối (5)"
+  },
+  {
+      "id": "223450",
+      "name": "null"
+  },
+  {
+      "id": "223451",
+      "name": "null"
+  },
+  {
+      "id": "223452",
+      "name": "null"
+  },
+  {
+      "id": "223453",
+      "name": "null"
+  },
+  {
+      "id": "223454",
+      "name": "null"
+  },
+  {
+      "id": "223455",
+      "name": "null"
+  },
+  {
+      "id": "223456",
+      "name": "null"
+  },
+  {
+      "id": "223457",
+      "name": "null"
+  },
+  {
+      "id": "223500",
+      "name": "Hướng Dẫn Thành Phố Điện Ảnh"
+  },
+  {
+      "id": "223501",
+      "name": "Những Cộng Sự Tốt 1"
+  },
+  {
+      "id": "223502",
+      "name": "Những Cộng Sự Tốt 2"
+  },
+  {
+      "id": "223503",
+      "name": "Tiếng Cười Đầy Khí Chất"
+  },
+  {
+      "id": "223504",
+      "name": "3...2...1... Quay"
+  },
+  {
+      "id": "223505",
+      "name": "Cấm Lửa"
+  },
+  {
+      "id": "223506",
+      "name": "\"Nhà Từ Thiện\""
+  },
+  {
+      "id": "223507",
+      "name": "Băng Xã Hội Đen Penacony"
+  },
+  {
+      "id": "223508",
+      "name": "Tốc Độ Hamster"
+  },
+  {
+      "id": "223509",
+      "name": "Rạp Chiếu Phim Xe Sang"
+  },
+  {
+      "id": "223531",
+      "name": "Những Câu Nói Hay Của Cậu Bé Đồng Hồ"
+  },
+  {
+      "id": "223532",
+      "name": "Những Câu Nói Hay Của Người Anh Em Hanu"
+  },
+  {
+      "id": "223533",
+      "name": "Những Câu Nói Hay Của Kỵ Sĩ Bóng Hamster"
+  },
+  {
+      "id": "223534",
+      "name": "Những Câu Nói Hay Của Ông Chủ Đá"
+  },
+  {
+      "id": "223600",
+      "name": "Sa Bàn Thành Phố"
+  },
+  {
+      "id": "223601",
+      "name": "Sa Bàn Thành Phố"
+  },
+  {
+      "id": "223602",
+      "name": "Sa Bàn Thành Phố"
+  },
+  {
+      "id": "223603",
+      "name": "Sa Bàn Thành Phố"
+  },
+  {
+      "id": "223604",
+      "name": "Sa Bàn Thành Phố"
+  },
+  {
+      "id": "223605",
+      "name": "Sa Bàn Thành Phố"
+  },
+  {
+      "id": "223606",
+      "name": "Sa Bàn Thành Phố"
+  },
+  {
+      "id": "223607",
+      "name": "Sa Bàn Thành Phố"
+  },
+  {
+      "id": "223631",
+      "name": "Kết luận họp nghiệm thu lần 3"
+  },
+  {
+      "id": "223632",
+      "name": "Kết luận họp nghiệm thu lần 8"
+  },
+  {
+      "id": "223633",
+      "name": "Kết luận họp nghiệm thu lần <unbreak>11</unbreak>"
+  },
+  {
+      "id": "223634",
+      "name": "Kết luận họp nghiệm thu lần <unbreak>20</unbreak>"
+  },
+  {
+      "id": "223700",
+      "name": "Oak"
+  },
+  {
+      "id": "223701",
+      "name": "Alfalfa"
+  },
+  {
+      "id": "223702",
+      "name": "Nightingale"
+  },
+  {
+      "id": "223703",
+      "name": "Bloodhound"
+  },
+  {
+      "id": "223704",
+      "name": "Iris"
+  },
+  {
+      "id": "223705",
+      "name": "Ông Aideen"
+  },
+  {
+      "id": "223706",
+      "name": "Oti Alfalfa"
+  },
+  {
+      "id": "223707",
+      "name": "null"
+  },
+  {
+      "id": "223708",
+      "name": "Hamz"
+  },
+  {
+      "id": "223709",
+      "name": "null"
+  },
+  {
+      "id": "223710",
+      "name": "Lesley Dean"
+  },
+  {
+      "id": "223711",
+      "name": "null"
+  },
+  {
+      "id": "223712",
+      "name": "Robin"
+  },
+  {
+      "id": "223713",
+      "name": "Maeven Ellis"
+  },
+  {
+      "id": "223714",
+      "name": "Gopher Wood"
+  },
+  {
+      "id": "223715",
+      "name": "null"
+  },
+  {
+      "id": "223731",
+      "name": "Phương Châm Của Gia Tộc Oak"
+  },
+  {
+      "id": "223732",
+      "name": "Phương Châm Của Gia Tộc Alfalfa"
+  },
+  {
+      "id": "223733",
+      "name": "Phương Châm Của Gia Tộc Nightingale"
+  },
+  {
+      "id": "223734",
+      "name": "Phương Châm Của Gia Tộc Bloodhound"
+  },
+  {
+      "id": "223735",
+      "name": "Phương Châm Của Gia Tộc Iris"
+  },
+  {
+      "id": "223800",
+      "name": "null"
+  },
+  {
+      "id": "223801",
+      "name": "null"
+  },
+  {
+      "id": "223802",
+      "name": "null"
+  },
+  {
+      "id": "223803",
+      "name": "null"
+  },
+  {
+      "id": "223804",
+      "name": "null"
+  },
+  {
+      "id": "223805",
+      "name": "null"
+  },
+  {
+      "id": "223806",
+      "name": "null"
+  },
+  {
+      "id": "223807",
+      "name": "null"
+  },
+  {
+      "id": "223808",
+      "name": "null"
+  },
+  {
+      "id": "223809",
+      "name": "null"
+  },
+  {
+      "id": "223811",
+      "name": "null"
+  },
+  {
+      "id": "223812",
+      "name": "null"
+  },
+  {
+      "id": "223813",
+      "name": "null"
+  },
+  {
+      "id": "223814",
+      "name": "null"
+  },
+  {
+      "id": "223901",
+      "name": "null"
+  },
+  {
+      "id": "223902",
+      "name": "null"
+  },
+  {
+      "id": "223903",
+      "name": "null"
+  },
+  {
+      "id": "223904",
+      "name": "null"
+  },
+  {
+      "id": "223905",
+      "name": "null"
+  },
+  {
+      "id": "223906",
+      "name": "null"
+  },
+  {
+      "id": "223907",
+      "name": "null"
+  },
+  {
+      "id": "223908",
+      "name": "null"
+  },
+  {
+      "id": "223911",
+      "name": "null"
+  },
+  {
+      "id": "223912",
+      "name": "null"
+  },
+  {
+      "id": "223913",
+      "name": "null"
+  },
+  {
+      "id": "224001",
+      "name": "null"
+  },
+  {
+      "id": "224002",
+      "name": "null"
+  },
+  {
+      "id": "224003",
+      "name": "null"
+  },
+  {
+      "id": "224004",
+      "name": "null"
+  },
+  {
+      "id": "224005",
+      "name": "null"
+  },
+  {
+      "id": "224006",
+      "name": "null"
+  },
+  {
+      "id": "224007",
+      "name": "null"
+  },
+  {
+      "id": "224008",
+      "name": "null"
+  },
+  {
+      "id": "224009",
+      "name": "null"
+  },
+  {
+      "id": "224010",
+      "name": "null"
+  },
+  {
+      "id": "224011",
+      "name": "null"
+  },
+  {
+      "id": "224012",
+      "name": "null"
+  },
+  {
+      "id": "224013",
+      "name": "null"
+  },
+  {
+      "id": "250001",
+      "name": "Mảnh Sao Băng"
+  },
+  {
+      "id": "250005",
+      "name": "Tranh Sơn Dầu Cảnh Belobog"
+  },
+  {
+      "id": "250006",
+      "name": "Đại Bác"
+  },
+  {
+      "id": "250007",
+      "name": "Bộ Điều Khiển Cỗ Máy Tự Động"
+  },
+  {
+      "id": "250008",
+      "name": "Bộ Năng Lượng"
+  },
+  {
+      "id": "250009",
+      "name": "Tranh Sơn Dầu Cảnh Khu Mỏ Khổng Lồ"
+  },
+  {
+      "id": "250011",
+      "name": "Máy Thu Thanh Cổ"
+  },
+  {
+      "id": "250012",
+      "name": "Tranh Sơn Dầu Cảnh Nhà Hát Hoàng Kim"
+  },
+  {
+      "id": "250013",
+      "name": "Đèn Để Bàn Cổ"
+  },
+  {
+      "id": "250015",
+      "name": "Bức Tượng Nghệ Thuật \"Bánh Răng Và Trí Tuệ\""
+  },
+  {
+      "id": "250019",
+      "name": "Mô Hình \"Cỗ Máy Tự Động - Nhền Nhện\""
+  },
+  {
+      "id": "250020",
+      "name": "Mô Hình \"Cỗ Máy Tự Động - Chó Săn\""
+  },
+  {
+      "id": "250021",
+      "name": "Đồng Hồ Khu Mỏ"
+  },
+  {
+      "id": "250022",
+      "name": "Bộ Thiết Bị Và Màn Hình"
+  },
+  {
+      "id": "250023",
+      "name": "Mô Hình \"Cỗ Máy Tự Động - Bọ Cánh Cứng\""
+  },
+  {
+      "id": "250027",
+      "name": "Máy Chiếu Và Cuộn Phim Nhỏ"
+  },
+  {
+      "id": "250031",
+      "name": "Tượng Băng Chiến Binh Hư Không 1"
+  },
+  {
+      "id": "250032",
+      "name": "Tượng Băng Chiến Binh Hư Không 2"
+  },
+  {
+      "id": "250033",
+      "name": "Ngọn Thương Của Alisa Rand"
+  },
+  {
+      "id": "250034",
+      "name": "Gậy Bóng Chày Của Nhà Khai Phá"
+  },
+  {
+      "id": "250037",
+      "name": "Bức Chân Dung Đấng Bảo Vệ Tối Cao Cocolia Và Con Gái"
+  },
+  {
+      "id": "250101",
+      "name": "Bronya"
+  },
+  {
+      "id": "250102",
+      "name": "Seele"
+  },
+  {
+      "id": "250103",
+      "name": "Serval"
+  },
+  {
+      "id": "250104",
+      "name": "Gepard"
+  },
+  {
+      "id": "250105",
+      "name": "Natasha"
+  },
+  {
+      "id": "250106",
+      "name": "Pela"
+  },
+  {
+      "id": "250107",
+      "name": "Clara"
+  },
+  {
+      "id": "250108",
+      "name": "Quý Ngài Chân Lạnh"
+  },
+  {
+      "id": "250109",
+      "name": "Hook"
+  },
+  {
+      "id": "250110",
+      "name": "Svarog"
+  },
+  {
+      "id": "250111",
+      "name": "Perkins"
+  },
+  {
+      "id": "250112",
+      "name": "Oleg"
+  },
+  {
+      "id": "250113",
+      "name": "Fersman"
+  },
+  {
+      "id": "250114",
+      "name": "Dunn"
+  },
+  {
+      "id": "250115",
+      "name": "Fan Cuồng Của Serval"
+  },
+  {
+      "id": "250116",
+      "name": "Lila"
+  },
+  {
+      "id": "250117",
+      "name": "Nika"
+  },
+  {
+      "id": "250118",
+      "name": "Wallace"
+  },
+  {
+      "id": "250119",
+      "name": "Julian"
+  },
+  {
+      "id": "250120",
+      "name": "Alina"
+  },
+  {
+      "id": "250121",
+      "name": "Đứa Trẻ Xảo Quyệt"
+  },
+  {
+      "id": "250122",
+      "name": "Elaine"
+  },
+  {
+      "id": "250123",
+      "name": "Fidora"
+  },
+  {
+      "id": "250124",
+      "name": "Amo"
+  },
+  {
+      "id": "250125",
+      "name": "Bảo Vật Dò Tìm"
+  },
+  {
+      "id": "250126",
+      "name": "Rossy"
+  },
+  {
+      "id": "250127",
+      "name": "Eunice"
+  },
+  {
+      "id": "250128",
+      "name": "Manya"
+  },
+  {
+      "id": "250129",
+      "name": "Ông Goethe"
+  },
+  {
+      "id": "250130",
+      "name": "Gilbert"
+  },
+  {
+      "id": "250131",
+      "name": "Peak"
+  },
+  {
+      "id": "250132",
+      "name": "Gertie"
+  },
+  {
+      "id": "250133",
+      "name": "Eric"
+  },
+  {
+      "id": "250201",
+      "name": "Chip Giải Quyết Sự Cố"
+  },
+  {
+      "id": "250202",
+      "name": "Chip Áp Chế Tổn Thất"
+  },
+  {
+      "id": "250203",
+      "name": "Chip Khởi Động Lại Khẩn Cấp"
+  },
+  {
+      "id": "250204",
+      "name": "Chip Bản Vá Heo Đất"
+  },
+  {
+      "id": "250205",
+      "name": "Chip Kích Hoạt Sĩ Khí"
+  },
+  {
+      "id": "250207",
+      "name": "Chip Phân Bổ Tính Năng"
+  },
+  {
+      "id": "250208",
+      "name": "Chip Tối Ưu Hiệu Quả"
+  },
+  {
+      "id": "250209",
+      "name": "Chip Tải Cao-Tốc Độ Thấp"
+  },
+  {
+      "id": "250210",
+      "name": "Chip Tránh Rủi Ro Tạm Thời"
+  },
+  {
+      "id": "250211",
+      "name": "Chip Chế Độ An Toàn"
+  },
+  {
+      "id": "250212",
+      "name": "Chip Phá Hoại Ngưỡng"
+  },
+  {
+      "id": "250213",
+      "name": "Chip Lỗ Hổng Đóng Băng"
+  },
+  {
+      "id": "250214",
+      "name": "Chip Hệ Thống Khiên"
+  },
+  {
+      "id": "250215",
+      "name": "Chip Cường Hóa Nền Tảng"
+  },
+  {
+      "id": "250216",
+      "name": "Chip Chèn Vào Tạm Thời"
+  },
+  {
+      "id": "250217",
+      "name": "Chip Lỗ Hổng Bào Mòn"
+  },
+  {
+      "id": "250218",
+      "name": "Chip Thay Thế Ma Trận"
+  },
+  {
+      "id": "250219",
+      "name": "Chip Ngăn Chặn Tấn Công"
+  },
+  {
+      "id": "250220",
+      "name": "Chip Tự Động Sửa"
+  },
+  {
+      "id": "250221",
+      "name": "Chip Thu Hồi Dữ Liệu"
+  },
+  {
+      "id": "250222",
+      "name": "Chip Cường Hóa Song Song"
+  },
+  {
+      "id": "250223",
+      "name": "Chip Khởi Động Đầy Mức"
+  },
+  {
+      "id": "250224",
+      "name": "Chip Lệnh Nhanh"
+  },
+  {
+      "id": "250225",
+      "name": "Chip Kẻ Phá Khiên"
+  },
+  {
+      "id": "250226",
+      "name": "Chip Bội Chi Tính Năng"
+  },
+  {
+      "id": "250227",
+      "name": "Chip Năng Lượng Tuần Hoàn"
+  },
+  {
+      "id": "250228",
+      "name": "Chip Khóa Tính Toán"
+  },
+  {
+      "id": "250229",
+      "name": "Chip Dọn Dẹp"
+  },
+  {
+      "id": "250230",
+      "name": "Chip Tường Lửa"
+  },
+  {
+      "id": "250231",
+      "name": "Chip Cách Tính Phụ Tải"
+  },
+  {
+      "id": "250232",
+      "name": "Chip Quét Sâu Virus"
+  },
+  {
+      "id": "250233",
+      "name": "Chip Nâng Cấp Chung"
+  },
+  {
+      "id": "250300",
+      "name": "Pháo Thủ Bờm Bạc"
+  },
+  {
+      "id": "250302",
+      "name": "Kẻ Lang Thang"
+  },
+  {
+      "id": "250304",
+      "name": "Hiệu Úy Bờm Bạc"
+  },
+  {
+      "id": "250305",
+      "name": "Lửa Vũ Trụ"
+  },
+  {
+      "id": "250306",
+      "name": "Linh Thú Trù Phú - Sói Cây"
+  },
+  {
+      "id": "250307",
+      "name": "Cơ Giáp Nhập Ma - Cá Rồng Đèn"
+  },
+  {
+      "id": "250308",
+      "name": "Ảo Ảnh Lửa Thiêu"
+  },
+  {
+      "id": "250309",
+      "name": "Heo Đất Phối Hợp"
+  },
+  {
+      "id": "250310",
+      "name": "Gác Cổng Kim Nhân"
+  },
+  {
+      "id": "250311",
+      "name": "Kẻ Dệt Lá Số Ảo"
+  },
+  {
+      "id": "250312",
+      "name": "Cơ Giáp Nhập Ma - Nghê Tùy Tùng"
+  },
+  {
+      "id": "250313",
+      "name": "Kẻ Lang Thang Lạnh Giá"
+  },
+  {
+      "id": "250314",
+      "name": "Chiến Binh Hư Không - Kẻ Chà Đạp"
+  },
+  {
+      "id": "250315",
+      "name": "Cỗ Máy Tự Động - Nhền Nhện"
+  },
+  {
+      "id": "250316",
+      "name": "Chiến Binh Hư Không - Kẻ Cướp Đoạt"
+  },
+  {
+      "id": "250317",
+      "name": "Chiến Binh Hư Không - Kẻ Loại Bỏ"
+  },
+  {
+      "id": "250318",
+      "name": "Cận Vệ Bờm Bạc"
+  },
+  {
+      "id": "250319",
+      "name": "Xạ Thủ Bờm Bạc"
+  },
+  {
+      "id": "250320",
+      "name": "Dữ Liệu Tăng Cấp Hồn Aether"
+  },
+  {
+      "id": "250321",
+      "name": "Ảo Ảnh Everwinter"
+  },
+  {
+      "id": "250401",
+      "name": "Huy Hiệu Tư Cách Hành Lang Âm Vang"
+  },
+  {
+      "id": "250402",
+      "name": "Huy Hiệu Tư Cách Cảng Lưu Vân"
+  },
+  {
+      "id": "250403",
+      "name": "Huy Hiệu Tư Cách Trạm Không Gian Herta"
+  },
+  {
+      "id": "250404",
+      "name": "Huy Hiệu Tư Cách Khu Mỏ Khổng Lồ"
+  },
+  {
+      "id": "250500",
+      "name": "null"
+  },
+  {
+      "id": "250501",
+      "name": "null"
+  },
+  {
+      "id": "250502",
+      "name": "null"
+  },
+  {
+      "id": "250503",
+      "name": "null"
+  },
+  {
+      "id": "250504",
+      "name": "null"
+  },
+  {
+      "id": "250505",
+      "name": "null"
+  },
+  {
+      "id": "250506",
+      "name": "null"
+  },
+  {
+      "id": "250507",
+      "name": "null"
+  },
+  {
+      "id": "250508",
+      "name": "null"
+  },
+  {
+      "id": "250509",
+      "name": "null"
+  },
+  {
+      "id": "250510",
+      "name": "null"
+  },
+  {
+      "id": "250511",
+      "name": "null"
+  },
+  {
+      "id": "250512",
+      "name": "null"
+  },
+  {
+      "id": "250513",
+      "name": "null"
+  },
+  {
+      "id": "250514",
+      "name": "null"
+  },
+  {
+      "id": "250515",
+      "name": "null"
+  },
+  {
+      "id": "250516",
+      "name": "null"
+  },
+  {
+      "id": "250517",
+      "name": "null"
+  },
+  {
+      "id": "250518",
+      "name": "null"
+  },
+  {
+      "id": "250519",
+      "name": "null"
+  },
+  {
+      "id": "250520",
+      "name": "null"
+  },
+  {
+      "id": "250521",
+      "name": "null"
+  },
+  {
+      "id": "250522",
+      "name": "null"
+  },
+  {
+      "id": "250523",
+      "name": "null"
+  },
+  {
+      "id": "250524",
+      "name": "null"
+  },
+  {
+      "id": "250525",
+      "name": "null"
+  },
+  {
+      "id": "250526",
+      "name": "null"
+  },
+  {
+      "id": "250527",
+      "name": "null"
+  },
+  {
+      "id": "250528",
+      "name": "null"
+  },
+  {
+      "id": "250529",
+      "name": "null"
+  },
+  {
+      "id": "250530",
+      "name": "null"
+  },
+  {
+      "id": "250531",
+      "name": "null"
+  },
+  {
+      "id": "250532",
+      "name": "null"
+  },
+  {
+      "id": "250533",
+      "name": "null"
+  },
+  {
+      "id": "250534",
+      "name": "null"
+  },
+  {
+      "id": "250535",
+      "name": "null"
+  },
+  {
+      "id": "250536",
+      "name": "null"
+  },
+  {
+      "id": "250537",
+      "name": "null"
+  },
+  {
+      "id": "250538",
+      "name": "null"
+  },
+  {
+      "id": "250539",
+      "name": "null"
+  },
+  {
+      "id": "250540",
+      "name": "null"
+  },
+  {
+      "id": "250541",
+      "name": "null"
+  },
+  {
+      "id": "250542",
+      "name": "null"
+  },
+  {
+      "id": "250543",
+      "name": "null"
+  },
+  {
+      "id": "250544",
+      "name": "null"
+  },
+  {
+      "id": "250545",
+      "name": "null"
+  },
+  {
+      "id": "250546",
+      "name": "null"
+  },
+  {
+      "id": "250547",
+      "name": "null"
+  },
+  {
+      "id": "250548",
+      "name": "null"
+  },
+  {
+      "id": "250549",
+      "name": "null"
+  },
+  {
+      "id": "250550",
+      "name": "null"
+  },
+  {
+      "id": "250551",
+      "name": "null"
+  },
+  {
+      "id": "250552",
+      "name": "null"
+  },
+  {
+      "id": "250553",
+      "name": "null"
+  },
+  {
+      "id": "250554",
+      "name": "null"
+  },
+  {
+      "id": "250555",
+      "name": "null"
+  },
+  {
+      "id": "250556",
+      "name": "null"
+  },
+  {
+      "id": "250557",
+      "name": "null"
+  },
+  {
+      "id": "250558",
+      "name": "null"
+  },
+  {
+      "id": "250559",
+      "name": "null"
+  },
+  {
+      "id": "250560",
+      "name": "null"
+  },
+  {
+      "id": "250561",
+      "name": "null"
+  },
+  {
+      "id": "250562",
+      "name": "null"
+  },
+  {
+      "id": "250563",
+      "name": "null"
+  },
+  {
+      "id": "250564",
+      "name": "null"
+  },
+  {
+      "id": "250565",
+      "name": "null"
+  },
+  {
+      "id": "250566",
+      "name": "null"
+  },
+  {
+      "id": "250567",
+      "name": "null"
+  },
+  {
+      "id": "250568",
+      "name": "null"
+  },
+  {
+      "id": "250569",
+      "name": "null"
+  },
+  {
+      "id": "250570",
+      "name": "null"
+  },
+  {
+      "id": "250571",
+      "name": "null"
+  },
+  {
+      "id": "250572",
+      "name": "null"
+  },
+  {
+      "id": "250573",
+      "name": "null"
+  },
+  {
+      "id": "250574",
+      "name": "null"
+  },
+  {
+      "id": "250575",
+      "name": "null"
+  },
+  {
+      "id": "250576",
+      "name": "null"
+  },
+  {
+      "id": "250577",
+      "name": "null"
+  },
+  {
+      "id": "250578",
+      "name": "null"
+  },
+  {
+      "id": "250579",
+      "name": "null"
+  },
+  {
+      "id": "250580",
+      "name": "null"
+  },
+  {
+      "id": "250581",
+      "name": "null"
+  },
+  {
+      "id": "250582",
+      "name": "null"
+  },
+  {
+      "id": "250583",
+      "name": "null"
+  },
+  {
+      "id": "250584",
+      "name": "null"
+  },
+  {
+      "id": "250585",
+      "name": "null"
+  },
+  {
+      "id": "250586",
+      "name": "null"
+  },
+  {
+      "id": "250587",
+      "name": "null"
+  },
+  {
+      "id": "250588",
+      "name": "null"
+  },
+  {
+      "id": "250589",
+      "name": "null"
+  },
+  {
+      "id": "250590",
+      "name": "null"
+  },
+  {
+      "id": "250591",
+      "name": "null"
+  },
+  {
+      "id": "250592",
+      "name": "null"
+  },
+  {
+      "id": "250593",
+      "name": "null"
+  },
+  {
+      "id": "250594",
+      "name": "null"
+  },
+  {
+      "id": "250595",
+      "name": "null"
+  },
+  {
+      "id": "250596",
+      "name": "null"
+  },
+  {
+      "id": "250597",
+      "name": "null"
+  },
+  {
+      "id": "250598",
+      "name": "null"
+  },
+  {
+      "id": "250599",
+      "name": "null"
+  },
+  {
+      "id": "270000",
+      "name": "Mặt Cười Vui Vẻ"
+  },
+  {
+      "id": "270001",
+      "name": "Chứng Nhận Náo Nhiệt"
+  },
+  {
+      "id": "270002",
+      "name": "Điểm Thưởng"
+  },
+  {
+      "id": "281001",
+      "name": "Kinh Phí Thương Hội"
+  },
+  {
+      "id": "281002",
+      "name": "null"
+  },
+  {
+      "id": "281003",
+      "name": "Thuốc Dinh Dưỡng"
+  },
+  {
+      "id": "281004",
+      "name": "null"
+  },
+  {
+      "id": "281005",
+      "name": "Tiền Boa"
+  },
+  {
+      "id": "281012",
+      "name": "null"
+  },
+  {
+      "id": "281013",
+      "name": "Mạch Xung Thần Kinh"
+  },
+  {
+      "id": "281014",
+      "name": "Xúc Xắc Thường"
+  },
+  {
+      "id": "281015",
+      "name": "Vé Khai Phá"
+  },
+  {
+      "id": "281016",
+      "name": "Xúc Xắc Điều Khiển"
+  },
+  {
+      "id": "281017",
+      "name": "Xu Ném Lại"
+  },
+  {
+      "id": "281019",
+      "name": "null"
+  },
+  {
+      "id": "281020",
+      "name": "null"
+  },
+  {
+      "id": "281021",
+      "name": "null"
+  },
+  {
+      "id": "300002",
+      "name": "Quà Tặng Của Hành Giả Vận Mệnh"
+  },
+  {
+      "id": "300003",
+      "name": "Quà tặng Long Trọng Của Hành Giả Vận Mệnh"
+  },
+  {
+      "id": "300011",
+      "name": "Kho Báu Biển Sao"
+  },
+  {
+      "id": "300020",
+      "name": "Hộp Sáng Lưu Ký Ức"
+  },
+  {
+      "id": "300021",
+      "name": "Gói Sparkle Diệu Kỳ"
+  },
+  {
+      "id": "300031",
+      "name": "Món Quà Trời Sao"
+  },
+  {
+      "id": "300041",
+      "name": "Rương Nguyên Liệu Hậu Cần - Loại Tiêu Chuẩn"
+  },
+  {
+      "id": "300042",
+      "name": "Rương Nguyên Liệu Hậu Cần - Loại Chuyên Nghiệp"
+  },
+  {
+      "id": "300051",
+      "name": "Bưu Kiện Quá Hạn Chưa Nhận"
+  },
+  {
+      "id": "300052",
+      "name": "Bưu Kiện Đắt Tiền Quá Hạn Chưa Nhận"
+  },
+  {
+      "id": "300101",
+      "name": "Chứng Nhận Tiếp Tế Đội Tàu"
+  },
+  {
+      "id": "300102",
+      "name": "Vinh Quang Khách Vô Danh (Chưa mở)"
+  },
+  {
+      "id": "300103",
+      "name": "Huân Chương Khách Vô Danh (Chưa mở)"
+  },
+  {
+      "id": "300104",
+      "name": "Huân Chương Vinh Dự (Chưa mở)"
+  },
+  {
+      "id": "300200",
+      "name": "\"Đội Chuột Chũi Phiêu Lưu"
+  },
+  {
+      "id": "300201",
+      "name": "null"
+  },
+  {
+      "id": "300202",
+      "name": "Điểm Tính Dụng"
+  },
+  {
+      "id": "309001",
+      "name": "Hành Trình Gặp Gỡ"
+  },
+  {
+      "id": "309002",
+      "name": "Hành Trình Gặp Gỡ"
+  },
+  {
+      "id": "309003",
+      "name": "Hành Trình Gặp Gỡ"
+  },
+  {
+      "id": "310001",
+      "name": "Herta - Thoả Thuận Chi Viện Khai Phá"
+  },
+  {
+      "id": "310002",
+      "name": "Herta - Thoả Thuận Bổ Sung Nhiên Liệu"
+  },
+  {
+      "id": "310003",
+      "name": "Herta - Thoả Thuận Chia Sẻ Phiêu Lưu"
+  },
+  {
+      "id": "310004",
+      "name": "Herta - Thoả Thuận Chia Sẻ Du Ngoạn"
+  },
+  {
+      "id": "310005",
+      "name": "Herta - Thỏa Thuận Bổ Sung Aether"
+  },
+  {
+      "id": "310006",
+      "name": "Herta - Thoả Thuận Hỗ Trợ Nguyên Liệu"
+  },
+  {
+      "id": "310007",
+      "name": "Gói Khởi Hành \"Honkai"
+  },
+  {
+      "id": "310008",
+      "name": "Gói Khởi Hành \"Honkai"
+  },
+  {
+      "id": "310009",
+      "name": "Gói Đăng Nhập \"Honkai"
+  },
+  {
+      "id": "310010",
+      "name": "Herta - Thoả Thuận Hỗ Trợ Nguyên Liệu V2"
+  },
+  {
+      "id": "310011",
+      "name": "Herta - Thỏa Thuận Bổ Sung Du Ngoạn"
+  },
+  {
+      "id": "400004",
+      "name": "Thức Ăn No Nê"
+  },
+  {
+      "id": "400005",
+      "name": "Thức Ăn Trừng Phạt"
+  },
+  {
+      "id": "400006",
+      "name": "Món Ăn Tinh Xảo"
+  },
+  {
+      "id": "400007",
+      "name": "Máy Cấp Cứu Đơn Giản"
+  },
+  {
+      "id": "400008",
+      "name": "Trân Châu Trái Sao"
+  },
+  {
+      "id": "401003",
+      "name": "Cơm Chiên Đại Vũ Trụ"
+  },
+  {
+      "id": "401004",
+      "name": "Cơm Chiên Khó Ăn"
+  },
+  {
+      "id": "401005",
+      "name": "Năng Lượng Trừng Phạt"
+  },
+  {
+      "id": "401006",
+      "name": "Thức Uống Năng Lượng"
+  },
+  {
+      "id": "401007",
+      "name": "Máy Chuyển Sinh Mạng"
+  },
+  {
+      "id": "401008",
+      "name": "Nước Vui Vẻ Đóng Hộp"
+  },
+  {
+      "id": "401009",
+      "name": "Đồ Bảo Vệ Đơn Sơ"
+  },
+  {
+      "id": "401010",
+      "name": "Bông Lúa"
+  },
+  {
+      "id": "401011",
+      "name": "Sơn Ngụy Trang"
+  },
+  {
+      "id": "401012",
+      "name": "Cơm Rang Tốt Cho Sức Khỏe"
+  },
+  {
+      "id": "401013",
+      "name": "Găng Tay Thịnh Nộ"
+  },
+  {
+      "id": "401014",
+      "name": "Đùi Chim Shantak Quay Quả Mọng"
+  },
+  {
+      "id": "401015",
+      "name": "Trà Lửa Đậm Vị"
+  },
+  {
+      "id": "401016",
+      "name": "Bất Cầu Nhân"
+  },
+  {
+      "id": "401017",
+      "name": "Hải Quỳ Bay Chiên"
+  },
+  {
+      "id": "401018",
+      "name": "Hổ Phách Hoa Điêu"
+  },
+  {
+      "id": "401019",
+      "name": "Xíu Mại Ngon Lành"
+  },
+  {
+      "id": "401020",
+      "name": "Bánh Đậu Ngon Lành"
+  },
+  {
+      "id": "401021",
+      "name": "Pizza Đồng Hồ (Miếng)"
+  },
+  {
+      "id": "401022",
+      "name": "Lát Bánh \"Ngước Nhìn Trời Sao\""
+  },
+  {
+      "id": "401023",
+      "name": "Bánh Tart Chanh \"Quý Ngài Cá Trích\""
+  },
+  {
+      "id": "401024",
+      "name": "Kem Mứt Trăm Tầng (0 Calo)"
+  },
+  {
+      "id": "401025",
+      "name": "SoulGlad Kinh Điển"
+  },
+  {
+      "id": "401026",
+      "name": "Kẹo Dẻo \"Giấc Mơ Chua\""
+  },
+  {
+      "id": "401027",
+      "name": "Kẹo Thập Cẩm \"Giấc Mơ Muôn Màu\""
+  },
+  {
+      "id": "401028",
+      "name": "Tự Do Trong Khoảnh Khắc"
+  },
+  {
+      "id": "402001",
+      "name": "Thuốc Phun Hồi Phục"
+  },
+  {
+      "id": "402002",
+      "name": "Lá Chắn Dùng 1 Lần"
+  },
+  {
+      "id": "402003",
+      "name": "Thức Uống Năng Lượng (Không Đường)"
+  },
+  {
+      "id": "402004",
+      "name": "Máy Tạo Lực Trường Phản Vật Chất"
+  },
+  {
+      "id": "402005",
+      "name": "Đồ Bảo Vệ Công Nghệ Cao"
+  },
+  {
+      "id": "402006",
+      "name": "Đồ Bảo Vệ Kém Chất Lượng"
+  },
+  {
+      "id": "402007",
+      "name": "Xiên Que Ngon Lành"
+  },
+  {
+      "id": "402008",
+      "name": "Bụi Hối Hả"
+  },
+  {
+      "id": "402009",
+      "name": "Kem Cường Hóa"
+  },
+  {
+      "id": "402010",
+      "name": "Kem Cường Hóa"
+  },
+  {
+      "id": "402011",
+      "name": "Kem Cường Hóa"
+  },
+  {
+      "id": "402012",
+      "name": "Kem Cường Hóa"
+  },
+  {
+      "id": "402013",
+      "name": "Kem Cường Hóa"
+  },
+  {
+      "id": "402014",
+      "name": "Kem Cường Hóa"
+  },
+  {
+      "id": "402015",
+      "name": "Kem Cường Hóa"
+  },
+  {
+      "id": "402016",
+      "name": "Thuốc Gây Nôn"
+  },
+  {
+      "id": "402017",
+      "name": "Thuốc Ổn Áp"
+  },
+  {
+      "id": "402018",
+      "name": "Món Hầm Thập Cẩm Cánh Đồng Tuyết"
+  },
+  {
+      "id": "402019",
+      "name": "Máy Niệm Kinh"
+  },
+  {
+      "id": "402020",
+      "name": "Dịch Thể Ngọc Ngũ Cốc"
+  },
+  {
+      "id": "402021",
+      "name": "Thuốc Giải Độc Kỳ Hoàng"
+  },
+  {
+      "id": "402022",
+      "name": "Ngọc Tủy Phong Cốt Tán"
+  },
+  {
+      "id": "402023",
+      "name": "Thịt Gia Cầm Chiên Pom-Pom"
+  },
+  {
+      "id": "402024",
+      "name": "Nhi Đồng Hương Quýt Đan"
+  },
+  {
+      "id": "402025",
+      "name": "Salad Linh Lăng"
+  },
+  {
+      "id": "402026",
+      "name": "Khoảnh Khắc Phản Bội"
+  },
+  {
+      "id": "402027",
+      "name": "Hạnh Phúc Thoáng Qua"
+  },
+  {
+      "id": "402028",
+      "name": "Mây Đen Nghi Ngờ"
+  },
+  {
+      "id": "403001",
+      "name": "Cánh Tay Động Lực Dùng 1 Lần"
+  },
+  {
+      "id": "403002",
+      "name": "Thuốc Bột Ruby"
+  },
+  {
+      "id": "403003",
+      "name": "Bom Động Lực"
+  },
+  {
+      "id": "403004",
+      "name": "Bia Đá Everwinter"
+  },
+  {
+      "id": "403005",
+      "name": "Băng Gia Tốc Topology"
+  },
+  {
+      "id": "403006",
+      "name": "Vạn Thọ Vô Tình Đơn"
+  },
+  {
+      "id": "403007",
+      "name": "Thị Nhục Xào Đường Viên"
+  },
+  {
+      "id": "403008",
+      "name": "Cọc Người Gỗ Tự Động"
+  },
+  {
+      "id": "403009",
+      "name": "Giờ Phút Hấp Hối"
+  },
+  {
+      "id": "403010",
+      "name": "Bầu Không Khí Sôi Nổi"
+  },
+  {
+      "id": "403011",
+      "name": "null"
+  },
+  {
+      "id": "404004",
+      "name": "Công Thức"
+  },
+  {
+      "id": "404005",
+      "name": "Công Thức"
+  },
+  {
+      "id": "404006",
+      "name": "Công Thức"
+  },
+  {
+      "id": "404007",
+      "name": "Công Thức"
+  },
+  {
+      "id": "404008",
+      "name": "Công Thức"
+  },
+  {
+      "id": "405003",
+      "name": "Công Thức"
+  },
+  {
+      "id": "405004",
+      "name": "Công Thức"
+  },
+  {
+      "id": "405005",
+      "name": "Công Thức"
+  },
+  {
+      "id": "405006",
+      "name": "Công Thức"
+  },
+  {
+      "id": "405007",
+      "name": "Công Thức"
+  },
+  {
+      "id": "405008",
+      "name": "Công Thức"
+  },
+  {
+      "id": "405009",
+      "name": "Công Thức"
+  },
+  {
+      "id": "405010",
+      "name": "Công Thức"
+  },
+  {
+      "id": "405011",
+      "name": "Công Thức"
+  },
+  {
+      "id": "405012",
+      "name": "Công Thức"
+  },
+  {
+      "id": "405013",
+      "name": "Công Thức"
+  },
+  {
+      "id": "405014",
+      "name": "Công Thức"
+  },
+  {
+      "id": "405015",
+      "name": "Công Thức"
+  },
+  {
+      "id": "405016",
+      "name": "Công thức"
+  },
+  {
+      "id": "405017",
+      "name": "Công Thức"
+  },
+  {
+      "id": "405018",
+      "name": "Công Thức"
+  },
+  {
+      "id": "405019",
+      "name": "Công Thức"
+  },
+  {
+      "id": "405020",
+      "name": "Công Thức"
+  },
+  {
+      "id": "405021",
+      "name": "Công Thức"
+  },
+  {
+      "id": "405022",
+      "name": "Công Thức"
+  },
+  {
+      "id": "405023",
+      "name": "Công Thức"
+  },
+  {
+      "id": "405024",
+      "name": "Công Thức"
+  },
+  {
+      "id": "405025",
+      "name": "Công Thức"
+  },
+  {
+      "id": "405026",
+      "name": "Công Thức"
+  },
+  {
+      "id": "405027",
+      "name": "Công Thức"
+  },
+  {
+      "id": "405028",
+      "name": "Công Thức"
+  },
+  {
+      "id": "406001",
+      "name": "Công Thức"
+  },
+  {
+      "id": "406002",
+      "name": "Công Thức"
+  },
+  {
+      "id": "406003",
+      "name": "Công Thức"
+  },
+  {
+      "id": "406004",
+      "name": "Công Thức"
+  },
+  {
+      "id": "406005",
+      "name": "Công Thức"
+  },
+  {
+      "id": "406006",
+      "name": "Công Thức"
+  },
+  {
+      "id": "406007",
+      "name": "Công Thức"
+  },
+  {
+      "id": "406008",
+      "name": "Công Thức"
+  },
+  {
+      "id": "406009",
+      "name": "Công Thức"
+  },
+  {
+      "id": "406010",
+      "name": "Công Thức"
+  },
+  {
+      "id": "406011",
+      "name": "Công Thức"
+  },
+  {
+      "id": "406012",
+      "name": "Công Thức"
+  },
+  {
+      "id": "406013",
+      "name": "Công Thức"
+  },
+  {
+      "id": "406014",
+      "name": "Công Thức"
+  },
+  {
+      "id": "406015",
+      "name": "Công Thức"
+  },
+  {
+      "id": "406016",
+      "name": "Công Thức"
+  },
+  {
+      "id": "406017",
+      "name": "Công Thức"
+  },
+  {
+      "id": "406018",
+      "name": "Công Thức"
+  },
+  {
+      "id": "406019",
+      "name": "Công Thức"
+  },
+  {
+      "id": "406020",
+      "name": "Công Thức"
+  },
+  {
+      "id": "406021",
+      "name": "Công Thức"
+  },
+  {
+      "id": "406022",
+      "name": "Công Thức"
+  },
+  {
+      "id": "406023",
+      "name": "Công Thức"
+  },
+  {
+      "id": "406024",
+      "name": "Công Thức"
+  },
+  {
+      "id": "406025",
+      "name": "Công Thức"
+  },
+  {
+      "id": "406026",
+      "name": "Công Thức"
+  },
+  {
+      "id": "406027",
+      "name": "Công Thức"
+  },
+  {
+      "id": "406028",
+      "name": "Công Thức"
+  },
+  {
+      "id": "407001",
+      "name": "Công Thức"
+  },
+  {
+      "id": "407002",
+      "name": "Công Thức"
+  },
+  {
+      "id": "407003",
+      "name": "Công Thức"
+  },
+  {
+      "id": "407004",
+      "name": "Công Thức"
+  },
+  {
+      "id": "407005",
+      "name": "Công Thức"
+  },
+  {
+      "id": "407006",
+      "name": "Công Thức"
+  },
+  {
+      "id": "407007",
+      "name": "Công Thức"
+  },
+  {
+      "id": "407008",
+      "name": "Công Thức"
+  },
+  {
+      "id": "407009",
+      "name": "Công Thức"
+  },
+  {
+      "id": "407010",
+      "name": "Công Thức"
+  },
+  {
+      "id": "407011",
+      "name": "null"
+  },
+  {
+      "id": "408001",
+      "name": "Rác"
+  },
+  {
+      "id": "408002",
+      "name": "Rác Đẹp Đẽ"
+  },
+  {
+      "id": "408003",
+      "name": "Lòng Tự Trọng Của Thùng Rác"
+  },
+  {
+      "id": "408004",
+      "name": "Soda Bánh Mì Jim Roger"
+  },
+  {
+      "id": "408005",
+      "name": "Kapo-Kali"
+  },
+  {
+      "id": "408201",
+      "name": "Da Heo Cuốn"
+  },
+  {
+      "id": "408202",
+      "name": "Thịt Chim Xiên Berry"
+  },
+  {
+      "id": "408203",
+      "name": "Soda Đá Bào Bánh Mì Đen"
+  },
+  {
+      "id": "408204",
+      "name": "Xiên Que Nướng Đá Thơm Ngon"
+  },
+  {
+      "id": "408205",
+      "name": "Thẻ May Mắn Chiến Hạm"
+  },
+  {
+      "id": "408206",
+      "name": "Đại Hoàn Đan"
+  },
+  {
+      "id": "408207",
+      "name": "Tiểu Hoàn Đan"
+  },
+  {
+      "id": "408208",
+      "name": "Giấy Báo"
+  },
+  {
+      "id": "408401",
+      "name": "Khai Vị Cá Hồng"
+  },
+  {
+      "id": "408402",
+      "name": "Xiên Thịt Thằn Lằn Đá"
+  },
+  {
+      "id": "408403",
+      "name": "Canh Rau Dại"
+  },
+  {
+      "id": "408404",
+      "name": "Cua Đá Chiên"
+  },
+  {
+      "id": "408405",
+      "name": "Sữa Đậu Soda"
+  },
+  {
+      "id": "408406",
+      "name": "Suối Băng Lân Uyên"
+  },
+  {
+      "id": "408407",
+      "name": "Bánh Ngó Sen"
+  },
+  {
+      "id": "408408",
+      "name": "Sữa Dê Nóng"
+  },
+  {
+      "id": "408409",
+      "name": "Bánh Mì Cá Hồi Tuyết"
+  },
+  {
+      "id": "408410",
+      "name": "Soda Giấc Mơ Ngọt Ngào"
+  },
+  {
+      "id": "408411",
+      "name": "Nấm Thủy Lôi"
+  },
+  {
+      "id": "408412",
+      "name": "Đèn Khẩn Cấp Năng Lượng Tự Nhiên"
+  },
+  {
+      "id": "408413",
+      "name": "Phất Trần Thanh Tẩy"
+  },
+  {
+      "id": "408414",
+      "name": "Canh Vi Sinh Phù Dương"
+  },
+  {
+      "id": "408415",
+      "name": "Bỏng Ngô"
+  },
+  {
+      "id": "408416",
+      "name": "Thèm Ăn Như Sấm Vọng"
+  },
+  {
+      "id": "408417",
+      "name": "Hướng Về Tương Lai Tươi Đẹp"
+  },
+  {
+      "id": "408418",
+      "name": "Siro Mộng Đẹp"
+  },
+  {
+      "id": "408419",
+      "name": "null"
+  },
+  {
+      "id": "408420",
+      "name": "null"
+  },
+  {
+      "id": "408421",
+      "name": "null"
+  },
+  {
+      "id": "408422",
+      "name": "null"
+  },
+  {
+      "id": "408601",
+      "name": "Xúc Xích Belobog"
+  },
+  {
+      "id": "408602",
+      "name": "Manh Giông Nướng Đá"
+  },
+  {
+      "id": "408603",
+      "name": "Trà Tiên Nhân Vui Vẻ"
+  },
+  {
+      "id": "408604",
+      "name": "Dưỡng Tâm Phản Hồn Đơn"
+  },
+  {
+      "id": "408605",
+      "name": "Nội Tạng Bò Dầu Ớt Đặc Sản"
+  },
+  {
+      "id": "408606",
+      "name": "Bánh Kếp Mặt Trời"
+  },
+  {
+      "id": "408607",
+      "name": "Búa Yên Giấc"
+  },
+  {
+      "id": "408608",
+      "name": "Viên Miso Sắc Mây"
+  },
+  {
+      "id": "408609",
+      "name": "Burger Đĩa Bay"
+  },
+  {
+      "id": "408610",
+      "name": "Pizza Đồng Hồ (Cả Cái)"
+  },
+  {
+      "id": "408611",
+      "name": "Kem Khoai Tây Chiên"
+  },
+  {
+      "id": "408612",
+      "name": "Bông Lan Cuộn Gỗ Sồi"
+  },
+  {
+      "id": "408613",
+      "name": "Soda Nho Trắng Sủi Bọt"
+  },
+  {
+      "id": "408614",
+      "name": "Ánh Mắt Hung Thủ"
+  },
+  {
+      "id": "408615",
+      "name": "Mối Thù Đến Chết Không Phai"
+  },
+  {
+      "id": "408616",
+      "name": "Kiên Nhẫn Vĩnh Cửu"
+  },
+  {
+      "id": "408617",
+      "name": "Lông Vũ Quyết Đấu"
+  },
+  {
+      "id": "408618",
+      "name": "Trang Phục Hủy Diệt"
+  },
+  {
+      "id": "408619",
+      "name": "Mũ Trùm Hoang Dã"
+  },
+  {
+      "id": "408620",
+      "name": "Thức Uống Đặc Sắc Thị Trấn Mộng Đẹp"
+  },
+  {
+      "id": "408621",
+      "name": "Vé Tán Xạ Mộng Đẹp"
+  },
+  {
+      "id": "408622",
+      "name": "Kẹo Dẻo Kỳ Lạ"
+  },
+  {
+      "id": "408623",
+      "name": "Gia Đình Gấp Giấy"
+  },
+  {
+      "id": "408624",
+      "name": "null"
+  },
+  {
+      "id": "408625",
+      "name": "null"
+  },
+  {
+      "id": "408626",
+      "name": "null"
+  },
+  {
+      "id": "408627",
+      "name": "null"
+  },
+  {
+      "id": "408801",
+      "name": "Kem Ốc Quế Mộng Mơ (Ba Mùi)"
+  },
+  {
+      "id": "408802",
+      "name": "Liều Một Phen"
+  }
+]

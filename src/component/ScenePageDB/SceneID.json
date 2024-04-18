@@ -1,0 +1,686 @@
+[
+    {
+        "id": "10000",
+        "name": "[Train] Toa Tàu Mui Trần"
+    },
+    {
+        "id": "10001",
+        "name": "[Town] Khoang Điều Khiển Chính"
+    },
+    {
+        "id": "10101",
+        "name": "[Town] Khu Hành Chính"
+    },
+    {
+        "id": "10102",
+        "name": "[Town] Thị Trấn Boulder"
+    },
+    {
+        "id": "10201",
+        "name": "[Town] Trung Tâm Biển Thuyền Sao"
+    },
+    {
+        "id": "10202",
+        "name": "[Town] Trường Lạc Thiên"
+    },
+    {
+        "id": "10301",
+        "name": "[Town] Thời Khắc Hoàng Kim"
+    },
+    {
+        "id": "10304",
+        "name": "[Town] null"
+    },
+    {
+        "id": "10305",
+        "name": "[Town] Khách Sạn Mộng Mơ - Hiện Thực"
+    },
+    {
+        "id": "20001",
+        "name": "[Maze] Khoang Cơ Sở"
+    },
+    {
+        "id": "20002",
+        "name": "[Maze] Khoang Thu Dung"
+    },
+    {
+        "id": "20003",
+        "name": "[Maze] Khoang Chi Viện"
+    },
+    {
+        "id": "20004",
+        "name": "[Maze] Khoang Cách Ly"
+    },
+    {
+        "id": "20100",
+        "name": "[Raid] Không Gian Vận Mệnh"
+    },
+    {
+        "id": "20101",
+        "name": "[Maze] Cánh Đồng Tuyết Ngoại Thành"
+    },
+    {
+        "id": "20111",
+        "name": "[Maze] Lằn Ranh"
+    },
+    {
+        "id": "20121",
+        "name": "[Maze] Khu Mỏ Khổng Lồ"
+    },
+    {
+        "id": "20122",
+        "name": "[Maze] Thị Trấn Rivet"
+    },
+    {
+        "id": "20123",
+        "name": "[Maze] Trụ Sở Máy Móc"
+    },
+    {
+        "id": "20131",
+        "name": "[Maze] Cấm Địa Thiết Vệ"
+    },
+    {
+        "id": "20132",
+        "name": "[Maze] Hành Lang Âm Vang"
+    },
+    {
+        "id": "20133",
+        "name": "[Raid] Dãy Everwinter"
+    },
+    {
+        "id": "20134",
+        "name": "[Maze] Dãy Everwinter"
+    },
+    {
+        "id": "20135",
+        "name": "[Maze] Trụ Cột Tạo Vật"
+    },
+    {
+        "id": "20136",
+        "name": "[Maze] Khu Thí Nghiệm Vũ Khí Cũ"
+    },
+    {
+        "id": "20211",
+        "name": "[Maze] Cảng Lưu Vân"
+    },
+    {
+        "id": "20212",
+        "name": "[Maze] Bến Cảng Sao Xoay"
+    },
+    {
+        "id": "20213",
+        "name": "[Raid] Cảng Lưu Vân"
+    },
+    {
+        "id": "20214",
+        "name": "[Raid] Toa Tàu Mui Trần"
+    },
+    {
+        "id": "20221",
+        "name": "[Maze] Sở Thiên Tượng"
+    },
+    {
+        "id": "20222",
+        "name": "[Maze] Sở Công Nghiệp"
+    },
+    {
+        "id": "20223",
+        "name": "[Maze] Khu Vườn Tĩnh Mịch"
+    },
+    {
+        "id": "20231",
+        "name": "[Maze] Sở Đan Đỉnh"
+    },
+    {
+        "id": "20232",
+        "name": "[Maze] Lân Uyên Cảnh"
+    },
+    {
+        "id": "20233",
+        "name": "[Maze] Gốc Rễ Cây Kiến Tạo"
+    },
+    {
+        "id": "20311",
+        "name": "[Maze] Khách Sạn Mộng Mơ - Cõi Mộng"
+    },
+    {
+        "id": "20312",
+        "name": "[Maze] Giấc Mơ Trẻ Thơ"
+    },
+    {
+        "id": "20313",
+        "name": "[Maze] Ranh Giới Xây Mộng"
+    },
+    {
+        "id": "20321",
+        "name": "[Maze] Khu Vui Chơi Clock Studios"
+    },
+    {
+        "id": "20322",
+        "name": "[Maze] Dinh Thự Sương Mai"
+    },
+    {
+        "id": "20323",
+        "name": "[Maze] Chân Trời Tồn Tại"
+    },
+    {
+        "id": "20331",
+        "name": "[Maze] null"
+    },
+    {
+        "id": "20332",
+        "name": "[Maze] null"
+    },
+    {
+        "id": "30101",
+        "name": "[Challenge] null"
+    },
+    {
+        "id": "30102",
+        "name": "[Challenge] null"
+    },
+    {
+        "id": "30103",
+        "name": "[Challenge] null"
+    },
+    {
+        "id": "30104",
+        "name": "[Challenge] null"
+    },
+    {
+        "id": "30105",
+        "name": "[Challenge] null"
+    },
+    {
+        "id": "30120",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "30121",
+        "name": "[Challenge] null"
+    },
+    {
+        "id": "30122",
+        "name": "[Challenge] null"
+    },
+    {
+        "id": "30123",
+        "name": "[Challenge] null"
+    },
+    {
+        "id": "30201",
+        "name": "[Raid] Hang Động Xâm Thực"
+    },
+    {
+        "id": "30301",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "30401",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "30500",
+        "name": "[TrialActivity] null"
+    },
+    {
+        "id": "30501",
+        "name": "[TrialActivity] null"
+    },
+    {
+        "id": "30502",
+        "name": "[TrialActivity] null"
+    },
+    {
+        "id": "30521",
+        "name": "[TrialActivity] null"
+    },
+    {
+        "id": "40000",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "40002",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "40003",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "40101",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "40111",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "40121",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "40122",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "40123",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "40131",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "40211",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "40212",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "40221",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "40222",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "40231",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "40232",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "40233",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "40312",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "41000",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "41007",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "41008",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "41009",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "41010",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "41011",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "41012",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "41221",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "42221",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "43001",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "43002",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "43003",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "43004",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "43101",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "43102",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "43103",
+        "name": "[AetherDivide] null"
+    },
+    {
+        "id": "43104",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "43201",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "43202",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "43203",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "43204",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "43205",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "43206",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "43207",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "43208",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "43209",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "43210",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "43211",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "43212",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "43213",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "43214",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "43215",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "43216",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "43217",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "43218",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "43301",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "43302",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "43303",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "43304",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "43305",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "43306",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "43307",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "43308",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "43310",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "43312",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "43313",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "43321",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "43322",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "44001",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "44201",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "44202",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "44301",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "44302",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "44303",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "44305",
+        "name": "[Raid] null"
+    },
+    {
+        "id": "80000",
+        "name": "[Rogue] ???"
+    },
+    {
+        "id": "80001",
+        "name": "[Rogue] Vũ Trụ Mô Phỏng"
+    },
+    {
+        "id": "80112",
+        "name": "[Town] Văn Phòng Của Herta"
+    },
+    {
+        "id": "80200",
+        "name": "[Rogue] Vũ Trụ Mô Phỏng"
+    },
+    {
+        "id": "80201",
+        "name": "[Rogue] Vũ Trụ Mô Phỏng"
+    },
+    {
+        "id": "80202",
+        "name": "[Rogue] Vũ Trụ Mô Phỏng"
+    },
+    {
+        "id": "80203",
+        "name": "[Rogue] Vũ Trụ Mô Phỏng"
+    },
+    {
+        "id": "80204",
+        "name": "[Rogue] Vũ Trụ Mô Phỏng"
+    },
+    {
+        "id": "80205",
+        "name": "[Rogue] Vũ Trụ Mô Phỏng"
+    },
+    {
+        "id": "80206",
+        "name": "[Rogue] Vũ Trụ Mô Phỏng"
+    },
+    {
+        "id": "80207",
+        "name": "[Rogue] Vũ Trụ Mô Phỏng"
+    },
+    {
+        "id": "80208",
+        "name": "[Rogue] Vũ Trụ Mô Phỏng"
+    },
+    {
+        "id": "80209",
+        "name": "[Rogue] Vũ Trụ Mô Phỏng"
+    },
+    {
+        "id": "80210",
+        "name": "[Rogue] Vũ Trụ Mô Phỏng"
+    },
+    {
+        "id": "80211",
+        "name": "[Rogue] Vũ Trụ Mô Phỏng"
+    },
+    {
+        "id": "80301",
+        "name": "[Rogue] Vũ Trụ Mô Phỏng"
+    },
+    {
+        "id": "80302",
+        "name": "[Rogue] Vũ Trụ Mô Phỏng"
+    },
+    {
+        "id": "80303",
+        "name": "[Rogue] Vũ Trụ Mô Phỏng"
+    },
+    {
+        "id": "80304",
+        "name": "[Rogue] Vũ Trụ Mô Phỏng"
+    },
+    {
+        "id": "80305",
+        "name": "[Rogue] Vũ Trụ Mô Phỏng"
+    },
+    {
+        "id": "81001",
+        "name": "[Rogue] Vũ Trụ Mô Phỏng"
+    },
+    {
+        "id": "81002",
+        "name": "[Rogue] Vũ Trụ Mô Phỏng"
+    },
+    {
+        "id": "81003",
+        "name": "[Rogue] Vũ Trụ Mô Phỏng"
+    },
+    {
+        "id": "81004",
+        "name": "[Rogue] Vũ Trụ Mô Phỏng"
+    },
+    {
+        "id": "81111",
+        "name": "[Rogue] Vũ Trụ Mô Phỏng"
+    },
+    {
+        "id": "81121",
+        "name": "[Rogue] Vũ Trụ Mô Phỏng"
+    },
+    {
+        "id": "81122",
+        "name": "[Rogue] Vũ Trụ Mô Phỏng"
+    },
+    {
+        "id": "81123",
+        "name": "[Rogue] Vũ Trụ Mô Phỏng"
+    },
+    {
+        "id": "81131",
+        "name": "[Rogue] Vũ Trụ Mô Phỏng"
+    },
+    {
+        "id": "81132",
+        "name": "[Rogue] Vũ Trụ Mô Phỏng"
+    },
+    {
+        "id": "81211",
+        "name": "[Rogue] Vũ Trụ Mô Phỏng"
+    },
+    {
+        "id": "81212",
+        "name": "[Rogue] Vũ Trụ Mô Phỏng"
+    },
+    {
+        "id": "81221",
+        "name": "[Rogue] Vũ Trụ Mô Phỏng"
+    },
+    {
+        "id": "81222",
+        "name": "[Rogue] Vũ Trụ Mô Phỏng"
+    },
+    {
+        "id": "81223",
+        "name": "[Rogue] Vũ Trụ Mô Phỏng"
+    },
+    {
+        "id": "81231",
+        "name": "[Rogue] Vũ Trụ Mô Phỏng"
+    },
+    {
+        "id": "81232",
+        "name": "[Rogue] Vũ Trụ Mô Phỏng"
+    },
+    {
+        "id": "81311",
+        "name": "[Rogue] Vũ Trụ Mô Phỏng"
+    },
+    {
+        "id": "81312",
+        "name": "[Rogue] Vũ Trụ Mô Phỏng"
+    },
+    {
+        "id": "81313",
+        "name": "[Rogue] Vũ Trụ Mô Phỏng"
+    }
+]
