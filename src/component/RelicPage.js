@@ -18,6 +18,7 @@ function RelicPage() {
   const [level3, setLevel3] = useState(1);
   const [level4, setLevel4] = useState(1);
   const [level5, setLevel5] = useState(1);
+  const [select1Selected, setSelect1Selected] = useState(false);
 
   const inputRef5 = useRef(null);
   const handleInputClick5 = () => {
@@ -62,8 +63,11 @@ function RelicPage() {
   const handleChange = (selectedOption) => {
     setSelectedOption(selectedOption);
     updateSubOptions(selectedOption);
-    setSelectedSubOption(null); // Reset selected sub option khi chọn một option mới
+    setSelectedSubOption(null);
+    setSelect1Selected(true); // Reset selected sub option khi chọn một option mới
   };
+
+  const isSelect2Disabled = !select1Selected || !selectedOption;
 
   const handleSelectChange2 = (selectedOption2) => {
     setSelectedOption2(selectedOption2);
@@ -165,7 +169,7 @@ function RelicPage() {
           placeholder="Chọn một"
           isClearable={true}
         />
-      </div>
+      </div><br/>
 
 
         <div style={{ width: '20%' }}>
@@ -175,6 +179,7 @@ function RelicPage() {
             placeholder="Chọn một"
             isClearable={true}
             onChange={handleSubOptionChange}
+            isDisabled={isSelect2Disabled}
           />
           <br/>
         </div>
